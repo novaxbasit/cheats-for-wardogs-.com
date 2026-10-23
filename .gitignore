@@ -25,7 +25,6 @@ pnpm-debug.log*
 
 # local SEO audit outputs (not part of the site)
 part14-*
-part15-pseo-urls.json
 
 # Cursor editor rules (local conversion notes)
 .cursor/
@@ -36,4 +35,3 @@ lh-*.json
 lh-tmp.json
 cwv-*.json
 lh-q*.png
-scripts/part12/.cache/

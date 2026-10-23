@@ -70,7 +70,7 @@ const relatedPosts = [
             </div>
             <div class="forum-detail-content">
               <div class="forum-post-meta"><span class={`forum-community-avatar tone-${post.categoryTone}`}><Icon name="users" size={15} /></span><a href={lp('/forum/')} class="forum-community-name">d/{post.category.toLowerCase().replaceAll(' ', '')}</a><span>·</span><span><Icon name="userRound" size={13} /> {f.guideTeam}</span><span>{f.guideBasedQa}</span></div>
-              <h1>{post.title}</h1>
+              <h1 class="text-foreground">{post.title}</h1>
               <span class="forum-flair">{f.closedThread}</span>
               <span class="forum-flair">{f.closedBy}</span>
               {post.flair && <span class={`forum-flair tone-${post.categoryTone}`}>{post.flair}</span>}

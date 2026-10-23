@@ -12,7 +12,8 @@
     "start": "node scripts/serve.mjs",
     "test:local-hosts": "node --test scripts/local-preview-host.test.mjs",
     "astro": "astro",
-    "optimize:images": "node scripts/optimize-images.mjs"
+    "optimize:images": "node scripts/optimize-images.mjs",
+    "brand:assets": "node scripts/generate-brand-assets.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",

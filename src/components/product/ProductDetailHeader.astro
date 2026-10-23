@@ -19,6 +19,6 @@ const isGameProduct = product.kind === 'tier';
     {isGameProduct && <Badge variant="outline">{GAME.shortName}</Badge>}
     {product.category && !isGameProduct && <Badge variant="outline">{product.category}</Badge>}
   </div>
-  <h1 class="max-w-3xl text-3xl font-bold normal-case leading-tight md:text-4xl">{product.title}</h1>
+  <h1 class="max-w-3xl text-3xl font-bold normal-case leading-tight text-foreground md:text-4xl">{product.title}</h1>
   <p class="max-w-2xl text-lg leading-relaxed text-muted-foreground">{product.subtitle || product.desc}</p>
 </header>

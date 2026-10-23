@@ -150,12 +150,21 @@ html::-webkit-scrollbar,
 
 }
 
-#hero #hero-title .hero-title-accent {
-  color: var(--primary-text);
+/* Page hero H1s: full title one color (accent spans match the lead text). */
+:is(
+  #hero #hero-title,
+  .catalog-hero h1,
+  h1.section-header__title,
+  .forum-hero h1,
+  .forum-detail-content h1,
+  .product-detail-header h1,
+  .blog-article__title
+) {
+  color: var(--foreground);
 }
 
-html.dark #hero #hero-title .hero-title-accent {
-  color: var(--primary);
+:is(#hero #hero-title .hero-title-accent, .forum-hero h1 span) {
+  color: inherit;
 }
 
 /* Lucide icons via Icon.astro: white in dark mode; muted + primary accents in light */
