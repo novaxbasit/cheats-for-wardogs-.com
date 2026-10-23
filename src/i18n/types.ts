@@ -13,6 +13,8 @@ export interface NavLink {
   label: string;
   /** Shorter label for the desktop header when translations run long. */
   shortLabel?: string;
+  /** Mobile sheet menu label; defaults to `label` when omitted. */
+  sheetLabel?: string;
   ariaLabel?: string;
   /** When the target section exists on the current page, scroll instead of navigating. */
   scrollTarget?: string;
@@ -261,6 +263,7 @@ export interface Translations {
     items: FaqItem[];
   };
   footer: {
+    homeLink: string;
     tagline: string;
     /** `{game}` is replaced by a link to the official Wardogs site. */
     trademark: string;

@@ -10,34 +10,39 @@
       "id": "products",
       "href": "/products/",
       "label": "Produkte",
-      "shortLabel": "Produkte"
+      "shortLabel": "Produkte",
+      "sheetLabel": "Produkte ansehen"
     },
     {
       "id": "blog",
       "href": "/blog/",
-      "label": "Blog"
+      "label": "Blog",
+      "sheetLabel": "Blog lesen"
     },
     {
       "id": "forum",
       "href": "/forum/",
-      "label": "Forum"
+      "label": "Forum",
+      "sheetLabel": "Forum oeffnen"
     },
     {
       "id": "faq",
       "href": "/faq/",
-      "label": "FAQ"
+      "label": "FAQ",
+      "sheetLabel": "Fragen vor dem Kauf"
     },
     {
       "id": "support",
       "href": "/support/",
-      "label": "Unterstützung"
+      "label": "Unterstützung",
+      "sheetLabel": "Support kontaktieren"
     }
   ],
   "hero": {
     "status": "Wardogs, Patch-Build online",
     "eyebrow": "Nr. 1 CHEATS-ANBIETER",
     "titleLead": "Wardogs ",
-    "titleAccent": "Cheats",
+    "titleAccent": "Cheats fuer PC",
     "subtitle": "Spieler-ESP, Aimbot und Radar fuer Wardogs unter Windows. Produkte unten vergleichen: Module und Monats- oder Lifetime-Tarife vor dem Kauf.",
     "ctaPrimary": "Produkte ansehen",
     "metrics": [
@@ -647,6 +652,7 @@
     ]
   },
   "footer": {
+    "homeLink": "Startseite",
     "tagline": "Wardogs-Cheats mit Aimbot, Player ESP und Radar für PC. {siteDomain}",
     "trademark": "{game} ist eine Marke von {gamePublisher}. {siteDomain} ist nicht mit {gamePublisher} verbunden oder wird von {gamePublisher} unterstützt.",
     "explore": "Erkunden",
@@ -667,37 +673,37 @@
       {
         "id": "products",
         "href": "/cheats/",
-        "label": "{cheatProduct}",
+        "label": "Cheat-Tarife und Module",
         "ariaLabel": "{cheatProduct}"
       },
       {
         "id": "hwidSpoofer",
         "href": "/hwid-spoofer/",
-        "label": "HWID-Spoofer",
+        "label": "HWID-Spoofer fuer PC",
         "ariaLabel": "HWID-Spoofer"
       },
       {
         "id": "products",
         "href": "/ugc/",
-        "label": "UGC",
+        "label": "UGC-Kontowiederherstellung",
         "ariaLabel": "Wiederherstellung des UGC-Kontos"
       },
       {
         "id": "products",
         "href": "/skin-changer/",
-        "label": "Hautveränderer",
+        "label": "Client-Skin-Optionen",
         "ariaLabel": "Hautveränderer"
       },
       {
         "id": "blog",
         "href": "/blog/",
-        "label": "Blog",
+        "label": "Anleitungen und Artikel",
         "ariaLabel": "Blog"
       },
       {
         "id": "forum",
         "href": "/forum/",
-        "label": "Forum",
+        "label": "Community-Forum",
         "ariaLabel": "Forum"
       }
     ],

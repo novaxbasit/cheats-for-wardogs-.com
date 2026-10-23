@@ -10,34 +10,39 @@
       "id": "products",
       "href": "/products/",
       "label": "Productos",
-      "shortLabel": "Productos"
+      "shortLabel": "Productos",
+      "sheetLabel": "Ver productos"
     },
     {
       "id": "blog",
       "href": "/blog/",
-      "label": "Blog"
+      "label": "Blog",
+      "sheetLabel": "Leer el blog"
     },
     {
       "id": "forum",
       "href": "/forum/",
-      "label": "Foro"
+      "label": "Foro",
+      "sheetLabel": "Abrir el foro"
     },
     {
       "id": "faq",
       "href": "/faq/",
-      "label": "Preguntas frecuentes"
+      "label": "Preguntas frecuentes",
+      "sheetLabel": "Preguntas antes de comprar"
     },
     {
       "id": "support",
       "href": "/support/",
-      "label": "Apoyo"
+      "label": "Apoyo",
+      "sheetLabel": "Contactar soporte"
     }
   ],
   "hero": {
     "status": "Wardogs, compilación de parches en línea",
     "eyebrow": "PROVEEDOR DE TRUCOS #1",
-    "titleLead": "Trucos ",
-    "titleAccent": "Wardogs",
+    "titleLead": "Trucos de ",
+    "titleAccent": "Wardogs en PC",
     "subtitle": "ESP de jugadores, aimbot y radar para Wardogs en Windows. Mira los productos abajo para comparar modulos y planes mensuales o de por vida antes del pago.",
     "ctaPrimary": "Ver productos",
     "metrics": [
@@ -647,6 +652,7 @@
     ]
   },
   "footer": {
+    "homeLink": "Inicio del sitio",
     "tagline": "Trucos de Wardogs con aimbot, player ESP y radar para PC. {siteDomain}",
     "trademark": "{game} es una marca comercial de {gamePublisher}. {siteDomain} no está afiliado ni respaldado por {gamePublisher}.",
     "explore": "Explorar",
@@ -667,37 +673,37 @@
       {
         "id": "products",
         "href": "/cheats/",
-        "label": "{cheatProduct}",
+        "label": "Planes y modulos del cheat",
         "ariaLabel": "{cheatProduct}"
       },
       {
         "id": "hwidSpoofer",
         "href": "/hwid-spoofer/",
-        "label": "Falsificador de HWID",
+        "label": "Spoofer HWID para PC",
         "ariaLabel": "Falsificador de HWID"
       },
       {
         "id": "products",
         "href": "/ugc/",
-        "label": "CGU",
+        "label": "Recuperacion de cuenta UGC",
         "ariaLabel": "Recuperación de cuenta UGC"
       },
       {
         "id": "products",
         "href": "/skin-changer/",
-        "label": "Cambiador de piel",
+        "label": "Opciones de skins en cliente",
         "ariaLabel": "Cambiador de piel"
       },
       {
         "id": "blog",
         "href": "/blog/",
-        "label": "Blog",
+        "label": "Guias y articulos",
         "ariaLabel": "Blog"
       },
       {
         "id": "forum",
         "href": "/forum/",
-        "label": "Foro",
+        "label": "Foro de la comunidad",
         "ariaLabel": "Foro"
       }
     ],

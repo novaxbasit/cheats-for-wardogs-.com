@@ -38,11 +38,11 @@
   max-width: 40rem;
   font-size: 0.875rem;
   line-height: 1.6;
-  color: rgb(115 115 115);
+  color: var(--muted-foreground);
 }
 
 html.dark .section-header__subtitle {
-  color: rgb(163 163 163);
+  color: var(--muted-foreground);
 }
 
 @media (min-width: 1024px) {
@@ -155,7 +155,7 @@ html::-webkit-scrollbar,
 }
 
 html.dark #hero #hero-title .hero-title-accent {
-  color: var(--primary-accent);
+  color: var(--primary);
 }
 
 /* Lucide icons via Icon.astro: white in dark mode; muted + primary accents in light */
@@ -632,16 +632,16 @@ html:not(.dark) .deployment-steps-line--base {
 }
 
 html:not(.dark) .deployment-step-title {
-  color: #1f2937;
+  color: #0c0616;
 }
 
 html:not(.dark) .deployment-cta-secondary {
-  background: #e8e6e1;
-  color: #1a1a1a;
+  background: #e8e3ee;
+  color: #0c0616;
 }
 
 html:not(.dark) .deployment-cta-secondary:hover {
-  background: color-mix(in oklch, #e8e6e1 88%, #000000);
+  background: color-mix(in oklch, #ada2b9 88%, #0c0616);
 }
 
 #why-us .why-compare-us-card .why-compare-card-head [data-slot='card-title'],

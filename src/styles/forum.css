@@ -26,7 +26,7 @@
 .forum-post-card__body { min-width:0; padding:.9rem 1rem .8rem; }
 .forum-post-meta { display:flex; align-items:center; flex-wrap:wrap; gap:.4rem; color:var(--muted-foreground); font-size:.7rem; }
 .forum-community-avatar { display:inline-flex; align-items:center; justify-content:center; flex:0 0 auto; width:1.7rem; height:1.7rem; border:1px solid var(--border); border-radius:50%; color:white; font-weight:800; font-family:var(--font-heading); }
-.tone-purple { background:linear-gradient(145deg,#9a62f2,#5f2cae); }.tone-blue { background:linear-gradient(145deg,#52a8ea,#2461a0); }.tone-green { background:linear-gradient(145deg,#4fc88c,#217d59); }.tone-orange { background:linear-gradient(145deg,#f0a04d,#b95724); }
+.tone-purple { background:linear-gradient(145deg,#79629b,#3c2a5a); }.tone-blue { background:linear-gradient(145deg,#52a8ea,#2461a0); }.tone-green { background:linear-gradient(145deg,#4fc88c,#217d59); }.tone-orange { background:linear-gradient(145deg,#f0a04d,#b95724); }
 .forum-community-name { color:var(--foreground); font-weight:800; }
 .forum-community-name:hover { text-decoration:underline; }
 .forum-post-title { display:block; margin:.55rem 0 .3rem; color:var(--foreground); font-size:1.22rem; font-weight:700; line-height:1.25; }
@@ -40,7 +40,7 @@
 .forum-flair.tone-blue { color:#68b9f5;background:color-mix(in oklch,#2686d5 15%,transparent) }.forum-flair.tone-orange { color:#f3a85e;background:color-mix(in oklch,#d97536 15%,transparent) }.forum-flair.tone-green { color:#58ce91;background:color-mix(in oklch,#29a66c 15%,transparent) }
 .forum-sidebar { display:grid; gap:.75rem; }
 .forum-side-card { overflow:hidden; border:1px solid var(--border); border-radius:var(--radius-xl); background:color-mix(in oklch,var(--card) 96%,transparent); }
-.forum-side-card__banner { height:3.3rem; background:linear-gradient(105deg,#45236b,#7f3dee 55%,#3c255d); }
+.forum-side-card__banner { height:3.3rem; background:linear-gradient(105deg,#3c2a5a,#79629b 55%,#5e5070); }
 .forum-about__content { padding:0 1rem 1rem; }
 .forum-about__title { display:flex; align-items:center; gap:.55rem; margin-top:-.85rem; }
 .forum-about__title .forum-community-avatar { width:2.6rem; height:2.6rem; border:3px solid var(--card); font-size:1.2rem; }

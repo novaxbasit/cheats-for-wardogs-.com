@@ -10,7 +10,7 @@ export const GAME = {
   shortName: 'Wardogs',
   publisher: '',
   antiCheat: '',
-  officialUrl: '',
+  officialUrl: 'https://www.wardogs.com/',
 } as const;
 
 /** Display name of the main cheat product, used in menus, cards and comparison headers. */

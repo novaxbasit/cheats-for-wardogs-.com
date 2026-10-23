@@ -249,11 +249,6 @@
   color: var(--primary-text);
 }
 
-/* 10px label sits on a tinted surface. #9d5cff is 4.21:1 there; this clears 4.5:1. */
-html.dark .product-experience__step-num {
-  color: #ab74ff;
-}
-
 .product-experience__step-title {
   margin: 0.15rem 0 0;
   font-size: 0.9375rem;

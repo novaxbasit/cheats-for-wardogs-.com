@@ -114,7 +114,7 @@ function readHtml(rel) {
 }
 
 const corePages = [
-  { path: '/', title: 'Wardogs Cheats | Aimbot, ESP and Radar on PC', h1: 'Wardogs Cheats' },
+  { path: '/', title: 'Wardogs Cheats | Aimbot, ESP and Radar on PC', h1: 'Wardogs Cheats for PC' },
   {
     path: '/cheats/',
     title: 'Wardogs Hacks | Menu Modules and Checkout Plans',

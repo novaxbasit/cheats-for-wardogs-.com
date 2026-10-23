@@ -121,7 +121,7 @@ const purchaseUrl = PRIMARY_CHECKOUT_PATH;
                   {...(link.scrollTarget ? { 'data-scroll-target': link.scrollTarget } : {})}
                 >
                   <Icon name={navIcons[link.id] ?? 'navFeatures'} size={16} />
-                  {link.label}
+                  {link.sheetLabel ?? link.label}
                 </a>
               ))}
             </nav>

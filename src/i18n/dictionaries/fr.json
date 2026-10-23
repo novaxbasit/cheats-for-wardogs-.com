@@ -10,34 +10,39 @@
       "id": "products",
       "href": "/products/",
       "label": "Produits",
-      "shortLabel": "Produits"
+      "shortLabel": "Produits",
+      "sheetLabel": "Parcourir les produits"
     },
     {
       "id": "blog",
       "href": "/blog/",
-      "label": "Blog"
+      "label": "Blog",
+      "sheetLabel": "Lire le blog"
     },
     {
       "id": "forum",
       "href": "/forum/",
-      "label": "Forum"
+      "label": "Forum",
+      "sheetLabel": "Ouvrir le forum"
     },
     {
       "id": "faq",
       "href": "/faq/",
-      "label": "FAQ"
+      "label": "FAQ",
+      "sheetLabel": "Questions avant achat"
     },
     {
       "id": "support",
       "href": "/support/",
-      "label": "Support"
+      "label": "Support",
+      "sheetLabel": "Contacter le support"
     }
   ],
   "hero": {
     "status": "Wardogs, création de correctifs en ligne",
     "eyebrow": "FOURNISSEUR DE CHEATS N°1",
     "titleLead": "Cheats ",
-    "titleAccent": "Wardogs",
+    "titleAccent": "Wardogs sur PC",
     "subtitle": "ESP joueur, aimbot et radar pour Wardogs sous Windows. Parcourez les produits ci-dessous pour comparer modules et offres mensuelles ou a vie avant paiement.",
     "ctaPrimary": "Voir les produits",
     "metrics": [
@@ -647,6 +652,7 @@
     ]
   },
   "footer": {
+    "homeLink": "Accueil du site",
     "tagline": "Wardogs triche avec aimbot, joueur ESP et radar pour PC. {siteDomain}",
     "trademark": "{game} est une marque commerciale de {gamePublisher}. {siteDomain} n'est ni affilié ni approuvé par {gamePublisher}.",
     "explore": "Explorer",
@@ -667,37 +673,37 @@
       {
         "id": "products",
         "href": "/cheats/",
-        "label": "{cheatProduct}",
+        "label": "Offres et modules cheat",
         "ariaLabel": "{cheatProduct}"
       },
       {
         "id": "hwidSpoofer",
         "href": "/hwid-spoofer/",
-        "label": "Spoofer HWID",
+        "label": "Spoofer HWID pour PC",
         "ariaLabel": "Spoofer HWID"
       },
       {
         "id": "products",
         "href": "/ugc/",
-        "label": "CGU",
+        "label": "Recuperation de compte UGC",
         "ariaLabel": "Récupération de compte UGC"
       },
       {
         "id": "products",
         "href": "/skin-changer/",
-        "label": "Changeur de peau",
+        "label": "Options skins client",
         "ariaLabel": "Changeur de peau"
       },
       {
         "id": "blog",
         "href": "/blog/",
-        "label": "Blog",
+        "label": "Guides et articles",
         "ariaLabel": "Blog"
       },
       {
         "id": "forum",
         "href": "/forum/",
-        "label": "Forum",
+        "label": "Forum communautaire",
         "ariaLabel": "Forum"
       }
     ],

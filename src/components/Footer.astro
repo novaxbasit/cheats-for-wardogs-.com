@@ -2,7 +2,6 @@
 import { useLocale } from '../i18n';
 import { Separator } from '@/components/starwind/separator';
 import BrandLogo from './BrandLogo.astro';
-import BrandWordmark from './BrandWordmark.astro';
 import { GAME } from '../config/game';
 import { isProductHrefEnabled } from '../config/catalog';
 const { t, lp } = useLocale(Astro.currentLocale);
@@ -25,7 +24,7 @@ const legalLinks = [
       <div class="space-y-4">
         <a href={lp('/')} class="inline-flex items-center gap-2.5 font-[family-name:var(--font-heading)] text-lg font-bold" aria-label={`${t.site.name} home`}>
           <BrandLogo size={32} class="rounded-md" />
-          <BrandWordmark />
+          <span class="text-base font-semibold text-foreground">{t.footer.homeLink}</span>
         </a>
         <p class="text-sm text-muted-foreground">{t.footer.tagline}</p>
       </div>
