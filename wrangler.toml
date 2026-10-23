@@ -1,6 +1,6 @@
 # Cloudflare Workers + static assets. The dashboard deploy command is
 # `npx wrangler deploy`, which runs the build below first.
-name = "islecheat-com"
+name = "cheatsforwardogs-com"
 main = "workers/site.js"
 compatibility_date = "2026-09-12"
 
@@ -8,11 +8,11 @@ compatibility_date = "2026-09-12"
 command = "npm run build"
 
 [[routes]]
-pattern = "islecheat.com"
+pattern = "cheatsforwardogs.com"
 custom_domain = true
 
 [[routes]]
-pattern = "www.islecheat.com"
+pattern = "www.cheatsforwardogs.com"
 custom_domain = true
 
 [assets]
