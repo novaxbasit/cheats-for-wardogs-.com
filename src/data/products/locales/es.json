@@ -1,0 +1,312 @@
+{
+  "sharedGoodToKnow": "Las versiones de juegos y las actualizaciones antitrampas pueden cambiar la compatibilidad y la disponibilidad de funciones. Confirme el estado actual en {siteDomain} antes de comprar o lanzar.",
+  "sharedLimitations": "El software de trampas de terceros puede detectarse, dejar de funcionar después de las actualizaciones del juego y provocar restricciones o prohibiciones en la cuenta. La compatibilidad y disponibilidad pueden cambiar sin previo aviso.",
+  "acquisitionSteps": [
+    {
+      "num": "01",
+      "title": "Revisar el estado actual",
+      "desc": "Consulte el banner en vivo en {siteDomain} antes de realizar la compra, especialmente después de una actualización de Wardogs o antitrampas."
+    },
+    {
+      "num": "02",
+      "title": "Elija su nivel de acceso",
+      "desc": "Selecciona Trucos de Wardogs o la utilidad que coincida con tu objetivo. Revise la lista de funciones antes de realizar el pago a través de nuestro pago asociado."
+    },
+    {
+      "num": "03",
+      "title": "Contacta con el equipo",
+      "desc": "Comuníquese con el soporte y confirme la disponibilidad, la configuración de Windows y los detalles de pago con el correo electrónico de su pedido listo."
+    },
+    {
+      "num": "04",
+      "title": "Siga la configuración guiada",
+      "desc": "Utilice la guía de configuración después de la compra. Póngase en contacto con el soporte para obtener ayuda con la instalación si la necesita. Confirma la compatibilidad con la versión actual de tu juego antes de iniciarlo."
+    }
+  ],
+  "systemRequirements": [
+    "Windows 10 u 11 de 64 bits (Intel o AMD).",
+    "Modo de visualización sin bordes o en ventana.",
+    "Acceso estable a Internet y al cargador después de la compra.",
+    "Steam, Battle.net o Xbox Game Pass (la compatibilidad varía según la versión)."
+  ],
+  "gallery": [
+    {
+      "alt": "Vista del rifle en primera persona de Wardog con un enemigo delineado en rojo a través de un muro de concreto, un marcador de puntería, una brújula y un minimapa en la pantalla.",
+      "caption": "ESP a través de la cubierta",
+      "captionDesc": "El jugador utiliza ESP y marcadores de puntería mientras la pestaña aimbot permanece abierta en una partida en vivo."
+    },
+    {
+      "alt": "Menú de trucos de Dark Wardogs en la pestaña Aimbot con menús desplegables para habilitar aimbot, puntería de memoria, FOV, suavizado y hitbox.",
+      "caption": "Controles de Aimbot",
+      "captionDesc": "Alterna la asistencia para apuntar, configura el campo de visión y el suavizado, y elige un hitbox objetivo en el menú de la barra lateral."
+    },
+    {
+      "alt": "Los Wardogs hacen trampa en la pestaña Colores que enumera el cuadro del enemigo, el esqueleto, la salud, la armadura, el nombre, la distancia, el círculo FOV, la mira y las muestras de color del vehículo.",
+      "caption": "Ajustes preestablecidos de color ESP",
+      "captionDesc": "Asigna colores para superposiciones de enemigos, punto de mira, anillo FOV y resaltados de objetos mundiales."
+    }
+  ],
+  "tiers": {
+    "elite": {
+      "about": [
+        {
+          "type": "p",
+          "text": "Los módulos anunciados incluyen aimbot, aimlock, memoria aimbot, predicción de puntería, triggerbot, ESP de jugador, ESP de elemento, radar, sin retroceso, sin dispersión, brillo total y opciones de punto de mira personalizadas en una interfaz basada en menús."
+        },
+        {
+          "type": "h2",
+          "text": "Configuración y soporte"
+        },
+        {
+          "type": "p",
+          "text": "El menú admite guardar, cargar y organizar configuraciones, con personalización de idioma y otras opciones de interfaz enumeradas por el proveedor. Se proporciona información de configuración para ayudar a configurar el software; El tiempo de actualización y la disponibilidad de funciones pueden variar."
+        }
+      ],
+      "body": [
+        {
+          "type": "h2",
+          "text": "Planes y entrega"
+        },
+        {
+          "type": "p",
+          "text": "Elija mensual ($35 por 31 días) o de por vida ($150) al finalizar la compra. La entrega digital y el acceso al cargador se proporcionan después de la compra. Consulte el banner de estado en vivo antes de cada sesión."
+        },
+        {
+          "type": "h2",
+          "text": "Actualizaciones y compatibilidad"
+        },
+        {
+          "type": "p",
+          "text": "El proveedor anuncia el mantenimiento de la compatibilidad después de las actualizaciones del juego. La compatibilidad real puede depender de la versión actual del juego y del producto; verificar antes del lanzamiento."
+        }
+      ],
+      "overview": {
+        "title": "Suite de trucos Wardogs en Windows",
+        "paragraphs": [
+          "Wardogs Cheats anuncia asistencia para apuntar, mejoras en la visibilidad del jugador, radar y personalización del juego en una interfaz basada en menús.",
+          "Anunciado para PC con Windows 10 u 11 que utilizan procesadores Intel o AMD, con modos de visualización sin bordes o con ventanas y compatibilidad listada para Steam, Battle.net y Xbox Game Pass. Los planes mensuales ($35, 31 días) y de por vida ($150) se enumeran al finalizar la compra. Verifique la compatibilidad en {siteDomain} antes de la compra o el lanzamiento."
+        ]
+      },
+      "goodToKnow": "Las versiones de juegos y las actualizaciones antitrampas pueden cambiar la compatibilidad y la disponibilidad de funciones. Confirme el estado actual en {siteDomain} antes de comprar o lanzar.",
+      "limitations": "El software de trampas de terceros puede detectarse, dejar de funcionar después de las actualizaciones del juego y provocar restricciones o prohibiciones en la cuenta. La compatibilidad y disponibilidad pueden cambiar sin previo aviso.",
+      "acquisitionTitle": "Cómo conseguir trucos de Wardogs"
+    }
+  },
+  "utilities": {
+    "hwid-spoofer": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Bloqueos a nivel de máquina"
+        },
+        {
+          "type": "p",
+          "text": "Las banderas de hardware se adhieren a la PC, no solo al nombre de usuario que utilizó. Si plataformas alternativas inician sesión correctamente mientras este cuadro rechaza cada cuenta nueva, es probable que los identificadores necesiten una actualización. El panel reescribe los números de serie del disco, las direcciones MAC, los ID de GPU y las huellas digitales relacionadas para que la autenticación pueda realizarse en un perfil de hardware limpio. No levantará las sanciones que queden sobre la propia cuenta."
+        },
+        {
+          "type": "h2",
+          "text": "Familias anti-trampas documentadas"
+        },
+        {
+          "type": "p",
+          "text": "Publicamos notas de soporte para Riot Vanguard (Valorant), Easy Anti-Cheat, BattlEye, Ricochet (Call of Duty), ACE, Javelin y pilas comparables. Los proveedores cambian las reglas de detección, así que confirme su título en esta página antes de realizar el pago."
+        },
+        {
+          "type": "h2",
+          "text": "Limpieza de seguimiento incluida"
+        },
+        {
+          "type": "p",
+          "text": "La licencia incluye un limpiador que elimina los restos de suplantación de identidad. Finalice los cambios de identificador, ejecute la limpieza y luego inicie el juego siguiendo la guía del portal activo."
+        },
+        {
+          "type": "h2",
+          "text": "Lo que tu PC necesita"
+        },
+        {
+          "type": "p",
+          "text": "Utilice Windows 10 u 11 (64 bits) con derechos de administrador para tareas de limpieza y suplantación, HVCI, Core Isolation, TPM y Secure Boot habilitados, además de Internet confiable para activación y actualizaciones."
+        }
+      ],
+      "overview": {
+        "title": "Recuperar PC marcadas con las principales pilas antitrampas",
+        "paragraphs": [
+          "Después de una prohibición de hardware, actualice los números de serie del disco, las direcciones MAC, los ID de GPU y las huellas digitales relacionadas para que esta máquina pueda autenticarse nuevamente. La cobertura documentada incluye Vanguard, Easy Anti-Cheat, BattlEye, Ricochet y pilas similares, con un limpiador incluido en el paquete.",
+          "Elíjalo cuando otras computadoras acepten inicios de sesión nuevos pero ésta los bloquee instantáneamente. No puede eliminar las sanciones vinculadas al registro de la cuenta. Las licencias mensuales ($50, 31 días) y de por vida ($150) incluyen las mismas herramientas."
+        ]
+      },
+      "goodToKnow": "Complete la rotación del identificador y ejecute el limpiador antes de iniciar el juego que activó la bandera de hardware, utilizando el orden de la guía del portal. Vuelva a leer la cobertura antitrampas en el banner de estado antes de pagar.",
+      "limitations": "Creado únicamente para indicadores de identificación de hardware; Las sanciones a las cuentas activas permanecen. La suplantación de identidad puede entrar en conflicto con los términos del editor e invitar a nuevas sanciones. El soporte antitrampas puede finalizar sin previo aviso después de las actualizaciones del proveedor.",
+      "acquisitionTitle": "Cómo obtener HWID Spoofer para PC Wardogs",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Verificar la cobertura anti-trampas",
+          "desc": "Las pilas publicadas incluyen Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet y familias relacionadas. Verifique su título con esa lista y el banner de estado en {siteDomain} antes de pagar."
+        },
+        {
+          "num": "02",
+          "title": "Elige mensual o vitalicio",
+          "desc": "Elija Mensual a $50 por 31 días o De por vida a $150 para acceso ilimitado. Ambos envían el panel del operador más el limpiador de rastros en una sola licencia."
+        },
+        {
+          "num": "03",
+          "title": "Prepare la configuración de seguridad de Windows",
+          "desc": "Habilite HVCI y Core Isolation en Seguridad de Windows, luego active TPM y Secure Boot en el firmware, antes de su primera sesión. Las acciones falsas y más limpias también necesitan derechos de administrador en esta PC."
+        },
+        {
+          "num": "04",
+          "title": "Ejecute spoof, luego limpiador, luego inicie",
+          "desc": "Utilice la secuencia de la guía del portal: confirme los cambios de identificador, ejecute el pase de limpieza incluido y luego abra el cliente del juego."
+        }
+      ],
+      "systemRequirements": [
+        "Windows 10 u 11, 64 bits.",
+        "Derechos de administrador para acciones falsas y más limpias.",
+        "HVCI y Core Isolation activados en Seguridad de Windows.",
+        "TPM y arranque seguro habilitados en BIOS/UEFI.",
+        "Internet estable para activación y actualizaciones."
+      ]
+    },
+    "ugc": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Papel de Unban y Control de Gobernanza"
+        },
+        {
+          "type": "p",
+          "text": "UGC (Unban & Governance Control) prepara apelaciones para perfiles de juego limitados, identificadores sociales y escaparates del mercado. Cree plantillas de flujo de trabajo una vez y luego deje que el software vuelva a enviar los paquetes de disputas en lugar de copiar el mismo mensaje a mano."
+        },
+        {
+          "type": "h2",
+          "text": "Los resultados se quedan con los revisores"
+        },
+        {
+          "type": "p",
+          "text": "Las plataformas deciden todos los casos y algunas sanciones nunca caducan. UGC organiza pruebas y redacción únicamente; no rota los ID de hardware, por lo que las prohibiciones a nivel de máquina quedan fuera de su alcance."
+        },
+        {
+          "type": "h2",
+          "text": "Lo que tu PC necesita"
+        },
+        {
+          "type": "p",
+          "text": "Ejecute Windows 10 u 11 con HVCI, Core Isolation, TPM y Secure Boot habilitados antes del primer inicio."
+        }
+      ],
+      "overview": {
+        "title": "Automatización de apelaciones de cuentas multiplataforma",
+        "paragraphs": [
+          "UGC (Unban & Governance Control) combina flujos de trabajo de apelación personalizados con manejo automatizado de disputas para cuentas de juegos, redes sociales y de mercado restringidas.",
+          "El éxito depende de cada revisor de plataforma y las prohibiciones relacionadas con el hardware están fuera de alcance. Las licencias mensuales ($35, 31 días) y de por vida ($150) desbloquean el mismo conjunto de capacidades."
+        ]
+      },
+      "goodToKnow": "Reúna pruebas de propiedad y un cronograma antes de automatizar las presentaciones. Los revisores de la plataforma tienen la última palabra en cada apelación.",
+      "limitations": "No se promete ningún resultado y las suspensiones permanentes siguen siendo permanentes. UGC nunca cambia las identificaciones de hardware ni elude los controles de seguridad, y las pruebas débiles perjudican su caso.",
+      "acquisitionTitle": "Cómo obtener flujos de trabajo de recuperación de cuenta con UGC",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Confirmar el tipo de restricción",
+          "desc": "UGC apunta a límites de cuentas en perfiles de juegos, redes sociales o mercados. Cuando las cuentas nuevas fallan solo en una máquina, trátela como parte del hardware y use la ruta HWID en lugar de apelaciones."
+        },
+        {
+          "num": "02",
+          "title": "Elige mensual o vitalicio",
+          "desc": "Cuesta mensualmente $35 por 31 días; La vida útil cuesta $150 con acceso ilimitado. Cualquiera de los planes desbloquea el mismo espacio de trabajo de automatización de UGC."
+        },
+        {
+          "num": "03",
+          "title": "Prepare la configuración de seguridad de Windows",
+          "desc": "Habilite HVCI y Core Isolation en Seguridad de Windows, luego active TPM y Secure Boot en el firmware, antes de su primera sesión."
+        },
+        {
+          "num": "04",
+          "title": "Redacte y automatice su apelación",
+          "desc": "Traduzca las reglas de la plataforma a un flujo de trabajo UGC y luego deje que la automatización reproduzca los pasos de la disputa en lugar de volver a escribir cada ticket."
+        }
+      ],
+      "systemRequirements": [
+        "Windows 10 u 11, 64 bits.",
+        "HVCI y Core Isolation activados en Seguridad de Windows.",
+        "TPM y arranque seguro habilitados en BIOS/UEFI.",
+        "Internet estable después de la compra."
+      ]
+    },
+    "skin-changer": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Qué cubre la biblioteca"
+        },
+        {
+          "type": "p",
+          "text": "El cliente liviano coloca diseños de armas premium, trajes de personajes y variantes raras de cuchillos en juegos compatibles sin comprar cada artículo cosmético por separado."
+        },
+        {
+          "type": "h2",
+          "text": "Solo renderizado local"
+        },
+        {
+          "type": "p",
+          "text": "Las apariencias existen solo en tu pantalla. Los inventarios de cuentas nunca ganan artículos, el comercio sigue siendo imposible y las imágenes desaparecen cuando el cliente cierra. Suponga que otros jugadores no verán el final."
+        },
+        {
+          "type": "h2",
+          "text": "Mantenimiento de la lista de títulos"
+        },
+        {
+          "type": "p",
+          "text": "Los juegos más importantes aparecen hoy en la lista de soporte, pero los parches pueden eliminar entradas. Solicite soporte para confirmar su título antes de comprar."
+        },
+        {
+          "type": "h2",
+          "text": "Lo que tu PC necesita"
+        },
+        {
+          "type": "p",
+          "text": "Windows 10 u 11 con HVCI, Core Isolation, TPM y Secure Boot habilitados, además de acceso al cargador después de la compra."
+        }
+      ],
+      "overview": {
+        "title": "Aspectos de alta gama sin pago por artículo",
+        "paragraphs": [
+          "Skin Changer coloca diseños de armas, trajes y variantes de cuchillos premium en juegos compatibles para que puedas evitar comprar cada cosmético por separado.",
+          "El procesamiento permanece en su máquina y nunca se publica en los libros de cuentas. Los planes mensuales ($35, 31 días) y de por vida ($150) comparten una biblioteca de cosméticos. Solicite soporte para confirmar su título antes de la compra."
+        ]
+      },
+      "goodToKnow": "Los cosméticos aparecen sólo dentro de su cliente local; Los inventarios nunca reciben artículos. Confirme la cobertura del título con el personal antes de realizar el pago.",
+      "limitations": "Los clientes cosméticos aún pueden incumplir los términos del juego y arriesgar la acción de la cuenta. Los acabados no son bienes reales, no se pueden comercializar y desaparecen cuando el cliente se marcha. Los juegos y elementos compatibles pueden cambiar después de parches o actualizaciones de Windows.",
+      "acquisitionTitle": "Cómo obtener Client Skin Changer para títulos compatibles",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Pregunte a soporte sobre la cobertura del título",
+          "desc": "La cobertura abarca los títulos más importantes, pero cambia cuando llegan los parches. Envíe un correo electrónico al soporte con el nombre de su juego antes de realizar el pago para confirmar que los cosméticos permanezcan en la lista."
+        },
+        {
+          "num": "02",
+          "title": "Elija la duración de su licencia cosmética",
+          "desc": "Mensual es $35 por 31 días; La vida útil cuesta $150 con acceso ilimitado. Cambios en la cadencia de facturación; la biblioteca de cosméticos no."
+        },
+        {
+          "num": "03",
+          "title": "Prepare la configuración de seguridad de Windows",
+          "desc": "Habilite HVCI y Core Isolation en Seguridad de Windows, luego active TPM y Secure Boot en el firmware, antes de su primera sesión."
+        },
+        {
+          "num": "04",
+          "title": "Cargar trajes desde el menú.",
+          "desc": "Una vez que el portal brinde acceso, abra el cliente liviano y elija diseños de armas, atuendos o variantes de cuchillos para esa sesión de juego."
+        }
+      ],
+      "systemRequirements": [
+        "Windows 10 u 11, 64 bits.",
+        "HVCI y Core Isolation activados en Seguridad de Windows.",
+        "TPM y arranque seguro habilitados en BIOS/UEFI.",
+        "Acceso estable a Internet y al cargador después de la compra."
+      ]
+    }
+  }
+}

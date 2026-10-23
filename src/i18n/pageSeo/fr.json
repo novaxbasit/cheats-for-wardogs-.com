@@ -1,0 +1,54 @@
+{
+  "/": {
+    "title": "Cheats Wardogs | Aimbot, ESP et radar sur PC",
+    "description": "Cheats Wardogs avec aimbot, ESP joueur et radar sous Windows. Comparez les offres sur {siteDomain} avant paiement."
+  },
+  "/cheats/": {
+    "title": "Hacks Wardogs | Modules du menu et offres",
+    "description": "Hacks Wardogs avec ESP joueur, aimbot et radar sous Windows. Options du menu et exigences sur {siteDomain}."
+  },
+  "/hwid-spoofer/": {
+    "title": "HWID Spoofer Wardogs | Disque, MAC et GPU",
+    "description": "HWID Spoofer Wardogs fait tourner disque, MAC et GPU quand ce PC refuse la connexion. Nettoyeur inclus; offres sur {siteDomain}."
+  },
+  "/products/": {
+    "title": "Produits Wardogs | {cheatProduct} et utilitaires",
+    "description": "Comparez {cheatProduct}, HWID Spoofer, UGC et Skin Changer, exigences Windows et liens de paiement sur {siteDomain}."
+  },
+  "/ugc/": {
+    "title": "Recuperation de compte Wardogs | UGC",
+    "description": "Recuperation de compte Wardogs avec workflows UGC et litiges automatises. Offres sur {siteDomain}."
+  },
+  "/skin-changer/": {
+    "title": "Skin Changer Wardogs | Skins locaux",
+    "description": "Skin Changer Wardogs pour previsualiser skins d armes et tenues sur les titres pris en charge. Offres sur {siteDomain}."
+  },
+  "/blog/": {
+    "title": "Guides Wardogs | ESP, Aimbot et notes de patch",
+    "description": "Guides Wardogs sur ESP, visée, radar et listes de controle anti-triche apres patch sur {siteDomain}."
+  },
+  "/forum/": {
+    "title": "Archives du forum Wardogs | Configuration, ESP et statut",
+    "description": "Fils Wardogs en lecture seule sur chargeur, ESP, patches et notes HWID. Nouveaux sujets et reponses fermes sur {siteDomain}."
+  },
+  "/faq/": {
+    "title": "FAQ Wardogs ESP | Configuration, plans et risques",
+    "description": "Wardogs ESP et aimbot répondent sur la compatibilité Windows, les options de plan, les vérifications d'état et l'aide au paiement sur {siteDomain}."
+  },
+  "/terms/": {
+    "title": "Conditions de vente et d'utilisation de la licence",
+    "description": "Règles de remboursement, limites de licence, livraison à la caisse et divulgation des risques pour les produits vendus via {siteDomain}."
+  },
+  "/privacy/": {
+    "title": "Politique de confidentialité | Données d'analyse et d'assistance",
+    "description": "Comment {siteDomain} utilise les cookies, les analyses et les informations que vous envoyez lors de l'ouverture d'un ticket d'assistance."
+  },
+  "/about/": {
+    "title": "À propos de {siteDomain} et {siteName}",
+    "description": "Qui publie les ressources Wardogs Cheats, les notes de statut et les canaux d'assistance sur {siteDomain}."
+  },
+  "/support/": {
+    "title": "Aide aux cheats Wardogs | Chargeur, HWID et caisse",
+    "description": "Contactez l'assistance pour l'accès au portail, les erreurs de module et les questions de facturation avant ou après le paiement sur {siteDomain}."
+  }
+}

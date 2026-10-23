@@ -1,0 +1,34 @@
+{
+  "findings": [
+    {
+      "type": "wrong_game_translation",
+      "severity": "high",
+      "urls": ["https://cheatsforwardogs.com/fr/blog/", "https://cheatsforwardogs.com/fr/"],
+      "evidence": "FR page title and feature tags mistranslated Wardogs as chiens de garde"
+    },
+    {
+      "type": "meta_description_truncation_risk",
+      "severity": "medium",
+      "urls": ["https://cheatsforwardogs.com/fr/products/", "https://cheatsforwardogs.com/fr/forum/"],
+      "evidence": "Meta descriptions over 160 characters in crawl inventory"
+    },
+    {
+      "type": "title_truncation_risk",
+      "severity": "medium",
+      "urls": ["https://cheatsforwardogs.com/es/faq/"],
+      "evidence": "ES FAQ title over 60 characters with trailing period"
+    },
+    {
+      "type": "localhost_canonical_mismatch",
+      "severity": "low",
+      "urls": ["http://127.0.0.1:4173/"],
+      "evidence": "Canonical and hreflang use production host; expected on localhost preview"
+    },
+    {
+      "type": "sitemap_production_fetch_530",
+      "severity": "low",
+      "urls": ["https://cheatsforwardogs.com/"],
+      "evidence": "full-site-seo-auditor fetched sitemap loc URLs against offline production host"
+    }
+  ]
+}

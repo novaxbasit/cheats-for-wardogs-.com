@@ -1,0 +1,54 @@
+{
+  "/": {
+    "title": "Trucos Wardogs | Aimbot, ESP y radar en PC",
+    "description": "Trucos Wardogs con aimbot, ESP de jugadores y radar en Windows. Compara planes en {siteDomain} antes del pago."
+  },
+  "/cheats/": {
+    "title": "Hacks Wardogs | Modulos del menu y planes",
+    "description": "Hacks Wardogs con ESP de jugadores, aimbot y radar en Windows. Revisa opciones del menu y requisitos en {siteDomain}."
+  },
+  "/hwid-spoofer/": {
+    "title": "HWID Spoofer Wardogs | Disco, MAC y GPU",
+    "description": "HWID Spoofer Wardogs rota disco, MAC y GPU cuando este PC falla al iniciar sesion. Limpiador incluido; planes en {siteDomain}."
+  },
+  "/products/": {
+    "title": "Productos de Wardogs | {cheatProduct} y servicios públicos",
+    "description": "Compare los planes {cheatProduct}, HWID Spoofer, UGC y Skin Changer, los requisitos de Windows y las rutas de pago en {siteDomain}."
+  },
+  "/ugc/": {
+    "title": "Recuperacion de cuenta Wardogs | UGC",
+    "description": "Recuperacion de cuenta Wardogs con flujos UGC y disputas automatizadas. Planes en {siteDomain}."
+  },
+  "/skin-changer/": {
+    "title": "Skin Changer Wardogs | Skins locales",
+    "description": "Skin Changer Wardogs para previsualizar skins de armas y atuendos en titulos compatibles. Planes en {siteDomain}."
+  },
+  "/blog/": {
+    "title": "Guías de Wardogs | ESP, Aimbot y notas del parche",
+    "description": "Recorridos preestablecidos de Wardogs, ESP y ajuste de puntería, configuración de radar y listas de verificación de estado anti-trampas en {siteDomain}."
+  },
+  "/forum/": {
+    "title": "Archivo del foro de Wardogs | Configuración, ESP y estado",
+    "description": "Hilos de Wardogs de solo lectura sobre la configuración del cargador, configuraciones de ESP, parches y notas de HWID. Se cierran nuevos hilos y respuestas."
+  },
+  "/faq/": {
+    "title": "FAQ Wardogs ESP | Configuracion, planes y riesgo",
+    "description": "Wardogs ESP y aimbot responden sobre compatibilidad con Windows, opciones de planes, verificaciones de estado y ayuda para el pago en {siteDomain}."
+  },
+  "/terms/": {
+    "title": "Condiciones de venta y uso de licencia",
+    "description": "Reglas de reembolso, límites de licencia, entrega de pago y divulgación de riesgos para productos vendidos a través de {siteDomain}."
+  },
+  "/privacy/": {
+    "title": "Política de privacidad | Datos de análisis y soporte",
+    "description": "Cómo {siteDomain} utiliza las cookies, los análisis y la información que envía al abrir un ticket de soporte."
+  },
+  "/about/": {
+    "title": "Acerca de {siteDomain} y {siteName}",
+    "description": "Quién publica recursos, notas de estado y canales de soporte de Wardogs Cheats en {siteDomain}."
+  },
+  "/support/": {
+    "title": "Soporte de trucos de Wardogs | Cargador, HWID y pago",
+    "description": "Comuníquese con el soporte para obtener acceso al portal, errores de módulos y preguntas sobre facturación antes o después del pago el {siteDomain}."
+  }
+}

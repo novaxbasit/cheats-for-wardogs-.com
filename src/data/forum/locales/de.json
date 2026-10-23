@@ -1,0 +1,725 @@
+{
+  "categories": [
+    {
+      "name": "Allgemeine Diskussion",
+      "tone": "purple",
+      "icon": "layers"
+    },
+    {
+      "name": "Features und Fragen",
+      "tone": "blue",
+      "icon": "tag"
+    },
+    {
+      "name": "Updates und Status",
+      "tone": "orange",
+      "icon": "refresh"
+    },
+    {
+      "name": "Sicherheit und Konto",
+      "tone": "green",
+      "icon": "shieldCheck"
+    },
+    {
+      "name": "Kaufberatung",
+      "tone": "purple",
+      "icon": "tag"
+    },
+    {
+      "name": "Hilfe und Support",
+      "tone": "green",
+      "icon": "headphones"
+    }
+  ],
+  "posts": [
+    {
+      "slug": "wardogs-three-team-control-zone-strategy",
+      "category": "Allgemeine Diskussion",
+      "title": "Wie gehen Sie an ein WARDOGS-Match heran, wenn drei Teams um eine Zone kämpfen?",
+      "excerpt": "Drei Teams, die um dasselbe Ziel kämpfen, können einen sauberen Vorstoß in völliges Chaos verwandeln. Besprechen Sie die Positionierung, das Timing und wie Sie vermeiden können, zwischen gegnerischen Mannschaften in die Enge zu geraten.",
+      "author": "rustycompass",
+      "published": "2026-07-29",
+      "upvotes": 48,
+      "sourceTitle": "Wardogs Cheats Buyer's Guide: Was Sie vor dem Kauf überprüfen sollten",
+      "sourcePath": "/blog/wardogs-cheats-buyers-guide/",
+      "body": [
+        "Ich habe versucht zu verstehen, worauf es bei WARDOGS eigentlich am meisten ankommt. Wenn drei Teams in einer Zone gegeneinander antreten, scheint es, als ob der Sieg in einem Kampf nicht unbedingt bedeutet, dass man gut gespielt hat.",
+        "Sie können eine Seite freiräumen und sofort von der anderen geschubst werden. Mittlerweile scheint jeder Geld für Ausrüstung und Fahrzeuge auszugeben.",
+        "Was ist Ihrer Meinung nach hier am wichtigsten: die Zone zu halten, die umliegenden Annäherungsversuche zu beobachten oder darauf zu warten, dass die anderen Teams zuerst kämpfen?",
+        "Ich bin an einer tatsächlichen Strategiediskussion interessiert, nicht an einer weiteren Liste allgemeiner FPS-Tipps."
+      ],
+      "comments": [
+        {
+          "author": "mapgremlin",
+          "age": "",
+          "score": 6,
+          "body": "Positionierung, ehrlich. Eine Schießerei zu gewinnen und dann unter freiem Himmel zu feiern, ist eine klassische Art, sich Team Nummer drei vorzustellen."
+        },
+        {
+          "author": "brickbybrick",
+          "age": "",
+          "score": 5,
+          "body": "Auch die Bau- und Zerstörungsmechanik macht es interessant. Ich gehe nicht davon aus, dass ein Gebäude für immer als Deckung nützlich bleiben wird."
+        },
+        {
+          "author": "lowbudgetloadout",
+          "age": "",
+          "score": 7,
+          "body": "Die Menschen müssen auch über die Bargeldwirtschaft nachdenken. Jedes Leben teure Ausrüstung zu kaufen, ohne einen Plan zu haben, klingt wie ein Speedrun mit leerem Geldbeutel, lol."
+        },
+        {
+          "author": "sectorseven",
+          "age": "",
+          "score": 4,
+          "body": "Ich bin ein wenig anderer Meinung, wenn es darum geht, auf andere Teams zu warten. Wenn alle warten, nimmt niemand die Zone ein. Das Timing ist wichtig, aber jemand muss sich trotzdem verpflichten."
+        },
+        {
+          "author": "no_scope_nana",
+          "age": "",
+          "score": 9,
+          "body": "Der beste Plan besteht offenbar darin, die Zone selbstbewusst zu betreten und dann festzustellen, dass der gesamte Server die gleiche Idee hatte."
+        },
+        {
+          "author": "rustycompass",
+          "age": "",
+          "score": 3,
+          "body": "Dieser letzte Teil klingt als allgemeines WARDOGS-Strategieproblem schmerzlich glaubhaft. Die Aufstellung mit drei Teams macht die Positionierung definitiv komplizierter als ein normaler zweiseitiger Kampf."
+        }
+      ],
+      "categoryTone": "purple",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "wardogs-esp-vs-radar-difference",
+      "category": "Funktionen und Fragen",
+      "title": "WARDOGS ESP vs. Radar: Was ist der eigentliche Unterschied?",
+      "excerpt": "ESP und Radar erscheinen in Cheat-Feature-Listen oft nebeneinander, aber die Beschreibungen können verwirrend sein. Hier finden Sie eine Diskussion darüber, was diese Etiketten im Allgemeinen bedeuten und was Käufer überprüfen sollten.",
+      "author": "packetpigeon",
+      "published": "2026-08-04",
+      "upvotes": 41,
+      "sourceTitle": "Wardogs ESP und Radar erklärt",
+      "sourcePath": "/blog/wardogs-esp-radar-explained/",
+      "body": [
+        "Kann jemand den Unterschied zwischen ESP und Radar in den Cheat-Listen von WARDOGS erklären?",
+        "Ich verstehe den Grundgedanken, dass es sich bei beiden um Informationen über andere Spieler handelt, aber viele Produktbeschreibungen ordnen sie derselben Funktionskategorie zu, ohne zu erklären, was sie unterscheidet.",
+        "Bedeutet ESP normalerweise Beschriftungen und Kästchen, die über das Spiel gezeichnet werden, während Radar eine separate Karte oder Radaranzeige bedeutet?",
+        "Bieten außerdem alle Produkte, die mit diesen Namen werben, zwangsläufig die gleichen Funktionen? Die Beschreibungen sind überall."
+      ],
+      "comments": [
+        {
+          "author": "greyscale",
+          "age": "",
+          "score": 5,
+          "body": "Das ist im Allgemeinen der Unterschied, ja. Unter ESP versteht man in der Regel Informationen, die in die Spielansicht eingeblendet werden. Unter Radar versteht man in der Regel eine separate Positionsanzeige."
+        },
+        {
+          "author": "tinyhitbox",
+          "age": "",
+          "score": 4,
+          "body": "Die Namen sind jedoch keine standardisierte Garantie. In einer Auflistung könnten Spielernamen und Distanz erwähnt werden, in einer anderen könnte etwas ganz anderes gemeint sein."
+        },
+        {
+          "author": "mousetrap99",
+          "age": "",
+          "score": 6,
+          "body": "Ich würde prüfen, ob die Funktionsliste tatsächlich erklärt, was angezeigt wird. Nur „Erweitertes ESP\" zu sagen, sagt Ihnen ungefähr nichts."
+        },
+        {
+          "author": "vectorbread",
+          "age": "",
+          "score": 5,
+          "body": "Genau. Erwähnt die Beschreibung Spieler, Gegenstände, Fahrzeuge, Gesundheit, Entfernung oder etwas anderes? Diese Details sind viel wichtiger als der ausgefallene Klang der Überschrift."
+        },
+        {
+          "author": "aimlesswanderer",
+          "age": "",
+          "score": 4,
+          "body": "Außerdem sind die auf einer Seite beworbenen Funktionen kein Beweis dafür, dass sie derzeit mit der neuesten Spielversion kompatibel sind. Das sind separate Fragen."
+        },
+        {
+          "author": "packetpigeon",
+          "age": "",
+          "score": 3,
+          "body": "Guter Punkt. Der sinnvolle Vergleich ist also die tatsächlich dokumentierte Funktionsliste des [Wardogs-Cheats](/wardogs-cheats) und seine aktuelle Kompatibilität, nicht nur ESP versus Radar als zwei Schlagworte. Für Patch-Fragen verwenden Sie [support](/support/)."
+        }
+      ],
+      "categoryTone": "blue",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "wardogs-aimbot-settings-fov-prediction",
+      "category": "Funktionen und Fragen",
+      "title": "WARDOGS Aimbot-Einstellungen erklärt: Sichtfeld, Vorhersage und Zielprüfungen",
+      "excerpt": "FOV, Vorhersage, Zielprüfungen und Hitbox-Optionen können schwierig zwischen den Einträgen zu vergleichen sein. In diesem Thread wird die Terminologie aufgeschlüsselt und hervorgehoben, was eine Funktionsbeschreibung klären sollte.",
+      "author": "pixelpanicked",
+      "published": "2026-08-12",
+      "upvotes": 37,
+      "sourceTitle": "Wardogs Aimbot-Einstellungen: Einrichten des Ziels, kein Rückstoß und keine Ausbreitung",
+      "sourcePath": "/blog/wardogs-aimbot-settings/",
+      "body": [
+        "Ich vergleiche ein paar WARDOGS-Cheat-Feature-Listen und der Zielabschnitt ist voller Begriffe, die ähnlich klingen.",
+        "Sichtfeld, Zielvorhersage, Sichtbarkeitsprüfungen, Hitbox-Auswahl, Zielwechsel. Ich verstehe die allgemeine Idee, aber es ist schwer zu sagen, welche Optionen wirklich unterschiedlich sind und welche nur ausgefallene Beschreibungen sind.",
+        "Könnte jemand die Begriffe im Klartext erklären? Ich möchte lieber verstehen, was eine Auflistung tatsächlich verspricht, als davon auszugehen, dass jedes Produkt die gleiche Implementierung hat."
+      ],
+      "comments": [
+        {
+          "author": "syntaxerror",
+          "age": "",
+          "score": 5,
+          "body": "Das FOV ist im Grunde der Bereich, in dem die Zielfunktion Ziele berücksichtigt. Zumindest bezieht sich der Begriff in diesen Auflistungen allgemein darauf."
+        },
+        {
+          "author": "bodega_bandit",
+          "age": "",
+          "score": 4,
+          "body": "Bei der Vorhersage geht es darum, Bewegungen zu berücksichtigen und nicht nur, wo etwas zu einem bestimmten Zeitpunkt auftritt. Die genaue Umsetzung hängt von der Software ab."
+        },
+        {
+          "author": "fern.exe",
+          "age": "",
+          "score": 5,
+          "body": "Unter Sichtbarkeitsprüfungen versteht man in der Regel die Überprüfung, ob ein Ziel als sichtbar gilt, bevor eine Aktion ausgeführt wird. Sie möchten, dass der Verkäufer genau erklärt, was das für sein Produkt bedeutet."
+        },
+        {
+          "author": "ctrlaltdefeat",
+          "age": "",
+          "score": 4,
+          "body": "Die Hitbox-Auswahl bezieht sich darauf, welchen Teil eines Ziels die Software berücksichtigt. Beim Zielwechsel geht es darum, von einem ausgewählten Ziel zu einem anderen zu wechseln."
+        },
+        {
+          "author": "brisketfps",
+          "age": "",
+          "score": 7,
+          "body": "Außerdem können Produktbeschreibungen ein einfaches Kontrollkästchen in einen Marketingabsatz verwandeln. Fordern Sie eine Dokumentation an, anstatt anhand des Namens zu raten."
+        },
+        {
+          "author": "pixelpanicked",
+          "age": "",
+          "score": 3,
+          "body": "Das ist die Art von Erklärung, nach der ich gesucht habe. Ich vergleiche das dokumentierte Verhalten, anstatt davon auszugehen, dass in jedem Eintrag die Begriffe identisch verwendet werden."
+        }
+      ],
+      "categoryTone": "blue",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "wardogs-cheats-status-after-game-update",
+      "category": "Updates und Status",
+      "title": "Wie kann man überprüfen, ob ein WARDOGS-Cheat nach einem Spiel-Patch aktualisiert wird?",
+      "excerpt": "Spielaktualisierungen können die Softwarekompatibilität ändern. Besprechen Sie, wo Statusinformationen veröffentlicht werden sollten, wie ein nützlicher Update-Hinweis aussieht und warum ein nicht unterstütztes grünes Statuslabel nicht als Garantie betrachtet werden sollte.",
+      "author": "stalecache",
+      "published": "2026-08-24",
+      "upvotes": 44,
+      "sourceTitle": "Wardogs-Cheat funktioniert nicht? Häufige Probleme und Lösungen",
+      "sourcePath": "/blog/wardogs-cheat-not-working/",
+      "body": [
+        "Wie kann ich die Cheat-Kompatibilität von WARDOGS nach den Spielaktualisierungen am besten überprüfen?",
+        "Möglicherweise ist eine Seite noch online und nimmt Bestellungen entgegen, aber das sagt mir nicht unbedingt, ob die Software mit der aktuellen Version überprüft wurde.",
+        "Ich erwarte, dass ein anständiges Statussystem anzeigt, ob das Produkt als kompatibel bestätigt wurde, aktualisiert wird oder auf eine Verifizierung wartet.",
+        "Nach welchen Informationen suchen Sie normalerweise, bevor Sie einer Aktualisierungsmitteilung vertrauen?"
+      ],
+      "comments": [
+        {
+          "author": "logfilesonly",
+          "age": "",
+          "score": 5,
+          "body": "Ein Zeitstempel wäre nützlich. „Kürzlich aktualisiert\" bedeutet sehr wenig, wenn niemand sagt, wann."
+        },
+        {
+          "author": "ramenfps",
+          "age": "",
+          "score": 6,
+          "body": "Ich möchte, dass der tatsächliche Status klar ist. Etwas wie „Kompatibilität noch nicht bestätigt\" ist sinnvoller, als so zu tun, als wäre alles in Ordnung."
+        },
+        {
+          "author": "crashcart",
+          "age": "",
+          "score": 4,
+          "body": "Und vorzugsweise ein Changelog. Wenn sich nichts geändert hat, sagen Sie es einfach. Niemand braucht für jedes kleine Update eine dramatische Ankündigung, lol."
+        },
+        {
+          "author": "squareone",
+          "age": "",
+          "score": 4,
+          "body": "Ich würde auch die Spielekompatibilität von der Betriebssystemkompatibilität trennen. Das hängt zusammen, ist aber nicht dasselbe."
+        },
+        {
+          "author": "bytebandit",
+          "age": "",
+          "score": 8,
+          "body": "Das größte Warnsignal ist eine Seite, die dauerhafte Kompatibilität verspricht. Spiele und Durchsetzungssysteme ändern sich. Ein Verkäufer kann nicht ehrlich versprechen, dass Software immer funktioniert oder unentdeckt bleibt."
+        },
+        {
+          "author": "stalecache",
+          "age": "",
+          "score": 3,
+          "body": "Vereinbart. Ich würde lieber einen einfachen Status mit Zeitstempel sehen als ein riesiges grünes Abzeichen ohne Erklärung."
+        }
+      ],
+      "categoryTone": "orange",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "wardogs-cheats-ban-risk-account-safety",
+      "category": "Fragen zur Sicherheit und zum Konto",
+      "title": "Kann die Verwendung von WARDOGS-Cheats dazu führen, dass Ihr Konto gesperrt wird?",
+      "excerpt": "Erwägen Sie Tools von Drittanbietern für WARDOGS? Besprechen Sie die offiziellen Regeln, mögliche Kontostrafen und warum Behauptungen, dass sie völlig unentdeckbar seien, mit Vorsicht behandelt werden sollten.",
+      "author": "cautiousgoblin",
+      "published": "2026-09-01",
+      "upvotes": 52,
+      "sourceTitle": "Sind Wardogs Cheats sicher? Was Sie über Risiken und Verbote wissen sollten",
+      "sourcePath": "/blog/are-wardogs-cheats-safe/",
+      "body": [
+        "Frage an alle, die sich mit WARDOGS-Cheats befassen: Wie ernst sollte das Verbotsrisiko genommen werden?",
+        "Ich komme immer wieder auf das gleiche Problem zurück. Eine Produktauflistung kann alle möglichen Behauptungen über die Erkennung aufstellen, aber der Verkäufer ist nicht derjenige, der den Zugriff auf das Konto verliert, wenn etwas schief geht.",
+        "Unterscheidet die offizielle Richtlinie zwischen verschiedenen Arten von Drittanbieter-Tools oder handelt es sich grundsätzlich um eine Nutzung auf eigenes Risiko?",
+        "Ich frage nicht nach Möglichkeiten, die Durchsetzung zu umgehen. Ich versuche nur, die Regeln zu verstehen, bevor ich eine schlechte Entscheidung treffe."
+      ],
+      "comments": [
+        {
+          "author": "tos_reader",
+          "age": "",
+          "score": 7,
+          "body": "Die [offizielle Durchsetzungsrichtlinie](https://www.wardogs.com/enforcement) verbietet ausdrücklich Cheats, einschließlich Aimbots, ESP, Triggerbots und Radar-Tools. Als mögliche Strafen werden auch vorübergehende Sperren und dauerhafte Sperren aufgeführt."
+        },
+        {
+          "author": "keysmashkid",
+          "age": "",
+          "score": 6,
+          "body": "Im Grunde wird also die Person, die das Werkzeug verkauft, bezahlt und der Spieler muss sich mit den Konsequenzen auseinandersetzen. Schönes Geschäftsmodell lol."
+        },
+        {
+          "author": "oakenshield",
+          "age": "",
+          "score": 5,
+          "body": "Ich würde die tatsächlichen Spielrichtlinien lesen, anstatt mich auf die FAQ eines Verkäufers zu verlassen. Diese Quellen haben nicht den gleichen Anreiz."
+        },
+        {
+          "author": "mouseaccident",
+          "age": "",
+          "score": 5,
+          "body": "Außerdem sind „noch nicht erkannt\" und „kann nicht erkannt werden\" sehr unterschiedliche Aussagen."
+        },
+        {
+          "author": "cautiousgoblin",
+          "age": "",
+          "score": 4,
+          "body": "Das wollte ich klarstellen. Ein Versprechen eines Anbieters ist keine Erlaubnis des Spieleentwicklers und beseitigt nicht das Kontorisiko."
+        },
+        {
+          "author": "greyarea",
+          "age": "",
+          "score": 4,
+          "body": "Genau. Wenn es Ihnen wichtig ist, Ihr Konto zu behalten, ist die Einhaltung der Spielregeln die einfachste Wahl."
+        }
+      ],
+      "categoryTone": "green",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "what-to-check-before-buying-wardogs-cheats",
+      "category": "Kaufberatung",
+      "title": "Was sollten Sie vor dem Kauf eines WARDOGS-Cheats überprüfen?",
+      "excerpt": "Eine Funktionsliste allein sagt nicht alles über einen Softwarekauf aus. Vergleichen Sie Kompatibilitätsinformationen, dokumentierte Funktionen, Supportbedingungen, Update-Richtlinien und Kontorisiken, bevor Sie eine Entscheidung treffen.",
+      "author": "cartbeforehorse",
+      "published": "2026-09-11",
+      "upvotes": 39,
+      "sourceTitle": "Wardogs Cheats Buyer's Guide: Was Sie vor dem Kauf überprüfen sollten",
+      "sourcePath": "/blog/wardogs-cheats-buyers-guide/",
+      "body": [
+        "Ich stelle eine Checkliste für den Vergleich der Cheat-Listen von WARDOGS zusammen, da mir die Feature-Namen allein nicht viel sagen.",
+        "Natürlich sind die tatsächlichen Funktionen wichtig, aber was würden Sie sonst noch überprüfen? Kompatibilität, Support, Updates, Lizenzdauer, Rückerstattungsbedingungen?",
+        "Ich würde auch gerne wissen, wie Menschen nützliche Dokumentation von Marketingsprache trennen. Zu sagen, ein Produkt sei „Premium\" oder „Advanced\", erklärt nicht wirklich, was ich kaufe."
+      ],
+      "comments": [
+        {
+          "author": "boringbutuseful",
+          "age": "",
+          "score": 5,
+          "body": "Kompatibilität zuerst. Das genaue Spiel, Betriebssystem und die unterstützte Version sollten klar angegeben werden."
+        },
+        {
+          "author": "tea_and_packets",
+          "age": "",
+          "score": 4,
+          "body": "Ich habe die Lizenzdauer und die Rückerstattungsbedingungen gelesen, bevor ich mir die Funktionsliste angesehen habe. Niemand mag es, den langweiligen Teil nach dem Bezahlen zu entdecken."
+        },
+        {
+          "author": "linuxisntmagic",
+          "age": "",
+          "score": 5,
+          "body": "Spezifische Dokumentation ist besser als eine Wand aus Schlagworten. Wenn in der Auflistung beispielsweise steht, dass etwas Controller-Unterstützung bietet, sollte darin erklärt werden, was das bedeutet, und Sie nicht im Unklaren darüber gelassen werden."
+        },
+        {
+          "author": "dropyourfps",
+          "age": "",
+          "score": 6,
+          "body": "Auch der Support ist wichtig. Gibt es eine echte Möglichkeit, eine Frage zu stellen? Werden Updates dokumentiert? Gibt es eine klare Statusmeldung, wenn die Kompatibilität nicht bestätigt wurde?"
+        },
+        {
+          "author": "mildpanic",
+          "age": "",
+          "score": 7,
+          "body": "Und akzeptieren Sie Behauptungen wie „100 % nicht nachweisbar\" nicht als sinnvolle Garantie. Das ist nichts, was ein Verkäufer ehrlich versprechen kann."
+        },
+        {
+          "author": "cartbeforehorse",
+          "age": "",
+          "score": 3,
+          "body": "Gute Checkliste. Ich würde das Kontorisiko und die tatsächlichen Spielregeln oben hinzufügen, anstatt sie unten zu vergraben. Vergleichen Sie die Produktseite zum [Wardogs-Cheat](/wardogs-cheats) und unsere [Kauf-FAQ](/faq/), bevor Sie bezahlen."
+        }
+      ],
+      "categoryTone": "purple",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "wardogs-cheats-controller-support-compatibility",
+      "category": "Hilfe und Support",
+      "title": "Bedeutet die Controller-Unterstützung, dass ein WARDOGS-Cheat ordnungsgemäß mit einem Controller funktioniert?",
+      "excerpt": "Controller-Unterstützung kann je nach Produkt unterschiedliche Bedeutungen haben. Diese Diskussion behandelt die Kompatibilitätsfragen, die ein Eintrag beantworten sollte, anstatt davon auszugehen, dass ein einziger Anspruch garantiert, dass alles zusammen funktioniert.",
+      "author": "stickdrift",
+      "published": "2026-09-20",
+      "upvotes": 33,
+      "sourceTitle": "Kontaktieren Sie den Support",
+      "sourcePath": "/support/",
+      "body": [
+        "Kurze Frage zur Controller-Unterstützung in WARDOGS-Cheat-Listen.",
+        "Wenn ein Produkt Controller-Unterstützung ankündigt, bedeutet das dann automatisch, dass das Overlay und alle beworbenen Funktionen mit einem Gamepad funktionieren?",
+        "Ich vermute, es gibt einen Unterschied zwischen einem Spiel, das Controller-Eingaben akzeptiert, und einem separaten Tool, das diese Eingaben ordnungsgemäß unterstützt, aber einige Beschreibungen erklären das nicht.",
+        "Welche Details sollte eine ordnungsgemäße Kompatibilitätsseite enthalten? Dokumentierte Antworten finden Sie in der Funktionsliste zum [Wardogs-Cheat](/wardogs-cheats) und im [technischen Support](/support/)."
+      ],
+      "comments": [
+        {
+          "author": "deadzone_dan",
+          "age": "",
+          "score": 4,
+          "body": "Ich würde nichts anderes annehmen als das, was in der Auflistung tatsächlich dokumentiert ist. Controller-Unterstützung ist ein weit gefasster Begriff."
+        },
+        {
+          "author": "keyboardcrumbs",
+          "age": "",
+          "score": 5,
+          "body": "Rechts. Die Gamepad-Unterstützung in WARDOGS sagt nicht automatisch etwas über die Kompatibilität einer anderen Software aus."
+        },
+        {
+          "author": "auntieping",
+          "age": "",
+          "score": 4,
+          "body": "Fragen Sie, welche Eingabemethoden unterstützt werden, für welche Funktionen die Aussage gilt und ob es Einschränkungen gibt. Ziemlich grundlegende Informationen, wirklich."
+        },
+        {
+          "author": "stickdrift",
+          "age": "",
+          "score": 3,
+          "body": "Würden Sie erwarten, dass die Controller-Unterstützung getrennt von der Windows-Kompatibilität aufgeführt wird?"
+        },
+        {
+          "author": "keyboardcrumbs",
+          "age": "",
+          "score": 5,
+          "body": "Definitiv. Betriebssystemkompatibilität und Eingabegerätekompatibilität beantworten unterschiedliche Fragen."
+        },
+        {
+          "author": "dadjokes.exe",
+          "age": "",
+          "score": 8,
+          "body": "Die einzige universelle Controller-Funktion besteht darin, einen Weg zu finden, die Stick-Drift nach einem Fehlschuss zu beschuldigen."
+        }
+      ],
+      "categoryTone": "green",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "wardogs-cheats-not-working-after-update",
+      "category": "Hilfe und Support",
+      "title": "Die Cheat-Software WARDOGS wurde nach einem Update nicht mehr geladen. Welche Informationen sollte der Support benötigen?",
+      "excerpt": "Wenn die Software nach einem Update nicht mehr geladen wird, sollte ein nützliches Support-Ticket klare Fehlerdetails und Versionsinformationen enthalten. Gehen Sie nicht von der Ursache aus und deaktivieren Sie keine Sicherheitsfunktionen, um die Ausführung von Software zu erzwingen.",
+      "author": "rebootrequired",
+      "published": "2026-09-28",
+      "upvotes": 36,
+      "sourceTitle": "Wardogs-Cheat funktioniert nicht? Häufige Probleme und Lösungen",
+      "sourcePath": "/blog/wardogs-cheat-not-working/",
+      "body": [
+        "Welche Informationen machen ein Support-Ticket tatsächlich nützlich, wenn ein WARDOGS-Tool eines Drittanbieters nach einem Spielupdate einen Fehler anzeigt?",
+        "Eine Meldung, die nur „kaputt\" sagt, wird wahrscheinlich niemandem bei der Diagnose helfen.",
+        "Würden Sie den genauen Fehler, die Windows-Version, die Produktversion und den Zeitpunkt angeben, an dem das Problem aufgetreten ist? Gibt es sonst noch etwas, das enthalten sein sollte, ohne zufällige Dateien oder private Informationen an den Support zu senden?"
+      ],
+      "comments": [
+        {
+          "author": "stderrfan",
+          "age": "",
+          "score": 5,
+          "body": "Ein genauer Fehlertext und die Uhrzeit des Auftretens wären ein guter Anfang. Screenshots können hilfreich sein, wenn sie keine persönlichen Informationen preisgeben."
+        },
+        {
+          "author": "cerealpacket",
+          "age": "",
+          "score": 4,
+          "body": "Windows-Version und Softwareversion auch. Ansonsten errät der Support, um welches Setup es sich handelt."
+        },
+        {
+          "author": "dontclickthat",
+          "age": "",
+          "score": 5,
+          "body": "Ich würde den Veröffentlichungsstatus des Produkts überprüfen, bevor ich davon ausgehe, dass es sich um etwas auf Ihrem PC handelt. Durch ein Update könnte sich die Kompatibilität geändert haben. Beginnen Sie mit den [FAQ zur Fehlerbehebung](/blog/wardogs-cheat-not-working/) und [Support kontaktieren](/support/)."
+        },
+        {
+          "author": "rebootrequired",
+          "age": "",
+          "score": 3,
+          "body": "Würden Sie Protokolle senden?"
+        },
+        {
+          "author": "dontclickthat",
+          "age": "",
+          "score": 7,
+          "body": "Nur über den dokumentierten Supportkanal des Produkts und nur über die Protokolle, die sie speziell benötigen. Führen Sie keine zufälligen Dateien aus, die Ihnen ein Fremder schickt, nur weil er sagt, dass es sich um eine Lösung handelt."
+        },
+        {
+          "author": "cachemeoutside",
+          "age": "",
+          "score": 6,
+          "body": "Deaktivieren Sie außerdem nicht die Windows-Sicherheit und greifen Sie nicht in die Anti-Cheat-Funktion des Spiels ein, nur um ein fragwürdiges Tool zum Starten zu bringen. Wenn die Kompatibilität nicht bestätigt wird, stoppen Sie und wenden Sie sich an den Support."
+        }
+      ],
+      "categoryTone": "green",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "wardogs-esp-vs-aimbot-feature-comparison",
+      "category": "Funktionen und Fragen",
+      "title": "WARDOGS ESP oder Aimbot: Wie unterscheiden sich diese Funktionskategorien?",
+      "excerpt": "ESP- und Aimbot-Funktionen werden oft zusammen aufgeführt, sie beschreiben jedoch unterschiedliche Funktionskategorien. Besprechen Sie die Terminologie und wie Sie eine Produktbeschreibung bewerten können, ohne davon auszugehen, dass alle Funktionen enthalten sind.",
+      "author": "menuarchaeologist",
+      "published": "2026-10-05",
+      "upvotes": 40,
+      "sourceTitle": "Wardogs ESP und Radar erklärt",
+      "sourcePath": "/blog/wardogs-esp-radar-explained/",
+      "body": [
+        "Ich versuche den Unterschied zwischen ESP und Aimbot in den WARDOGS-Softwarelisten zu verstehen.",
+        "Nach meinem Verständnis bezieht sich ESP auf die Anzeige zusätzlicher Informationen, während sich ein Aimbot auf eine automatisierte Zielunterstützung bezieht. Sie haben also unterschiedliche Funktionen, auch wenn sie zusammen verkauft werden.",
+        "Ist das im Großen und Ganzen richtig? Und sollten Sie beim Vergleich von Produkten diese als separate Merkmale behandeln, anstatt davon auszugehen, dass ein Produkt beides beinhaltet?"
+      ],
+      "comments": [
+        {
+          "author": "syntaxmango",
+          "age": "",
+          "score": 5,
+          "body": "Ja, das ist der allgemeine Unterschied. Visuelle Informationen versus automatisierte Zielhilfe."
+        },
+        {
+          "author": "seatbeltfps",
+          "age": "",
+          "score": 4,
+          "body": "Eine Liste mit der Aufschrift „ESP\" bedeutet nicht automatisch, dass sie alle möglichen visuellen Merkmale enthält. Namen, Entfernung, Gesundheit und andere Optionen können separat beschrieben werden."
+        },
+        {
+          "author": "marshmallowaim",
+          "age": "",
+          "score": 4,
+          "body": "Gleiches gilt für die Zielhilfe. Verschiedene Targeting-Optionen sind nicht automatisch enthalten, nur weil im Eintrag das Wort „Aimbot\" verwendet wird."
+        },
+        {
+          "author": "uninstalled",
+          "age": "",
+          "score": 5,
+          "body": "Ich würde auch die beworbene Funktionalität von der Kompatibilität trennen. Selbst eine detaillierte Liste beweist nicht, dass eine Funktion derzeit von der neuesten Spielversion unterstützt wird."
+        },
+        {
+          "author": "menuarchaeologist",
+          "age": "",
+          "score": 3,
+          "body": "Macht Sinn. Der Vergleich sollte sich genau darauf konzentrieren, was auf der Seite [Funktionen von Wardogs Cheats](/wardogs-cheats) dokumentiert ist und welche Einschränkungen angegeben sind, anstatt den Produktnamen als die gesamte Spezifikation zu betrachten. Siehe auch [aimbot-Einstellungen](/blog/wardogs-aimbot-settings/)."
+        },
+        {
+          "author": "sectorseven",
+          "age": "",
+          "score": 4,
+          "body": "Und Kontokonsequenzen sind immer noch ein separates Thema. Unterschiedliche Funktionsbezeichnungen bedeuten nicht, dass ein Werkzeug gemäß den Spielregeln zulässig ist."
+        }
+      ],
+      "categoryTone": "blue",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "wardogs-hwid-spoofer-ban-questions",
+      "category": "Fragen zur Sicherheit und zum Konto",
+      "title": "Entfernt ein HWID-Spoofer tatsächlich ein WARDOGS-Verbot?",
+      "excerpt": "Ein HWID-Spoofer ist nicht dasselbe wie eine Kontobeschwerde. Besprechen Sie irreführende Behauptungen zur Aufhebung einer Sperre, offizielle Durchsetzungsregeln und sicherere Möglichkeiten, mit einer Kontobeschränkung umzugehen.",
+      "author": "actuallyreadtheterms",
+      "published": "2026-10-11",
+      "upvotes": 46,
+      "sourceTitle": "Wardogs HWID Spoofer: Was es ist und wann es wichtig ist",
+      "sourcePath": "/blog/wardogs-hwid-spoofer-guide/",
+      "body": [
+        "Kann jemand erklären, was ein HWID-Spoofer im Allgemeinen eigentlich macht?",
+        "Ich habe gesehen, dass der Begriff im Zusammenhang mit Gaming-Software auftaucht, aber mir ist nicht klar, warum die Leute neben Spielverboten auch darüber reden. Entfernt die Änderung einer gemeldeten Hardware-ID irgendwie die ursprüngliche Kontobeschränkung, oder sind das zwei völlig verschiedene Dinge?",
+        "Ich bin nicht auf der Suche nach einer Verbotsumgehung. Ich möchte lediglich den tatsächlichen Kontosupport von den Ansprüchen Dritter trennen."
+      ],
+      "comments": [
+        {
+          "author": "hexedkeyboard",
+          "age": "",
+          "score": 6,
+          "body": "Sie sind nicht dasselbe. Bei einer Hardware-ID und einer Kontosperre handelt es sich um unterschiedliche Konzepte, und die Änderung eines davon stellt nicht sicher, dass die andere Einschränkung entfernt wurde."
+        },
+        {
+          "author": "softreset",
+          "age": "",
+          "score": 5,
+          "body": "Außerdem verbietet die [offizielle Durchsetzungsrichtlinie von WARDOGS](https://www.wardogs.com/enforcement) ausdrücklich das Fälschen der Anti-Cheat-Berichte von WARDOGS. Ich würde das nicht als harmlosen Workaround betrachten."
+        },
+        {
+          "author": "actuallyreadtheterms",
+          "age": "",
+          "score": 4,
+          "body": "Das ist der Teil, den ich klarstellen wollte. Behauptungen, dass ein Spoofer ein bestehendes Verbot automatisch aufhebt, sollten daher nicht für bare Münze genommen werden."
+        },
+        {
+          "author": "breadboard",
+          "age": "",
+          "score": 5,
+          "body": "Richtig. Handelt es sich bei der Einschränkung um einen Fehler, ist der richtige Weg das offizielle Einspruchs- oder Unterstützungsverfahren und nicht ein Verkäufer, der eine Abkürzung verspricht."
+        },
+        {
+          "author": "lagspike",
+          "age": "",
+          "score": 6,
+          "body": "Und bevor Sie ein Programm installieren, das behauptet, Systemkennungen zu ändern, überlegen Sie sorgfältig, welchen Zugriff es verlangt. Sie vertrauen einem Dritten sowohl Ihren Computer als auch Ihr Konto an."
+        },
+        {
+          "author": "hexedkeyboard",
+          "age": "",
+          "score": 4,
+          "body": "Genau. Seien Sie skeptisch gegenüber Garantien, insbesondere wenn in der Vermarktung eines Produkts weder die Einschränkungen noch die offiziellen Regeln erläutert werden."
+        }
+      ],
+      "categoryTone": "green",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "wardogs-skin-changer-cosmetic-unlock-policy",
+      "category": "Fragen zur Sicherheit und zum Konto",
+      "title": "Sind Skin Changer und Cosmetic Unlocker in WARDOGS erlaubt?",
+      "excerpt": "Kosmetische Tools klingen vielleicht weniger ernst als Gameplay-Cheats, aber das Modifizieren eines Spiels oder das Freischalten eingeschränkter Inhalte kann dennoch gegen die Spielregeln verstoßen. Überprüfen Sie die aktuelle Richtlinie, bevor Sie etwas installieren.",
+      "author": "paintbucketpanic",
+      "published": "2026-10-17",
+      "upvotes": 43,
+      "sourceTitle": "Sind Wardogs Cheats sicher? Was Sie über Risiken und Verbote wissen sollten",
+      "sourcePath": "/blog/are-wardogs-cheats-safe/",
+      "body": [
+        "Ehrliche Frage: Werden Skin-Changer in WARDOGS anders behandelt als Gameplay-Cheats?",
+        "Ich verstehe, warum ein Tool, das das Zielen beeinflusst oder versteckte Spielerinformationen anzeigt, als Betrug angesehen wird. Kosmetika scheinen eine andere Kategorie zu sein, aber das Ändern lokaler Dateien oder das Freischalten von Dingen, die das Spiel nicht gewährt, könnte dennoch gegen die Regeln verstoßen.",
+        "Ich möchte nicht davon ausgehen, dass „nur kosmetisch\" zulässig bedeutet. Was ist hier der eigentliche Unterschied?"
+      ],
+      "comments": [
+        {
+          "author": "tos_reader",
+          "age": "",
+          "score": 6,
+          "body": "Die [offizielle Durchsetzungsrichtlinie](https://www.wardogs.com/enforcement) warnt vor modifizierten Clients und Diensten, die kosmetische Freischaltungen anbieten. Ich würde das also lesen, bevor ich davon ausgehe, dass ein Hautwechsler erlaubt ist."
+        },
+        {
+          "author": "squarepantsfps",
+          "age": "",
+          "score": 5,
+          "body": "„Ändert den Schaden nicht\" und „vom Entwickler zugelassen\" sind nicht dasselbe."
+        },
+        {
+          "author": "lemonkeyboard",
+          "age": "",
+          "score": 4,
+          "body": "Genau. Aus Ihrer Sicht kann etwas rein visueller Natur sein und dennoch eine unbefugte Änderung oder Entsperrung erfordern."
+        },
+        {
+          "author": "paintbucketpanic",
+          "age": "",
+          "score": 3,
+          "body": "Ist es also am sichersten, offizielle Anpassungsoptionen von Tools Dritter zu unterscheiden, die Spielinhalte modifizieren oder freischalten?"
+        },
+        {
+          "author": "tos_reader",
+          "age": "",
+          "score": 5,
+          "body": "Ja. Verwenden Sie die unterstützten Anpassungsfunktionen des Spiels, es sei denn, der Entwickler genehmigt ausdrücklich etwas anderes."
+        },
+        {
+          "author": "tinyhitbox",
+          "age": "",
+          "score": 7,
+          "body": "Ich hätte lieber weniger Skins, als wegen etwas Kosmetischem den Zugriff auf das Spiel zu verlieren. Das ist ein extrem schlechter Handel, lol."
+        }
+      ],
+      "categoryTone": "green",
+      "age": "",
+      "commentsCount": 6
+    },
+    {
+      "slug": "wardogs-undetected-external-cheat-claims",
+      "category": "Kaufberatung",
+      "title": "Garantiert eine „unentdeckte\" oder „externe\" WARDOGS-Cheat-Behauptung Sicherheit?",
+      "excerpt": "Technische Begriffe und Marketingbezeichnungen können beruhigend klingen, sie sind jedoch kein Beweis für Kompatibilität, Autorisierung oder zukünftige Erkennungsergebnisse. Besprechen Sie, was diese Behauptungen tatsächlich belegen.",
+      "author": "marketingdetector",
+      "published": "2026-10-21",
+      "upvotes": 51,
+      "sourceTitle": "Wardogs Cheats Buyer's Guide: Was Sie vor dem Kauf überprüfen sollten",
+      "sourcePath": "/blog/wardogs-cheats-buyers-guide/",
+      "body": [
+        "Können wir über die Wörter „extern\" und „unentdeckt\" in WARDOGS-Cheat-Beschreibungen sprechen?",
+        "Sie klingen beruhigend, aber ich verstehe nicht, warum eines der beiden Wörter automatisch beweisen sollte, dass ein Werkzeug sicher in der Anwendung ist. Etwas, das als extern beschrieben wird, sagt mir nicht, ob das Spiel dies zulässt, und eine Statusbezeichnung garantiert nicht, was nach einem zukünftigen Update passieren wird.",
+        "Übersehe ich hier eine technische Unterscheidung oder behandeln die Leute die Marketingsprache wie eine Garantie?"
+      ],
+      "comments": [
+        {
+          "author": "kernelcorn",
+          "age": "",
+          "score": 5,
+          "body": "Der Unterschied besteht darin, dass „extern\" einen beanspruchten technischen Ansatz beschreibt. Es stellt nicht sicher, dass das Spiel das Tool zulässt oder dass der Ansatz nicht erkannt werden kann."
+        },
+        {
+          "author": "bytebandit",
+          "age": "",
+          "score": 6,
+          "body": "Und „unentdeckt\" braucht Kontext. Wann unentdeckt? Gegen welche Version getestet? Von wem? Für wie lange? Diese sind unabhängig von einer Garantie für die Zukunft."
+        },
+        {
+          "author": "mildpanic",
+          "age": "",
+          "score": 5,
+          "body": "Ein grünes Statusetikett kann Ihnen sagen, was ein Verkäufer in diesem Moment behauptet, vorausgesetzt, der Status ist echt. Eine dauerhafte Sicherheitsgarantie ist dadurch nicht möglich."
+        },
+        {
+          "author": "mousetrap99",
+          "age": "",
+          "score": 6,
+          "body": "Die offiziellen Regeln sind ohnehin das größere Problem. WARDOGS verbietet ausdrücklich Cheating-Tools. Eine bestimmte Implementierung wird nicht autorisiert, nur weil ein Verkäufer sie als extern bezeichnet."
+        },
+        {
+          "author": "marketingdetector",
+          "age": "",
+          "score": 4,
+          "body": "So kann man viel besser darüber nachdenken. Technische Beschreibungen können nützlich sein, sollten aber nicht die Überprüfung der [Durchsetzungsrichtlinien](https://www.wardogs.com/enforcement), der [Wardogs-Cheats-Funktionsliste](/wardogs-cheats) oder unserer [FAQ zur Kontosicherheit](/faq/) ersetzen."
+        },
+        {
+          "author": "cerealpacket",
+          "age": "",
+          "score": 7,
+          "body": "Ngl, „100 % unentdeckt für immer\" sollte jeden skeptischer machen, nicht weniger. Software- und Durchsetzungssysteme ändern sich."
+        }
+      ],
+      "categoryTone": "purple",
+      "age": "",
+      "commentsCount": 6
+    }
+  ]
+}

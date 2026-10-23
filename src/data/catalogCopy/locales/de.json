@@ -1,0 +1,96 @@
+{
+  "eyebrow": "Speichern",
+  "title": "Wardogs Cheats und Dienstprogramme",
+  "subtitle": "Alles, was wir für Wardogs verkaufen. Öffnen Sie ein beliebiges Produkt, um die vollständige Funktionsliste, Anforderungen und den Checkout anzuzeigen.",
+  "trust": [
+    "Sofortige Lieferung",
+    "Support rund um die Uhr",
+    "Monats- oder Lebenszeitpläne",
+    "Partner-Checkout"
+  ],
+  "featuredEyebrow": "Hauptprodukt",
+  "from": "Aus",
+  "priceLabel": "Preis",
+  "lifetime": "Lebensdauer",
+  "perMonth": "/ Monat",
+  "utilitiesEyebrow": "Dienstprogramme",
+  "utilitiesTitle": "Weitere Werkzeuge, die wir verkaufen",
+  "utilitiesDesc": "Jedes Dienstprogramm verkauft seine eigene Lizenz mit einer eigenen Seite und einem eigenen Checkout-Pfad.",
+  "chooserEyebrow": "Nicht sicher?",
+  "chooserTitle": "Welches Produkt benötige ich?",
+  "chooserDesc": "Beginnen Sie mit Ihrer Situation. Jede Antwort verweist auf das dafür entwickelte Produkt.",
+  "scenarios": [
+    {
+      "slug": "elite",
+      "need": "Ich möchte Aimbot, Player ESP, Item ESP und Radar auf Wardogs.",
+      "answer": "Wardogs-Cheats"
+    },
+    {
+      "slug": "hwid-spoofer",
+      "need": "Neue Konten funktionieren auf anderen PCs, sterben aber auf diesem Turm sofort.",
+      "answer": "HWID-Spoofer"
+    },
+    {
+      "slug": "ugc",
+      "need": "Mein Gaming- oder soziales Profil ist eingeschränkt und ich benötige Hilfe bei der Beschwerde.",
+      "answer": "Wiederherstellung des UGC-Kontos"
+    },
+    {
+      "slug": "skin-changer",
+      "need": "Ich möchte Deluxe-Oberflächen auf dem Bildschirm, ohne pro Kosmetik bezahlen zu müssen.",
+      "answer": "Hautveränderer"
+    }
+  ],
+  "compareEyebrow": "Vergleichen",
+  "compareTitle": "Vergleichen Sie Produkte nebeneinander",
+  "compareDesc": "Pläne, Lieferung und Bedarf auf einen Blick. Auf den Produktseiten finden Sie alle Einzelheiten.",
+  "compareRows": [
+    {
+      "label": "Am besten für",
+      "values": {
+        "elite": "Wardogs PvP und Loadout-Grinding",
+        "hwid-spoofer": "Auf der Hardwareebene gekennzeichnete Maschinen",
+        "ugc": "Konto- oder Profilbeschränkungen",
+        "skin-changer": "Kundenseitige Kosmetikvorschauen"
+      }
+    },
+    {
+      "label": "Lieferung",
+      "values": {
+        "elite": "Sofort, über das Portal",
+        "hwid-spoofer": "Sofort, über das Portal",
+        "ugc": "Sofort, über das Portal",
+        "skin-changer": "Sofort, über das Portal"
+      }
+    },
+    {
+      "label": "Windows",
+      "values": {
+        "elite": "10/11, 64-Bit",
+        "hwid-spoofer": "10/11, 64-Bit, Admin",
+        "ugc": "10/11, 64-Bit",
+        "skin-changer": "10/11, 64-Bit"
+      }
+    },
+    {
+      "label": "Sicherheitseinstellungen",
+      "values": {
+        "elite": "HVCI, TPM, Secure Boot aktiviert",
+        "hwid-spoofer": "HVCI, TPM, Secure Boot aktiviert",
+        "ugc": "HVCI, TPM, Secure Boot aktiviert",
+        "skin-changer": "HVCI, TPM, Secure Boot aktiviert"
+      }
+    }
+  ],
+  "ctaTitle": "Sie entscheiden immer noch?",
+  "ctaDesc": "Sagen Sie dem Support, was passiert ist oder was Sie tun möchten, und er wird Sie auf das richtige Produkt hinweisen, bevor Sie bezahlen.",
+  "ctaSupport": "Fragen Sie den Support",
+  "menuHeading": "Produkte",
+  "menuViewAll": "Vergleichen Sie alle Produkte",
+  "menuTaglines": {
+    "elite": "Aimbot, Player-ESP, Item-ESP und Radar",
+    "hwid-spoofer": "Aktualisieren Sie Festplatten-, MAC- und GPU-IDs",
+    "ugc": "Musterbeschwerde mit Streitschlichtern",
+    "skin-changer": "Skins, Outfits, Messer auf dem Bildschirm"
+  }
+}

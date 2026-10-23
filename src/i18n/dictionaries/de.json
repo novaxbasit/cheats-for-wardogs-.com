@@ -1,0 +1,941 @@
+{
+  "site": {
+    "name": "{siteName}",
+    "domain": "{siteDomain}",
+    "title": "Wardogs Cheats | Aimbot, Player ESP und Radar",
+    "description": "Wardogs-Menütools für Aimbot, Player-ESP, Item-ESP, Radar und Rückstoßoptionen unter Windows, mit Loader-Updates nach Patches. Vergleichen Sie Pläne unter {siteDomain}."
+  },
+  "nav": [
+    {
+      "id": "products",
+      "href": "/products/",
+      "label": "Produkte",
+      "shortLabel": "Produkte"
+    },
+    {
+      "id": "blog",
+      "href": "/blog/",
+      "label": "Blog"
+    },
+    {
+      "id": "forum",
+      "href": "/forum/",
+      "label": "Forum"
+    },
+    {
+      "id": "faq",
+      "href": "/faq/",
+      "label": "FAQ"
+    },
+    {
+      "id": "support",
+      "href": "/support/",
+      "label": "Unterstützung"
+    }
+  ],
+  "hero": {
+    "status": "Wardogs, Patch-Build online",
+    "eyebrow": "Nr. 1 CHEATS-ANBIETER",
+    "titleLead": "Wardogs ",
+    "titleAccent": "Cheats",
+    "subtitle": "Spieler-ESP, Aimbot und Radar fuer Wardogs unter Windows. Produkte unten vergleichen: Module und Monats- oder Lifetime-Tarife vor dem Kauf.",
+    "ctaPrimary": "Produkte ansehen",
+    "metrics": [
+      {
+        "label": "Stromsicher",
+        "strong": "Ja"
+      },
+      {
+        "label": "Patch-Geschwindigkeit",
+        "strong": "<24h"
+      },
+      {
+        "label": "Benutzer",
+        "strong": "300+"
+      },
+      {
+        "label": "Live-Support",
+        "strong": "24/7"
+      }
+    ],
+    "statusPills": [
+      "Spieler ESP",
+      "Artikel ESP",
+      "Radar Online",
+      "Aimbot bereit",
+      "Triggerbot",
+      "Kein Rückstoß",
+      "Keine Ausbreitung",
+      "Stream-Beweis",
+      "Volle Helligkeit",
+      "Teamcheck",
+      "Benutzerdefiniertes Fadenkreuz",
+      "Konfiguration speichern",
+      "24/7-Support",
+      "Sofortige Lieferung",
+      "Live-Status",
+      "Patch-Tracking",
+      "FOV-Kontrollen",
+      "Automatische Updates"
+    ]
+  },
+  "features": {
+    "eyebrow": "Merkmale",
+    "title": "Alles, was Sie brauchen, in einem Paket",
+    "subtitle": "Zielhilfen, Spieler- und Gegenstands-ESP, Radar und Waffenhandhabungsoptionen für Wardogs, beibehalten nach Patches.",
+    "items": [
+      {
+        "title": "Spieler ESP",
+        "subtitle": "Lesen Sie das Feuergefecht.",
+        "desc": "2D-Boxen, Namen, Distanz, Waffeninformationen und KDA-Linien helfen Ihnen, Angriffe zu verfolgen, ohne die Tabs zu verlassen.",
+        "bullets": [
+          "Snaplines und Annäherungsalarme",
+          "Bot-ESP- und Team-Check-Filter",
+          "Benutzerdefinierte Farbvoreinstellungen pro Ebene",
+          "Maximale Distanzobergrenzen im Menü",
+          "Waffen- und KDA-Anzeigen"
+        ],
+        "tags": [
+          "Wardogs insb",
+          "Spieler insb",
+          "Snaplines"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-12 lg:col-start-1 lg:row-start-1"
+      },
+      {
+        "title": "Artikel ESP",
+        "subtitle": "Beutebewusstsein.",
+        "desc": "Item ESP markiert Pickups und Ausrüstung auf der Karte mit Abstandskontrollen, damit Sie sicher unterwegs sind.",
+        "bullets": [
+          "Artikelbeschriftungen und Entfernungsanzeigen",
+          "Schieberegler für den maximalen ESP-Abstand",
+          "Schalten Sie die Sätze pro Spielmodus um",
+          "Kombiniert mit Radar-Overlays"
+        ],
+        "tags": [
+          "Artikel insb",
+          "Beute, insb",
+          "Abstandskappe"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-8 lg:col-start-1 lg:row-start-2"
+      },
+      {
+        "title": "Aimbot",
+        "subtitle": "Abgestimmte Zielhilfen.",
+        "desc": "Aimbot-, Aimlock-, Speicherziel- und Vorhersageeinstellungen teilen sich FOV, Hitbox und Glättungssteuerung.",
+        "bullets": [
+          "Benutzerdefinierte Zieltasten und Hitbox-Auswahl",
+          "Sichtprüfungen und Schaltverzögerung",
+          "Controller-kompatible Assists",
+          "Zielindikatoren im Menü"
+        ],
+        "tags": [
+          "Zielbot",
+          "Zielsperre",
+          "Triggerbot"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-1 lg:row-start-3"
+      },
+      {
+        "title": "Kein Rückstoß",
+        "subtitle": "Stabilere Ausbrüche.",
+        "desc": "Die Optionen „Kein Rückstoß\" und „Keine Streuung\" sollen gelistete Waffen stabilisieren, wenn sie im Menü angezeigt werden.",
+        "bullets": [
+          "Separate Schalter pro Waffenklasse",
+          "Kraftschieber mit Kappen",
+          "Speichern Sie Handhabungsvoreinstellungen in der Cloud",
+          "Koppeln Sie es mit den Ziel-FOV-Grenzwerten"
+        ],
+        "tags": [
+          "kein Rückstoß",
+          "keine Ausbreitung",
+          "Umgang mit Waffen"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-3"
+      },
+      {
+        "title": "Radar",
+        "subtitle": "Aktivität in der Nähe.",
+        "desc": "Die Radaransicht ist darauf ausgelegt, Bewegungen in der Nähe anzuzeigen, sodass Sie sich drehen können, bevor sich eine Flanke nähert.",
+        "bullets": [
+          "Die Aktivität bewegt sich um Ihre Position herum",
+          "Steuerelemente für Deckkraft und Skalierung",
+          "Funktioniert neben ESP-Farbebenen",
+          "Umschalten, ohne das Menü zu schließen"
+        ],
+        "tags": [
+          "Radar",
+          "Wardogs-Radar",
+          "Kartenbewusstsein"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-8 lg:row-span-2 lg:col-start-1 lg:row-start-4"
+      },
+      {
+        "title": "Trigger-Bot",
+        "subtitle": "Bei Ausrichtung feuern.",
+        "desc": "Der optionale Triggerbot wird ausgelöst, wenn Ihr Fadenkreuz ein gültiges Ziel trifft, mit Verzögerung und Schlüsseltoren.",
+        "bullets": [
+          "Verzögerungs- und Haltezeit-Tuning",
+          "Team überprüft bewusstes Schießen",
+          "Von Aimbot trennen",
+          "Konservative Vorgaben im Portal"
+        ],
+        "tags": [
+          "Bot auslösen",
+          "Feuerhilfe",
+          "Wardogs betrügt"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4 lg:row-span-2 lg:col-start-9 lg:row-start-4"
+      },
+      {
+        "title": "Stream-Beweis",
+        "subtitle": "Gebaut für Kreative.",
+        "desc": "Stream-Proof-Modi sind so konzipiert, dass Overlays auf Ihrem Monitor bleiben, während die Aufnahmesoftware einen sauberen Feed aufzeichnet.",
+        "bullets": [
+          "OBS- und Game Bar-Aufnahmemodi",
+          "Schalten Sie den Stream-Proof pro Modul um",
+          "Testcheckliste in Portaldokumenten"
+        ],
+        "tags": [
+          "obs erfassen",
+          "Stream-Beweis",
+          "einfangen, verstecken"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-1 lg:row-start-6"
+      },
+      {
+        "title": "Visuelle Umschalter",
+        "subtitle": "Klarheit und HUD.",
+        "desc": "Volle Helligkeit, benutzerdefiniertes Fadenkreuz, Blitz deaktivieren, Zoomstufe und FPS- oder VSync-Optionen finden Sie auf der Registerkarte „Sonstiges\".",
+        "bullets": [
+          "Volle Helligkeit für dunkle Karten",
+          "Benutzerdefinierte Fadenkreuzformen",
+          "Deaktivieren Sie den Blitz dort, wo er aufgeführt ist",
+          "Zoomstufe und HUD-Anzeigen"
+        ],
+        "tags": [
+          "voll hell",
+          "Fadenkreuz",
+          "Blitz deaktivieren"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-6"
+      },
+      {
+        "title": "Cloud-Konfiguration und Updates",
+        "subtitle": "Patch-Day bereit.",
+        "desc": "Speichern, laden und organisieren Sie Konfigurationen im Menü; Portal-Lieferung verfolgt Wardogs und Anti-Cheat-Patch-Tage.",
+        "bullets": [
+          "Cloud-Backup für Profile",
+          "Loader-Push innerhalb weniger Stunden nach Patches",
+          "Statusbanner für Build-Notizen"
+        ],
+        "tags": [
+          "Cloud-Synchronisierung",
+          "automatische Aktualisierung",
+          "Voreinstellungen"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4 lg:col-start-9 lg:row-start-2"
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "Warum wir",
+    "title": "Wardogs-Werkzeuge, die durch Patches und nicht durch Versprechungen gestützt werden",
+    "subtitle": "Viele Cheat-Shops bieten veraltete Loader, laute Rage-Presets und Ticket-Bots an. {siteDomain} konzentriert sich auf Patch-Day-Loader-Builds, lesbare ESP-Standardeinstellungen und Live-Operatoren.",
+    "usLabel": "{siteName}",
+    "otherLabel": "Typischer Anbieter",
+    "rows": [
+      {
+        "title": "Patch-Day-Loader-Updates",
+        "desc": "Anti-Cheat-fähige Builds werden innerhalb weniger Stunden nach Wardogs-Updates veröffentlicht; Überprüfen Sie das Live-Status-Banner, bevor Sie sich in die Warteschlange stellen."
+      },
+      {
+        "title": "Humanisierte Ziel- und ESP-Standardeinstellungen",
+        "desc": "FOV-Begrenzungen, Glättungs- und Distanzfilter werden im Portal konservativ ausgeliefert, sodass Overlays lesbar bleiben, und nicht bei Wall-of-Box-Rage-Modi."
+      },
+      {
+        "title": "Live-Operatoren",
+        "desc": "Echte Ingenieure für die Einrichtung von Ladern, ESP-Konfigurationen und HWID-Resets: Schichtabdeckung rund um die Uhr, kein Kopieren und Einfügen von FAQ-Tickets."
+      },
+      {
+        "title": "Externer Loader + Stream-Proof",
+        "desc": "Overlay-Suite mit OBS-Erfassungsmodi, keine riskante DLL-Injektion in den Wardogs-Prozess, wie sie bei älteren Anbietern noch üblich ist."
+      },
+      {
+        "title": "Cloud-Voreinstellungssynchronisierung",
+        "desc": "Sicherung der Profile pro Modus im Portal, gleiche Schieberegler auf jedem PC, ohne sie von Grund auf neu erstellen zu müssen."
+      },
+      {
+        "title": "HWID-Reset und Lizenzverschiebungen",
+        "desc": "HWID-Clearing und maschinelle Übertragungen werden über den Support abgewickelt. Die meisten Anbieter sperren ein Rig oder berechnen für jeden Austausch eine Gebühr."
+      }
+    ],
+    "metrics": [
+      {
+        "value": "<24h",
+        "title": "Patch-Turnaround",
+        "desc": "Durchschnittliche Zeit bis zur Auslieferung eines Loader-Builds nach größeren Wardogs oder Anti-Cheat-Änderungen."
+      },
+      {
+        "value": "24/7",
+        "title": "Betreiberunterstützung",
+        "desc": "Techniker im Schichtdienst für Einrichtungs-, Konfigurations- und Kontoprobleme."
+      },
+      {
+        "value": "300+",
+        "title": "Aktive Betreiber",
+        "desc": "Windows-Spieler, die ESP, Aimbot und Dienstprogramme auf {siteDomain} ausführen."
+      }
+    ]
+  },
+  "setup": {
+    "eyebrow": "Einrichtungsanleitung",
+    "titleLead": "Von der Kasse bis zu Ihrem ersten Spiel in nur wenigen Minuten",
+    "titleHighlight": "drei einfache Schritte",
+    "intro": "Der Einstieg ist einfach. Folgen Sie dem Ablauf des Betreiberportals, um den Loader herunterzuladen, Voreinstellungen zu laden und Wardogs unter Windows zu starten.",
+    "ctaPrimary": "Tarife vergleichen",
+    "ctaSecondary": "Lesen Sie die Setup-FAQ",
+    "ctaPrimaryHref": "/cheats/",
+    "ctaSecondaryHref": "/faq/",
+    "steps": [
+      {
+        "step": "Schritt 1",
+        "title": "Portal entsperren und Loader herunterladen",
+        "desc": "Schließen Sie den Checkout ab, öffnen Sie Ihr Operator-Dashboard und laden Sie den neuesten Patch-Loader-Build für Windows herunter."
+      },
+      {
+        "step": "Schritt 2",
+        "title": "Module starten und konfigurieren",
+        "desc": "Führen Sie den externen Loader aus, importieren Sie Wardogs-Voreinstellungen und optimieren Sie ESP, Aimbot und Radar-Schieberegler."
+      },
+      {
+        "step": "Schritt 3",
+        "title": "Überprüfen Sie den Status und starten Sie Wardogs",
+        "desc": "Überprüfen Sie das Live-Statusbanner, starten Sie den Spielclient und spielen Sie mit im Portal gespeicherten Cloud-Profilen."
+      }
+    ]
+  },
+  "compatibility": {
+    "eyebrow": "Plattformunterstützung",
+    "title": "Läuft auf Ihrem Gerät.",
+    "subtitle": "Überprüfen Sie das Live-Status-Banner, bevor Sie Wardogs nach Updates starten.",
+    "items": [
+      "Windows 10 und 11",
+      "Wardogs",
+      "Anti-Cheat-Client",
+      "Automatischer Updater",
+      "Cloud-Synchronisierung konfigurieren",
+      "HWID zurückgesetzt",
+      "Externer Lader"
+    ]
+  },
+  "cheats": {
+    "eyebrow": "Hauptprodukt",
+    "title": "Wardogs-Cheats",
+    "subtitle": "Aimbot, Player-ESP, Item-ESP, Radar und Handhabungsoptionen mit vorrangiger Patch-Lieferung.",
+    "viewAll": "Produktdetails anzeigen",
+    "explore": "Erkunden",
+    "items": [
+      {
+        "badge": "Begrenzte Slots",
+        "tier": "Privat",
+        "name": "Wardogs-Cheats",
+        "title": "Wardogs Hacks fuer Windows",
+        "desc": "Aimbot, Player-ESP, Item-ESP, Radar, kein Rückstoß, keine Ausbreitung und menügeführte Optionen für Wardogs unter Windows. Monatlich (35 $, 31 Tage) und lebenslang (150 $) an der Kasse.",
+        "heroDesc": "Zielhilfen, Spieler-ESP und Radar in einem Menue einstellen. Kompatibilitaet auf {siteDomain} pruefen, bevor du Wardogs startest.",
+        "features": [
+          "Aimbot",
+          "Spieler ESP",
+          "Artikel ESP",
+          "Radar",
+          "Kein Rückstoß",
+          "Keine Verbreitung"
+        ],
+        "more": 21,
+        "href": "/cheats/",
+        "variant": "limited"
+      }
+    ]
+  },
+  "products": {
+    "eyebrow": "Speichern",
+    "title": "Unsere Produkte",
+    "subtitle": "Für jedes Produkt gibt es eine eigene Seite mit Funktionen, Anforderungen und Checkout.",
+    "viewAll": "Alle Cheats anzeigen",
+    "backToCheats": "Zurück zum Produkt",
+    "showcaseHeading": "Produktübersicht",
+    "experience": {
+      "eyebrow": "Erfahrung",
+      "title": "Menüebenen · Nach dem Bezahlen",
+      "subtitle": "Die Screenshots oben zeigen das Wardogs-Menülayout; Nachfolgend erfahren Sie, was die einzelnen Modulgruppen tun und wie der Portalzugang nach dem Kauf funktioniert.",
+      "previewLabel": "Ebenen im Spiel",
+      "accessDividerTop": "Vorschau",
+      "accessDividerBottom": "Zugang"
+    },
+    "hwidPage": {
+      "showcaseHeading": "Aufnahmen des Bedienfelds",
+      "overviewSubtitle": "Sehen Sie, welche Kennungen rotieren, welche Anti-Cheat-Familien wir dokumentieren und wie sich Maschinen-Flags von Kontosanktionen unterscheiden.",
+      "highlights": {
+        "eyebrow": "Schnell gelesen",
+        "title": "Umfang der Hardware-Aktualisierung",
+        "desc": "Festplatte, MAC, GPU und zugehörige IDs können nach einem Hardware-Flag aktualisiert werden, sodass sich dieser PC erneut anmeldet. Vollständige Tabellen werden weiter unten auf der Seite angezeigt."
+      },
+      "featuresSection": {
+        "eyebrow": "Abdeckung",
+        "title": "Identifikatoren und Anti-Cheat-Listen",
+        "desc": "In den Zeilen werden die Fingerabdrucktypen aufgelistet, die das Bedienfeld zusammen mit den von uns veröffentlichten Anti-Cheat-Familien bearbeitet."
+      },
+      "experience": {
+        "eyebrow": "Nach dem Kauf",
+        "title": "Komplettlösung für die Benutzeroberfläche · Portalschritte",
+        "subtitle": "Die Panel-Beschriftungen befinden sich auf der linken Seite. Lizenzlieferung und Einrichtungsauftrag befinden sich auf der rechten Seite.",
+        "previewLabel": "Panelansichten",
+        "accessDividerTop": "Benutzeroberfläche",
+        "accessDividerBottom": "Schritte"
+      },
+      "highlightsMore": "{count} Weitere Zeilen werden in der vollständigen Funktionstabelle aufgeführt."
+    },
+    "utilityPages": {
+      "ugc": {
+        "showcaseHeading": "Workflow-Standbilder",
+        "overviewSubtitle": "Erfahren Sie, wie UGC Einschränkungen auf Vorlagen abbildet, welche Schritte automatisch ausgeführt werden und warum Plattformen ihr Vetorecht behalten.",
+        "highlights": {
+          "eyebrow": "Fokus",
+          "title": "Automatisierung von Einspruchspaketen",
+          "desc": "Gaming-, Social- und Marktplatz-Limits erhalten jeweils wiederholbare Streitbeilegungs-Workflows anstelle von manuellem Kopieren und Einfügen."
+        },
+        "featuresSection": {
+          "eyebrow": "Module",
+          "title": "Automatisierung inklusive",
+          "desc": "Die Funktionen werden freigeschaltet, sobald Ihre UGC-Lizenz aktiv ist."
+        },
+        "experience": {
+          "eyebrow": "Zugang",
+          "title": "Bildschirme · Portalfluss",
+          "subtitle": "Standbilder links; Lizenzlieferung und Einrichtung rechts.",
+          "previewLabel": "Screenshots",
+          "accessDividerTop": "Benutzeroberfläche",
+          "accessDividerBottom": "Schritte"
+        },
+        "highlightsMore": "{count} zusätzliche Funktionszeilen befinden sich weiter unten auf der Seite."
+      },
+      "skin-changer": {
+        "showcaseHeading": "Lookbook-Standbilder",
+        "overviewSubtitle": "Sehen Sie, wo Endbearbeitungen erfolgen, was Ihren Bestand nie berührt und wie Sie einen Titel vor dem Auschecken überprüfen können.",
+        "highlights": {
+          "eyebrow": "Fokus",
+          "title": "Finishing-Bibliothek auf dem Gerät",
+          "desc": "Premium-Waffen-Skins, Outfits und Messerstile in unterstützten Spielen, ohne jeden Artikel einzeln kaufen zu müssen."
+        },
+        "featuresSection": {
+          "eyebrow": "Module",
+          "title": "Kosmetikkategorien",
+          "desc": "Finish-Typen sind verfügbar, sobald Ihre Kosmetiklizenz aktiv ist."
+        },
+        "experience": {
+          "eyebrow": "Zugang",
+          "title": "Bildschirme · Portalfluss",
+          "subtitle": "Screenshot-Notizen links; Portalzugang und Menüeinrichtung auf der rechten Seite.",
+          "previewLabel": "Screenshots",
+          "accessDividerTop": "Benutzeroberfläche",
+          "accessDividerBottom": "Schritte"
+        },
+        "highlightsMore": "{count} zusätzliche kosmetische Zeilen befinden sich weiter unten auf der Seite."
+      }
+    },
+    "swipeHint": "Für weitere Screenshots wischen",
+    "checkoutEyebrow": "Kasse",
+    "checkoutSelect": "Abonnement auswählen",
+    "checkoutSingle": "Kaufoption",
+    "checkoutTotal": "Gesamt",
+    "bestValue": "Bester Wert",
+    "planWeekly": "1 Woche",
+    "planWeeklyNote": "7 Tage",
+    "planMonthly": "Monatlich",
+    "planLifetime": "Lebensdauer",
+    "planOneTime": "Einmaliger Zugriff",
+    "planPerMonth": "31 Tage Zugriff",
+    "planOneTimeNote": "Unbegrenzter Zugang",
+    "get": "Erhalten",
+    "explore": "Erkunden",
+    "buyNow": "Jetzt kaufen",
+    "viewDetails": "Details anzeigen",
+    "items": [
+      {
+        "badge": "Verfügbar",
+        "category": "Systemdienstprogramm",
+        "title": "HWID Spoofer fuer Wardogs-PCs",
+        "subtitle": "Disk-Seriennummern, MAC und GPU-IDs rotieren, dann den gebündelten Cleaner vor dem Login ausfuehren.",
+        "desc": "Aktualisiert Festplattenserien, MAC-Adressen, GPU-IDs und zugehörige Fingerabdrücke nach einem Hardware-Flag mit Trace-Bereinigung in derselben Lizenz.",
+        "features": [
+          "Aktualisierung der seriellen Festplatte",
+          "MAC-Aktualisierung",
+          "Aktualisierung der GPU-ID",
+          "Reiniger inklusive"
+        ],
+        "more": 0,
+        "href": "/hwid-spoofer/"
+      },
+      {
+        "badge": "Verfügbar",
+        "category": "Kontowiederherstellung",
+        "title": "Account Recovery mit UGC",
+        "subtitle": "Vorlagen fuer Einsprueche und automatisierte Dispute-Schritte fuer gesperrte Gaming-, Social- oder Marketplace-Profile.",
+        "desc": "Unban & Governance Control (UGC) versendet Musterbeschwerden und automatisierte Streitbeilegungen für begrenzte Anmeldungen auf allen Plattformen.",
+        "features": [
+          "Beschwerde-Workflows",
+          "Streitautomatisierung",
+          "Jede Plattform",
+          "Gaming, soziale Netzwerke, Marktplatz"
+        ],
+        "more": 0,
+        "href": "/ugc/"
+      },
+      {
+        "badge": "Verfügbar",
+        "category": "Kosmetik",
+        "title": "Client Skin Changer fuer unterstuetzte Titel",
+        "subtitle": "Waffen- und Outfit-Skins lokal ansehen, ohne jedes kostenpflichtige Cosmetic freizuschalten.",
+        "desc": "Kleiner Client, der in großen Titeln Premium-Waffen-Skins, Outfits und Messervarianten auf Ihren Bildschirm malt.",
+        "features": [
+          "Waffen-Finish-Voreinstellungen",
+          "Outfit-Voreinstellungen",
+          "Voreinstellungen für den Messerstil",
+          "Wichtige Titelberichterstattung"
+        ],
+        "more": 0,
+        "href": "/skin-changer/"
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Anleitungen und Updates",
+    "subtitle": "ESP- und Aimbot-Setup, Menüoptimierung und Patch-Day-Checks für Wardogs.",
+    "latestTitle": "Wardogs-Cheat-Guides und Patch-Day-Notizen",
+    "latestSubtitle": "Filtern Sie nach Themen, um Einrichtungsanleitungen, detaillierte Informationen zu Funktionen und Patch-Day-Notizen zu finden.",
+    "filterAll": "Alle Artikel",
+    "emptyFilter": "Keine Artikel entsprechen diesem Filter.",
+    "emptyArchive": "Noch keine Artikel. Hier werden neue Guides auftauchen.",
+    "viewAll": "Alle Artikel ansehen",
+    "read": "Lesen",
+    "articleActionsAria": "Lesen Sie weiter",
+    "buyCta": "Wardogs Cheats kaufen",
+    "buyHwidCta": "Kaufen Sie HWID-Spoofer",
+    "moreArticles": "Weitere Artikel",
+    "sidebarAria": "Artikelseitenleiste",
+    "tocTitle": "In diesem Artikel",
+    "relatedTitle": "Verwandte Leitfäden",
+    "filterToolbarAria": "Artikel nach Thema filtern",
+    "items": []
+  },
+  "workflow": {
+    "eyebrow": "Wie es funktioniert",
+    "badge": "4 einfache Schritte",
+    "titleBefore": "Von der Statusprüfung bis",
+    "titleHighlight": "gespeichertes Profil.",
+    "subtitle": "Ein direkter Weg von der Statusprüfung zu einer gespeicherten Konfiguration, die Sie in jeder Sitzung wiederverwenden können.",
+    "ctaLabel": "Wählen Sie Ihren Plan",
+    "ctaHref": "/cheats/",
+    "ctaSecondary": "Häufig gestellte Fragen zur Einrichtung",
+    "ctaSecondaryHref": "/faq/",
+    "items": [
+      {
+        "num": "01",
+        "phase": "Vor dem Kauf",
+        "title": "Überprüfen Sie den Live-Status",
+        "desc": "Lesen Sie das Live-Banner auf {siteDomain}, bevor Sie kaufen oder starten."
+      },
+      {
+        "num": "02",
+        "phase": "Kasse",
+        "title": "Wählen Sie Ihr Produkt",
+        "desc": "Wählen Sie die Cheat-Suite oder ein Hardware-Dienstprogramm, je nachdem, was zu den Sperren, Rigs oder Konto-Resets passt, mit denen Sie konfrontiert sind."
+      },
+      {
+        "num": "03",
+        "phase": "Lader",
+        "title": "Starten und konfigurieren",
+        "desc": "Laden Sie es vom Portal herunter, aktivieren Sie Module und stimmen Sie ESP und Zielschieberegler zunächst offline ab."
+      },
+      {
+        "num": "04",
+        "phase": "Im Spiel",
+        "title": "Speichern Sie Ihr Profil",
+        "desc": "Wenn sich die Einstellungen richtig anfühlen, speichern Sie die Modusvoreinstellungen für die nächste Sitzung in der Cloud."
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "Unterstützung",
+    "title": "Wardogs Cheats-Unterstützung",
+    "subtitle": "Lassen Sie uns wissen, wie wir helfen können.",
+    "channels": [
+      {
+        "icon": "users",
+        "title": "Chatten Sie vor dem Bezahlen",
+        "desc": "Sprechen Sie mit unserem Team über Stufen und Zugang.",
+        "linkLabel": "Zur Kasse gehen",
+        "href": "/go/wardogs/"
+      },
+      {
+        "icon": "headphones",
+        "title": "Chatten Sie, um zu unterstützen",
+        "desc": "Wir sind für Sie da, wenn es um Loader-, HWID- und Kontoprobleme geht.",
+        "linkLabel": "{supportEmail}",
+        "href": "mailto:{supportEmail}"
+      },
+      {
+        "icon": "navFaq",
+        "title": "Lesen Sie die FAQ",
+        "desc": "Kompatibilität, Verbote und Einrichtung vor dem Kauf.",
+        "linkLabel": "Alle FAQ anzeigen",
+        "href": "/faq/"
+      }
+    ],
+    "ticketTitle": "Fügen Sie es Ihrem Ticket bei",
+    "ticketItems": [
+      {
+        "title": "E-Mail bestellen",
+        "desc": "Die Adresse, die beim Checkout am {siteDomain} oder über unseren Partner-Checkout verwendet wird."
+      },
+      {
+        "title": "Plattform",
+        "desc": "Windows 10 oder 11 und Ihre Wardogs-Clientversion."
+      },
+      {
+        "title": "Fehlerdetails",
+        "desc": "Screenshot oder genaue Nachricht vom Loader oder Game-Client."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Klare Antworten vor dem Bezahlen.",
+    "subtitle": "Kompatibilität, Verbote und Zugang, keine vagen Versprechungen.",
+    "items": [
+      {
+        "num": "01",
+        "q": "Wo überprüfe ich, ob Wardogs-Cheats online sind?",
+        "a": "Das Live-Status-Banner ist auf {siteDomain}. Überprüfen Sie immer nach einem Wardogs- oder Anti-Cheat-Update."
+      },
+      {
+        "num": "02",
+        "q": "Was passiert nach dem Kauf?",
+        "a": "Ihr Portal gewährt Loader-Zugriff, die Setup-Anleitung und die Konfigurationsbibliothek über unseren Partner-Checkout. Befolgen Sie die Anleitung, bevor Sie Wardogs starten."
+      },
+      {
+        "num": "03",
+        "q": "Kann ich mit Wardogs-Cheats von Drittanbietern gesperrt werden?",
+        "a": "Ja, jede Änderung birgt Risiken. Anti-Cheat- und Meldesysteme entwickeln sich weiter. Lesen Sie vor der Verwendung den aktuellen Status und akzeptieren Sie das Risiko."
+      },
+      {
+        "num": "04",
+        "q": "Welche Plattformen werden unterstützt?",
+        "a": "Wardogs nur unter Windows 10/11 64-Bit. macOS und Linux werden nicht unterstützt."
+      },
+      {
+        "num": "05",
+        "q": "Kann ich meine Lizenz auf einen neuen PC übertragen?",
+        "a": "Ja, nutzen Sie den HWID-Reset in Ihrem Portal oder eröffnen Sie ein Support-Ticket. Die Limits hängen von Ihrer Stufe ab."
+      },
+      {
+        "num": "06",
+        "q": "Wo sind Produkte und Dienstprogramme aufgeführt?",
+        "a": "Jedes Produkt ist unter {siteDomain}/products/ gelistet und jedes hat seine eigene Seite mit einer Funktionsliste und der Kaufabwicklung über unseren Partner."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Wardogs-Cheats mit Aimbot, Player ESP und Radar für PC. {siteDomain}",
+    "trademark": "{game} ist eine Marke von {gamePublisher}. {siteDomain} ist nicht mit {gamePublisher} verbunden oder wird von {gamePublisher} unterstützt.",
+    "explore": "Erkunden",
+    "exploreLinks": [
+      {
+        "id": "products",
+        "href": "/",
+        "label": "Funktionsübersicht",
+        "ariaLabel": "Merkmale",
+        "scrollTarget": "Merkmale"
+      },
+      {
+        "id": "products",
+        "href": "/products/",
+        "label": "Alle Produkte",
+        "ariaLabel": "Alle Produkte"
+      },
+      {
+        "id": "products",
+        "href": "/cheats/",
+        "label": "{cheatProduct}",
+        "ariaLabel": "{cheatProduct}"
+      },
+      {
+        "id": "hwidSpoofer",
+        "href": "/hwid-spoofer/",
+        "label": "HWID-Spoofer",
+        "ariaLabel": "HWID-Spoofer"
+      },
+      {
+        "id": "products",
+        "href": "/ugc/",
+        "label": "UGC",
+        "ariaLabel": "Wiederherstellung des UGC-Kontos"
+      },
+      {
+        "id": "products",
+        "href": "/skin-changer/",
+        "label": "Hautveränderer",
+        "ariaLabel": "Hautveränderer"
+      },
+      {
+        "id": "blog",
+        "href": "/blog/",
+        "label": "Blog",
+        "ariaLabel": "Blog"
+      },
+      {
+        "id": "forum",
+        "href": "/forum/",
+        "label": "Forum",
+        "ariaLabel": "Forum"
+      }
+    ],
+    "supportLinks": [
+      {
+        "href": "/faq/",
+        "label": "Häufig gestellte Fragen vor dem Kauf",
+        "ariaLabel": "FAQ"
+      },
+      {
+        "href": "/support/",
+        "label": "Kontaktieren Sie den Support",
+        "ariaLabel": "Unterstützung"
+      }
+    ],
+    "support": "Unterstützung",
+    "legal": "Legal",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "about": "Um"
+  },
+  "legalPages": {
+    "about": {
+      "title": "Über {siteName}",
+      "description": "{siteName} bietet {cheatProduct}, zugehörige Dienstprogramme und PC-Supportressourcen unter {siteDomain}.",
+      "sections": [
+        {
+          "heading": "Wer wir sind",
+          "paragraphs": [
+            "{siteName} ist eine PC-orientierte Ressource für Wardogs-Spieler, die Aimbot-, Player-ESP-, Item-ESP- und Radaroptionen erkunden. Wir veröffentlichen Einrichtungsanleitungen und Live-Statusnotizen, damit Sie {cheatProduct} vor dem Kauf bewerten können.",
+            "Alle Produktnamen werden nur zur Identifizierung verwendet."
+          ]
+        },
+        {
+          "heading": "Was wir veröffentlichen",
+          "paragraphs": [
+            "Unsere Website deckt {cheatProduct} und die auf unserer Produktseite aufgeführten Dienstprogramme ab. Blog-Artikel erläutern Menükonfigurationen, Patch-Day-Prüfungen und das Verhalten bei Anti-Cheat-Updates.",
+            "Der Inhalt wird aktualisiert, wenn Patches verfügbar sind oder Loader-Module verschoben werden. Überprüfen Sie vor jeder Sitzung das Statusbanner der Homepage."
+          ]
+        },
+        {
+          "heading": "Unterstützung",
+          "paragraphs": [
+            "Fragen zu Kompatibilität, Ladefehlern oder zur Kasse werden über den E-Mail-Support beantwortet. Geben Sie beim Öffnen eines Tickets Ihre Bestell-E-Mail-Adresse, Ihr Spielkonto und Ihre Windows-Version an."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Datenschutzrichtlinie",
+      "description": "Wie {siteName} mit Analysen, Cookies und Kontaktdaten umgeht, wenn Sie {siteDomain} verwenden.",
+      "sections": [
+        {
+          "heading": "Informationen, die wir sammeln",
+          "paragraphs": [
+            "Wenn Google Analytics aktiviert ist, erfassen wir möglicherweise Standard-Webanalysen wie Seitenaufrufe, Gerätetyp, Browser und ungefähre Region. Der Checkout und die Lieferung der Lizenz erfolgen auf externen Checkout-Seiten. Wir speichern keine Zahlungskartendaten auf {siteDomain}."
+          ]
+        },
+        {
+          "heading": "Wie wir Daten verwenden",
+          "paragraphs": [
+            "Analysen helfen uns zu verstehen, welche Leitfäden und Produktseiten nützlich sind, damit wir Inhalte verbessern und defekte Links beheben können. Support-Tickets können die von Ihnen angegebene E-Mail-Adresse und den Nachrichteninhalt behalten, bis das Problem behoben ist."
+          ]
+        },
+        {
+          "heading": "Kekse",
+          "paragraphs": [
+            "Wir verwenden nur die für die Analyse erforderlichen Cookies. Sie können Cookies in Ihren Browsereinstellungen blockieren; Der Kerninhalt der Website bleibt auch ohne sie zugänglich."
+          ]
+        },
+        {
+          "heading": "Unterstützung",
+          "paragraphs": [
+            "Bei Fragen zum Datenschutz nutzen Sie die Optionen auf der Support-Seite. Die Kauf- und Rückerstattungsregeln finden Sie in unseren Allgemeinen Geschäftsbedingungen."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Allgemeine Geschäftsbedingungen",
+      "description": "Kauf-, Lizenz-, Rückerstattungs- und Nutzungsbedingungen für {siteName}-Produkte und {siteDomain}.",
+      "sections": [
+        {
+          "heading": "Vereinbarung",
+          "paragraphs": [
+            "Letzte Aktualisierung: September 2026. Durch die Verwendung von {siteDomain} oder den Abschluss der Kaufabwicklung für ein hier aufgeführtes Produkt stimmen Sie diesen Allgemeinen Geschäftsbedingungen und unserer Datenschutzrichtlinie zu."
+          ]
+        },
+        {
+          "heading": "Was Sie kaufen",
+          "paragraphs": [
+            "Wir verkaufen {cheatProduct} und die auf unserer Produktseite aufgeführten Dienstprogramme, bereitgestellt über ein Betreiberportal und einen Loader unter Windows.",
+            "Funktionslisten auf jeder Produktseite beschreiben, was zum Zeitpunkt des Kaufs enthalten ist. Module können sich ändern, wenn Wardogs oder Anti-Cheat-Systeme aktualisiert werden."
+          ]
+        },
+        {
+          "heading": "Kasse und Lieferung",
+          "paragraphs": [
+            "Zahlung und Lizenzlieferung erfolgen über externe Checkout-Seiten. {siteDomain} verarbeitet oder speichert keine Zahlungskartennummern.",
+            "Verwenden Sie nach dem Kauf das in Ihrem Bestellvorgang verlinkte Betreiberportal, um den aktuellen Loader und die Einrichtungsanleitung herunterzuladen, bevor Sie Wardogs starten."
+          ]
+        },
+        {
+          "heading": "Lizenznutzung",
+          "paragraphs": [
+            "Lizenzen sind nur für Ihren persönlichen Gebrauch bestimmt. Geben Sie keine Loader-Dateien, Portal-Anmeldungen oder Lizenzschlüssel weiter. HWID- und Gerätelimits hängen von Ihrer Stufe ab und werden im Portal durchgesetzt."
+          ]
+        },
+        {
+          "heading": "Rückerstattungen und Einkäufe",
+          "paragraphs": [
+            "Alle Verkäufe sind endgültig, sobald die Kaufabwicklung abgeschlossen ist. Wir erstatten keine Rückerstattung für Kaufentscheidungen, Kontosperrungen, Anti-Cheat-Strafen oder Probleme, die durch das Ignorieren von Einrichtungsanleitungen oder das Ausführen von Modulen entstehen, während das Statusbanner offline angezeigt wird.",
+            "Wenn das Produkt bei einem unterstützten Setup nicht wie beschrieben funktioniert: Wardogs unter Windows 10/11, aktueller Loader vom Portal und das Live-Status-Banner, das beim Start online angezeigt wird, kontaktieren Sie uns über die Support-Seite. Fügen Sie Ihre Bestell-E-Mail, Windows-Version, Spiel-Build und Screenshots oder den genauen Fehlertext vom Loader hinzu.",
+            "Wir können nach unserem Ermessen eine Reparatur, einen Ersatzzugang oder eine teilweise/vollständige Rückerstattung anbieten, wenn wir einen Fehler unsererseits bestätigen. Wir sind nicht verpflichtet, jede Anfrage zu genehmigen."
+          ]
+        },
+        {
+          "heading": "Verfügbarkeit und Risiko",
+          "paragraphs": [
+            "Tools von Drittanbietern für Wardogs können zu Konflikten mit Spielaktualisierungen und Anti-Cheat-Funktionen führen. Sie nutzen diese Software auf eigenes Risiko, einschließlich möglicher Kontoaktionen.",
+            "Überprüfen Sie vor jeder Sitzung das Statusbanner der Homepage. Stellen Sie sich nicht in die Warteschlange, während Module offline sind oder nach einem Patch falsch ausgerichtet sind."
+          ]
+        },
+        {
+          "heading": "Änderungen",
+          "paragraphs": [
+            "Wir können diese Bedingungen aktualisieren. Das Datum „Letzte Aktualisierung\" oben ändert sich, wenn wir dies tun. Die fortgesetzte Nutzung der Website nach Änderungen bedeutet, dass Sie die geänderten Bedingungen akzeptieren."
+          ]
+        },
+        {
+          "heading": "Unterstützung",
+          "paragraphs": [
+            "Für Konditionen, Rechnungen oder Fragen zum Ladevorgang verwenden Sie die Schaltflächen auf der Support-Seite. Informationen zum Umgang mit Website-Daten finden Sie auch in unserer Datenschutzerklärung."
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "{siteName} Unterstützung",
+      "description": "Erhalten Sie Unterstützung für Loader-, HWID- und Checkout-Fragen unter {siteDomain}."
+    }
+  },
+  "common": {
+    "breadcrumbHome": "Heim",
+    "breadcrumbProducts": "Produkte",
+    "breadcrumbBlog": "Blog",
+    "breadcrumbForum": "Forum",
+    "breadcrumbFaq": "FAQ",
+    "breadcrumbAbout": "Um",
+    "breadcrumbPrivacy": "Privatsphäre",
+    "breadcrumbTerms": "Bedingungen",
+    "breadcrumbSupport": "Unterstützung",
+    "contactSupport": "Kontaktieren Sie den Support"
+  },
+  "notFound": {
+    "metaDescription": "Die von Ihnen angeforderte Seite konnte am {siteDomain} nicht gefunden werden.",
+    "title": "Seite nicht gefunden",
+    "body": "Diese URL existiert nicht oder wurde möglicherweise verschoben. Gehen Sie zurück zur Homepage oder stöbern Sie in unseren Produkten.",
+    "backHome": "Zurück nach Hause",
+    "viewProducts": "Produkte ansehen",
+    "viewElite": "Produktseite ansehen"
+  },
+  "pages": {
+    "faq": {
+      "eyebrow": "Hilfecenter",
+      "title": "Häufig gestellte Fragen zu Wardogs-Cheats: Einrichtung, Pläne und Anti-Cheat",
+      "description": "Antworten zu Wardogs-Cheats: Einrichtungsschritte, Monats- und Lebenszeitpläne, ESP- und Zielmodule, Anti-Cheat-Status und Checkout-Hilfe unter {siteDomain}.",
+      "schemaName": "Häufig gestellte Fragen zu Wardogs-Cheats",
+      "schemaDescription": "Antworten zu Wardogs-Cheats, Spieler-ESP, Aimbot, Radar, Loader-Setup, Preisen und Checkout unter {siteDomain}."
+    },
+    "forum": {
+      "eyebrow": "Wardogs-Community-Forum",
+      "title": "Wardogs-Community-Forum",
+      "description": "Archivierte, schreibgeschützte Threads zu Loader-Setup, ESP-Konfigurationen, Patch-Status und HWID-Verboten. Antworten sind geschlossen.",
+      "exploreGuides": "Entdecken Sie die Reiseführer",
+      "postsAria": "Community-Beiträge",
+      "sortAria": "Postsortierung",
+      "sortPopular": "Beliebt",
+      "sortLatest": "Letzte",
+      "sortTop": "Am meisten diskutiert",
+      "filterAria": "Diskussionen nach Thema filtern",
+      "filterAll": "Alle Themen",
+      "resultsCount": "Diskussionen anleiten",
+      "voteAria": "Diskussionsabstimmung",
+      "upvoteAria": "Stimmen Sie dieser Diskussion zu",
+      "downvoteUnavailableAria": "Downvoting ist nicht möglich",
+      "guideTeam": "{siteName} Guide-Team",
+      "guideBasedQa": "Leitfadenbasierte Fragen und Antworten",
+      "fromGuide": "Aus dem Leitfaden:",
+      "comments": "Kommentare",
+      "closedThread": "Geschlossener Thread",
+      "closedBy": "Vom Archiv geschlossen",
+      "repliesClosed": "Antworten sind geschlossen",
+      "readDiscussion": "Diskussion lesen",
+      "empty": "Es stimmen keine Diskussionen überein. Versuchen Sie es mit einer anderen Suche oder einem anderen Thema.",
+      "emptyArchive": "Noch keine Diskussionen. Hier werden neue Threads angezeigt.",
+      "categoryGeneral": "Allgemein",
+      "categoryGuides": "Anleitungen und Builds",
+      "categoryPatch": "Patch-Talk",
+      "categoryCommunity": "Gemeinschaft",
+      "paginationAria": "Diskussionsseiten",
+      "pagePrevious": "Vorherige",
+      "pageNext": "Nächste",
+      "sidebarTitle": "{siteName} Gemeinschaft",
+      "sidebarIntro": "Schreibgeschütztes Archiv. Threads bleiben zu Referenzzwecken aktiv, Sie können keinen Thread starten oder darauf antworten.",
+      "statsDiscussions": "Diskussionen anleiten",
+      "statsTopics": "Themen",
+      "exploreAllGuides": "Entdecken Sie alle Reiseführer",
+      "communitiesHeading": "Gemeinschaften",
+      "browseRelated": "Durchsuchen Sie verwandte Fragen und Antworten",
+      "browseAllCommunities": "Durchsuchen Sie alle Communities",
+      "guidelinesHeading": "Community-Richtlinien",
+      "guideline1": "Bleiben Sie freundlich und konstruktiv",
+      "guideline2": "Bleiben Sie beim Thema und fügen Sie Kontext hinzu",
+      "guideline3": "Markieren Sie Spoiler und sensible Inhalte",
+      "readFullGuidelines": "Lesen Sie die vollständigen Richtlinien",
+      "sidebarFoot": "Über · Richtlinien · Datenschutz · Bedingungen"
+    },
+    "utilities": {
+      "title": "HWID-Spoofer",
+      "description": "Aktualisieren Sie die Hardware-IDs, wenn andere PCs Anmeldungen akzeptieren, dieser diese jedoch sofort ablehnt.",
+      "viewDetails": "Dienstprogrammdetails anzeigen",
+      "includes": "Schiffe mit Lizenz:",
+      "schemaName": "HWID-Spoofer"
+    }
+  },
+  "ui": {
+    "skipLink": "Zum Hauptinhalt springen",
+    "browseCheatsNav": "Versuchen Sie es jetzt",
+    "homeAria": "{siteName} Startseite",
+    "menuOpen": "Menü öffnen",
+    "themeLight": "Wechseln zu Light",
+    "languageSwitcherLabel": "Sprache",
+    "languageNames": {
+      "en": "English",
+      "es": "Español",
+      "de": "Deutsch",
+      "fr": "Français"
+    }
+  }
+}

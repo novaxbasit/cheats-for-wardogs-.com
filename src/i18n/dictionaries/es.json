@@ -1,0 +1,941 @@
+{
+  "site": {
+    "name": "{siteName}",
+    "domain": "{siteDomain}",
+    "title": "Trucos de Wardogs | Aimbot, Jugador ESP y Radar",
+    "description": "Herramientas de menú de Wardogs para aimbot, ESP de jugador, ESP de elemento, radar y opciones de retroceso en Windows, con actualizaciones del cargador después de los parches. Compare planes en {siteDomain}."
+  },
+  "nav": [
+    {
+      "id": "products",
+      "href": "/products/",
+      "label": "Productos",
+      "shortLabel": "Productos"
+    },
+    {
+      "id": "blog",
+      "href": "/blog/",
+      "label": "Blog"
+    },
+    {
+      "id": "forum",
+      "href": "/forum/",
+      "label": "Foro"
+    },
+    {
+      "id": "faq",
+      "href": "/faq/",
+      "label": "Preguntas frecuentes"
+    },
+    {
+      "id": "support",
+      "href": "/support/",
+      "label": "Apoyo"
+    }
+  ],
+  "hero": {
+    "status": "Wardogs, compilación de parches en línea",
+    "eyebrow": "PROVEEDOR DE TRUCOS #1",
+    "titleLead": "Trucos ",
+    "titleAccent": "Wardogs",
+    "subtitle": "ESP de jugadores, aimbot y radar para Wardogs en Windows. Mira los productos abajo para comparar modulos y planes mensuales o de por vida antes del pago.",
+    "ctaPrimary": "Ver productos",
+    "metrics": [
+      {
+        "label": "A prueba de corrientes",
+        "strong": "Sí"
+      },
+      {
+        "label": "Velocidad del parche",
+        "strong": "<24h"
+      },
+      {
+        "label": "Usuarios",
+        "strong": "300+"
+      },
+      {
+        "label": "Soporte en vivo",
+        "strong": "24/7"
+      }
+    ],
+    "statusPills": [
+      "Jugador ESP",
+      "Artículo ESP",
+      "Radares en línea",
+      "Aimbot listo",
+      "robot disparador",
+      "Sin retroceso",
+      "Sin propagación",
+      "Prueba de transmisión",
+      "Totalmente brillante",
+      "Verificación del equipo",
+      "Punto de mira personalizado",
+      "Guardar configuración",
+      "Soporte 24 horas al día, 7 días a la semana",
+      "Entrega Instantánea",
+      "Estado en vivo",
+      "Seguimiento de parches",
+      "Controles de campo de visión",
+      "Actualizaciones automáticas"
+    ]
+  },
+  "features": {
+    "eyebrow": "Características",
+    "title": "Todo lo que necesitas en un solo paquete",
+    "subtitle": "Asistencia de puntería, ESP de jugador y elemento, radar y opciones de manejo de armas para Wardogs, mantenidas después de los parches.",
+    "items": [
+      {
+        "title": "Jugador ESP",
+        "subtitle": "Lea el tiroteo.",
+        "desc": "Los cuadros 2D, los nombres, la distancia, la información del arma y las líneas KDA te ayudan a realizar un seguimiento de los empujones sin tabulaciones.",
+        "bullets": [
+          "Snaplines y alertas de proximidad",
+          "Bot ESP y filtros de verificación del equipo",
+          "Ajustes preestablecidos de color personalizados por capa",
+          "Límites de distancia máxima en el menú",
+          "Lecturas de armas y KDA."
+        ],
+        "tags": [
+          "Wardogs, especialmente",
+          "jugador especialmente",
+          "líneas instantáneas"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-12 lg:col-start-1 lg:row-start-1"
+      },
+      {
+        "title": "Artículo ESP",
+        "subtitle": "Conciencia del botín.",
+        "desc": "Item ESP destaca las camionetas y el equipo en el mapa con controles de distancia para que puedas realizar una ruta segura.",
+        "bullets": [
+          "Etiquetas de artículos y lecturas de distancia.",
+          "Control deslizante de distancia máxima ESP",
+          "Alternar conjuntos por modo de juego",
+          "Se empareja con superposiciones de radar"
+        ],
+        "tags": [
+          "artículo especialmente",
+          "botín especialmente",
+          "límite de distancia"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-8 lg:col-start-1 lg:row-start-2"
+      },
+      {
+        "title": "Aimbot",
+        "subtitle": "Asistencias de puntería afinadas.",
+        "desc": "Las configuraciones de apuntar, apuntar, apuntar con memoria y predicción comparten FOV, hitbox y controles de suavizado.",
+        "bullets": [
+          "Teclas de puntería personalizadas y selección de hitbox",
+          "Comprobaciones de visibilidad y retraso del cambio.",
+          "Asistencias compatibles con el controlador",
+          "Indicadores de puntería en el menú"
+        ],
+        "tags": [
+          "objetivobot",
+          "apuntar",
+          "robot disparador"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-1 lg:row-start-3"
+      },
+      {
+        "title": "Sin retroceso",
+        "subtitle": "Ráfagas más constantes.",
+        "desc": "Las opciones sin retroceso ni dispersión están diseñadas para estabilizar las armas enumeradas cuando el menú las expone.",
+        "bullets": [
+          "Alternadores separados por clase de arma",
+          "Controles deslizantes de fuerza con tapas",
+          "Guarde los ajustes preestablecidos de manejo en la nube",
+          "Emparejar con límites de campo de visión objetivo"
+        ],
+        "tags": [
+          "sin retroceso",
+          "sin propagación",
+          "manejo de armas"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-3"
+      },
+      {
+        "title": "Radar",
+        "subtitle": "Actividad cercana.",
+        "desc": "La vista de radar está diseñada para mostrar el movimiento cercano para que puedas girar antes de que un flanco se acerque.",
+        "bullets": [
+          "La actividad parpadea alrededor de tu posición",
+          "Controles de opacidad y escala.",
+          "Funciona junto a las capas de color ESP",
+          "Alternar sin cerrar el menú"
+        ],
+        "tags": [
+          "Radar",
+          "radar de Wardogs",
+          "conocimiento del mapa"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-8 lg:row-span-2 lg:col-start-1 lg:row-start-4"
+      },
+      {
+        "title": "Robot disparador",
+        "subtitle": "Dispara cuando está alineado.",
+        "desc": "El disparador opcional se dispara cuando el punto de mira encuentra un objetivo válido, con retardo y puertas clave.",
+        "bullets": [
+          "Ajuste de retardo y tiempo de espera",
+          "Equipo de control de disparo consciente",
+          "Alternar separado de aimbot",
+          "Valores predeterminados conservadores en el portal"
+        ],
+        "tags": [
+          "robot disparador",
+          "asistencia de fuego",
+          "trucos de Wardogs"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4 lg:row-span-2 lg:col-start-9 lg:row-start-4"
+      },
+      {
+        "title": "Prueba de transmisión",
+        "subtitle": "Creado para creadores.",
+        "desc": "Los modos a prueba de transmisión están diseñados para mantener superposiciones en su monitor mientras el software de captura registra una transmisión limpia.",
+        "bullets": [
+          "Modos de captura de OBS y Game Bar",
+          "Alternar prueba de flujo por módulo",
+          "Lista de verificación de prueba en documentos del portal"
+        ],
+        "tags": [
+          "captura de observaciones",
+          "prueba de flujo",
+          "capturar ocultar"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-1 lg:row-start-6"
+      },
+      {
+        "title": "Alternancias visuales",
+        "subtitle": "Claridad y HUD.",
+        "desc": "Las opciones de brillo total, punto de mira personalizado, flash desactivado, nivel de zoom y FPS o VSync se encuentran en la pestaña Miscelánea.",
+        "bullets": [
+          "Brillo total para mapas oscuros",
+          "Formas de cruz personalizadas",
+          "Desactivar flash donde aparece",
+          "Nivel de zoom y lecturas HUD"
+        ],
+        "tags": [
+          "lleno de brillo",
+          "punto de mira",
+          "desactivar el flash"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-6"
+      },
+      {
+        "title": "Configuración y actualizaciones de la nube",
+        "subtitle": "Día del parche listo.",
+        "desc": "Guarde, cargue y organice configuraciones en el menú; La entrega del portal rastrea los días de Wardogs y parches anti-trampas.",
+        "bullets": [
+          "Copia de seguridad en la nube para perfiles",
+          "Empuje del cargador a pocas horas de los parches",
+          "Banner de estado para notas de compilación"
+        ],
+        "tags": [
+          "sincronización en la nube",
+          "actualización automática",
+          "preajustes"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4 lg:col-start-9 lg:row-start-2"
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "¿Por qué nosotros?",
+    "title": "Herramientas de Wardogs respaldadas por parches, no por promesas",
+    "subtitle": "Muchas tiendas de trampas ofrecen cargadores obsoletos, ajustes preestablecidos de ira ruidosa y robots de tickets. {siteDomain} se centra en compilaciones de cargadores del día del parche, valores predeterminados de ESP legibles y operadores en vivo.",
+    "usLabel": "{siteName}",
+    "otherLabel": "Proveedor típico",
+    "rows": [
+      {
+        "title": "Actualizaciones del cargador del día del parche",
+        "desc": "Compilaciones anti-trampas lanzadas pocas horas después de las actualizaciones de Wardogs; consulte el banner de estado en vivo antes de hacer cola."
+      },
+      {
+        "title": "Objetivo humanizado y valores predeterminados de ESP",
+        "desc": "Los límites de campo de visión, los filtros de suavizado y de distancia se envían de forma conservadora en el portal para que las superposiciones sigan siendo legibles, no los modos furiosos de pared de caja."
+      },
+      {
+        "title": "Operadores en vivo",
+        "desc": "Ingenieros reales para la configuración del cargador, configuraciones de ESP y restablecimientos de HWID: cobertura de turnos 24 horas al día, 7 días a la semana, sin copiar y pegar tickets de preguntas frecuentes."
+      },
+      {
+        "title": "Cargador externo + prueba de flujo",
+        "desc": "Suite de superposición con modos de captura OBS, sin inyección de DLL riesgosa en el proceso de Wardogs como todavía venden los proveedores heredados."
+      },
+      {
+        "title": "Sincronización preestablecida en la nube",
+        "desc": "Copia de seguridad de perfiles por modo en el portal, los mismos controles deslizantes en cualquier PC sin reconstruir desde cero."
+      },
+      {
+        "title": "Restablecimiento de HWID y movimientos de licencia",
+        "desc": "Las compensaciones de HWID y las transferencias de máquinas se manejan a través del soporte; la mayoría de los proveedores bloquean una plataforma o cobran por cada intercambio."
+      }
+    ],
+    "metrics": [
+      {
+        "value": "<24h",
+        "title": "Cambio de parche",
+        "desc": "Tiempo promedio para enviar una compilación de cargador después de cambios importantes en Wardogs o anti-trampas."
+      },
+      {
+        "value": "24/7",
+        "title": "Soporte del operador",
+        "desc": "Ingenieros en turno para instalación, configuraciones y problemas de cuentas."
+      },
+      {
+        "value": "300+",
+        "title": "Operadores activos",
+        "desc": "Reproductores de Windows que ejecutan ESP, aimbot y utilidades en {siteDomain}."
+      }
+    ]
+  },
+  "setup": {
+    "eyebrow": "Guía de configuración",
+    "titleLead": "Desde el pago hasta tu primer partido en solo",
+    "titleHighlight": "tres sencillos pasos",
+    "intro": "Empezar es fácil. Siga el flujo del portal del operador para descargar el cargador, cargar ajustes preestablecidos e iniciar Wardogs en Windows.",
+    "ctaPrimary": "Comparar planes",
+    "ctaSecondary": "Lea las preguntas frecuentes sobre la configuración",
+    "ctaPrimaryHref": "/cheats/",
+    "ctaSecondaryHref": "/faq/",
+    "steps": [
+      {
+        "step": "Paso 1",
+        "title": "Desbloquear portal y descargar cargador",
+        "desc": "Complete el pago, abra el panel de su operador y obtenga la última versión del cargador de parches para Windows."
+      },
+      {
+        "step": "Paso 2",
+        "title": "Lanzar y configurar módulos",
+        "desc": "Ejecute el cargador externo, importe ajustes preestablecidos de Wardogs y ajuste los controles deslizantes de ESP, aimbot y radar."
+      },
+      {
+        "step": "Paso 3",
+        "title": "Verificar el estado y lanzar Wardogs",
+        "desc": "Consulte el banner de estado en vivo, inicie el cliente del juego y juegue con perfiles respaldados en la nube guardados en el portal."
+      }
+    ]
+  },
+  "compatibility": {
+    "eyebrow": "Soporte de plataforma",
+    "title": "Funciona en tu equipo.",
+    "subtitle": "Consulte el banner de estado en vivo antes de iniciar Wardogs después de las actualizaciones.",
+    "items": [
+      "Ventanas 10 y 11",
+      "Wardogs",
+      "cliente anti-trampas",
+      "Actualizador automático",
+      "Configurar sincronización en la nube",
+      "Restablecimiento de HWID",
+      "Cargador externo"
+    ]
+  },
+  "cheats": {
+    "eyebrow": "Producto principal",
+    "title": "Trucos de Wardogs",
+    "subtitle": "Aimbot, ESP del jugador, ESP del artículo, radar y opciones de manejo con entrega de parches prioritarios.",
+    "viewAll": "Ver detalles del producto",
+    "explore": "Explorar",
+    "items": [
+      {
+        "badge": "Plazas limitadas",
+        "tier": "Privado",
+        "name": "Trucos de Wardogs",
+        "title": "Hacks Wardogs para Windows",
+        "desc": "Aimbot, ESP del jugador, ESP del elemento, radar, sin retroceso, sin dispersión y opciones en el menú para Wardogs en Windows. Mensual ($35, 31 días) y de por vida ($150) al finalizar la compra.",
+        "heroDesc": "Configura asistencia de punteria, ESP de jugadores y radar desde un menu. Confirma compatibilidad en {siteDomain} antes de abrir Wardogs.",
+        "features": [
+          "Aimbot",
+          "Jugador ESP",
+          "Artículo ESP",
+          "Radar",
+          "sin retroceso",
+          "Sin propagación"
+        ],
+        "more": 21,
+        "href": "/cheats/",
+        "variant": "limited"
+      }
+    ]
+  },
+  "products": {
+    "eyebrow": "Almacenar",
+    "title": "Nuestros productos",
+    "subtitle": "Cada producto tiene su propia página con características, requisitos y pago.",
+    "viewAll": "Ver todos los trucos",
+    "backToCheats": "Volver al producto",
+    "showcaseHeading": "Descripción general del producto",
+    "experience": {
+      "eyebrow": "Experiencia",
+      "title": "Capas de menú · Después del pago",
+      "subtitle": "Las capturas de pantalla anteriores muestran el diseño del menú de Wardogs; A continuación se detalla lo que hace cada grupo de módulos y cómo funciona el acceso al portal después de la compra.",
+      "previewLabel": "Capas en el juego",
+      "accessDividerTop": "Avance",
+      "accessDividerBottom": "Acceso"
+    },
+    "hwidPage": {
+      "showcaseHeading": "Tomas del panel del operador",
+      "overviewSubtitle": "Vea qué identificadores rotan, qué familias antitrampas documentamos y en qué se diferencian los indicadores de máquina de las sanciones de cuenta.",
+      "highlights": {
+        "eyebrow": "lectura rápida",
+        "title": "Alcance de la actualización del hardware",
+        "desc": "El disco, la MAC, la GPU y los ID relacionados se pueden actualizar después de un indicador de hardware para que esta PC inicie sesión nuevamente. Las tablas completas aparecen más abajo en la página."
+      },
+      "featuresSection": {
+        "eyebrow": "Cobertura",
+        "title": "Identificadores y listas anti-trampas",
+        "desc": "Las filas enumeran los tipos de huellas dactilares que edita el panel junto con las familias antitrampas que publicamos."
+      },
+      "experience": {
+        "eyebrow": "Post-compra",
+        "title": "Tutorial de la interfaz de usuario · Pasos del portal",
+        "subtitle": "Las leyendas del panel se encuentran a la izquierda; la entrega de la licencia y el orden de configuración se encuentran a la derecha.",
+        "previewLabel": "Vistas de paneles",
+        "accessDividerTop": "interfaz de usuario",
+        "accessDividerBottom": "Pasos"
+      },
+      "highlightsMore": "{count} se enumeran filas más en la tabla de características completa."
+    },
+    "utilityPages": {
+      "ugc": {
+        "showcaseHeading": "Imágenes fijas del flujo de trabajo",
+        "overviewSubtitle": "Descubra cómo UGC asigna restricciones a las plantillas, qué pasos se ejecutan automáticamente y por qué las plataformas mantienen el poder de veto.",
+        "highlights": {
+          "eyebrow": "Enfocar",
+          "title": "Automatización de paquetes de apelación",
+          "desc": "Los límites de los juegos, las redes sociales y el mercado obtienen flujos de trabajo de disputas repetibles en lugar de copiar y pegar manualmente."
+        },
+        "featuresSection": {
+          "eyebrow": "Módulos",
+          "title": "Automatización incluida",
+          "desc": "Las capacidades se desbloquean tan pronto como su licencia UGC esté activa."
+        },
+        "experience": {
+          "eyebrow": "Acceso",
+          "title": "Pantallas · Flujo del portal",
+          "subtitle": "Cuadros fijos a la izquierda; entrega de licencia y configuración a la derecha.",
+          "previewLabel": "Capturas de pantalla",
+          "accessDividerTop": "interfaz de usuario",
+          "accessDividerBottom": "Pasos"
+        },
+        "highlightsMore": "{count} filas de capacidad adicional se encuentran más abajo en la página."
+      },
+      "skin-changer": {
+        "showcaseHeading": "Fotogramas del lookbook",
+        "overviewSubtitle": "Vea dónde se procesan los acabados, qué es lo que nunca toca su inventario y cómo verificar un título antes del pago.",
+        "highlights": {
+          "eyebrow": "Enfocar",
+          "title": "Biblioteca de acabado en el dispositivo",
+          "desc": "Diseños de armas, trajes y estilos de cuchillos premium dentro de los juegos compatibles sin tener que comprar cada artículo por separado."
+        },
+        "featuresSection": {
+          "eyebrow": "Módulos",
+          "title": "Categorías cosméticas",
+          "desc": "Tipos de acabado disponibles una vez que su licencia cosmética esté activa."
+        },
+        "experience": {
+          "eyebrow": "Acceso",
+          "title": "Pantallas · Flujo del portal",
+          "subtitle": "Notas de captura de pantalla a la izquierda; acceso al portal y configuración del menú a la derecha.",
+          "previewLabel": "Capturas de pantalla",
+          "accessDividerTop": "interfaz de usuario",
+          "accessDividerBottom": "Pasos"
+        },
+        "highlightsMore": "{count} filas cosméticas adicionales se encuentran más abajo en la página."
+      }
+    },
+    "swipeHint": "Desliza para ver más capturas de pantalla",
+    "checkoutEyebrow": "Verificar",
+    "checkoutSelect": "Seleccionar suscripción",
+    "checkoutSingle": "Opción de compra",
+    "checkoutTotal": "Total",
+    "bestValue": "Mejor valor",
+    "planWeekly": "1 semana",
+    "planWeeklyNote": "7 dias",
+    "planMonthly": "Mensual",
+    "planLifetime": "Vida",
+    "planOneTime": "Acceso único",
+    "planPerMonth": "31 días de acceso",
+    "planOneTimeNote": "Acceso ilimitado",
+    "get": "Conseguir",
+    "explore": "Explorar",
+    "buyNow": "Comprar ahora",
+    "viewDetails": "Ver detalles",
+    "items": [
+      {
+        "badge": "Disponible",
+        "category": "Utilidad del sistema",
+        "title": "HWID Spoofer para PCs Wardogs",
+        "subtitle": "Rota serie de disco, MAC y GPU, luego ejecuta el limpiador incluido antes de iniciar sesion.",
+        "desc": "Actualiza los números de serie del disco, las direcciones MAC, los ID de GPU y las huellas digitales relacionadas después de una marca de hardware, con limpieza de rastros en la misma licencia.",
+        "features": [
+          "Actualización de serie del disco",
+          "actualización de MAC",
+          "Actualización de ID de GPU",
+          "Limpiador incluido"
+        ],
+        "more": 0,
+        "href": "/hwid-spoofer/"
+      },
+      {
+        "badge": "Disponible",
+        "category": "Recuperación de cuenta",
+        "title": "Recuperacion de cuenta con UGC",
+        "subtitle": "Plantillas de apelacion y pasos de disputa para perfiles restringidos en gaming, redes o marketplaces.",
+        "desc": "Unban & Governance Control (UGC) envía plantillas de apelación y presentación de disputas automatizadas para inicios de sesión limitados en todas las plataformas.",
+        "features": [
+          "Flujos de trabajo de apelación",
+          "Automatización de disputas",
+          "Cualquier plataforma",
+          "Juegos, redes sociales, mercado"
+        ],
+        "more": 0,
+        "href": "/ugc/"
+      },
+      {
+        "badge": "Disponible",
+        "category": "Cosmético",
+        "title": "Skin Changer cliente para titulos compatibles",
+        "subtitle": "Previsualiza skins de armas y atuendos en local sin desbloquear cada cosmetico de pago.",
+        "desc": "Pequeño cliente que pinta diseños de armas, trajes y variantes de cuchillos premium en tu pantalla en los principales títulos.",
+        "features": [
+          "Ajustes preestablecidos de acabado de arma",
+          "Ajustes preestablecidos de vestimenta",
+          "Ajustes preestablecidos de estilo cuchillo",
+          "Cobertura de títulos importantes"
+        ],
+        "more": 0,
+        "href": "/skin-changer/"
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Guías y actualizaciones",
+    "subtitle": "Configuración de ESP y aimbot, ajuste del menú y comprobaciones del día del parche para Wardogs.",
+    "latestTitle": "Guías de trucos de Wardogs y notas del día del parche",
+    "latestSubtitle": "Filtre por tema para encontrar guías de configuración, análisis detallados de funciones y notas del día del parche.",
+    "filterAll": "Todos los artículos",
+    "emptyFilter": "Ningún artículo coincide con este filtro.",
+    "emptyArchive": "Aún no hay artículos. Nuevas guías aparecerán aquí.",
+    "viewAll": "Ver todos los artículos",
+    "read": "Leer",
+    "articleActionsAria": "Continuar leyendo",
+    "buyCta": "Comprar trucos de Wardogs",
+    "buyHwidCta": "Comprar falsificador HWID",
+    "moreArticles": "Más artículos",
+    "sidebarAria": "Barra lateral del artículo",
+    "tocTitle": "En este artículo",
+    "relatedTitle": "Guías relacionadas",
+    "filterToolbarAria": "Filtrar artículos por tema",
+    "items": []
+  },
+  "workflow": {
+    "eyebrow": "como funciona",
+    "badge": "4 sencillos pasos",
+    "titleBefore": "Desde la verificación de estado hasta",
+    "titleHighlight": "perfil guardado.",
+    "subtitle": "Un camino directo desde la verificación de estado hasta una configuración guardada que puede reutilizar en cada sesión.",
+    "ctaLabel": "Elige tu plan",
+    "ctaHref": "/cheats/",
+    "ctaSecondary": "Preguntas frecuentes sobre la configuración",
+    "ctaSecondaryHref": "/faq/",
+    "items": [
+      {
+        "num": "01",
+        "phase": "Antes de la compra",
+        "title": "Verificar estado en vivo",
+        "desc": "Lea el banner en vivo en {siteDomain} antes de comprar o lanzar."
+      },
+      {
+        "num": "02",
+        "phase": "Verificar",
+        "title": "Elige tu producto",
+        "desc": "Elija el conjunto de trucos o una utilidad de hardware, lo que coincida con las prohibiciones, las plataformas o los restablecimientos de cuenta que enfrenta."
+      },
+      {
+        "num": "03",
+        "phase": "Cargador",
+        "title": "Iniciar y configurar",
+        "desc": "Descargue desde el portal, habilite los módulos y ajuste ESP y apunte los controles deslizantes sin conexión primero."
+      },
+      {
+        "num": "04",
+        "phase": "En el juego",
+        "title": "Guarda tu perfil",
+        "desc": "Cuando la configuración le parezca correcta, guarde los ajustes preestablecidos del modo en la nube para la siguiente sesión."
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "Apoyo",
+    "title": "Soporte de trucos de Wardogs",
+    "subtitle": "Háganos saber cómo podemos ayudar.",
+    "channels": [
+      {
+        "icon": "users",
+        "title": "Chat antes de pagar",
+        "desc": "Hable con nuestro equipo sobre niveles y acceso.",
+        "linkLabel": "Iniciar compra",
+        "href": "/go/wardogs/"
+      },
+      {
+        "icon": "headphones",
+        "title": "Chatear para apoyar",
+        "desc": "Estamos aquí para problemas con el cargador, HWID y la cuenta.",
+        "linkLabel": "{supportEmail}",
+        "href": "mailto:{supportEmail}"
+      },
+      {
+        "icon": "navFaq",
+        "title": "Lea las preguntas frecuentes",
+        "desc": "Compatibilidad, prohibiciones y configuración, antes de comprar.",
+        "linkLabel": "Ver todas las preguntas frecuentes",
+        "href": "/faq/"
+      }
+    ],
+    "ticketTitle": "Incluir en tu billete",
+    "ticketItems": [
+      {
+        "title": "Correo electrónico de pedido",
+        "desc": "La dirección utilizada al realizar el pago el {siteDomain} o a través de nuestro socio de pago."
+      },
+      {
+        "title": "Plataforma",
+        "desc": "Windows 10 u 11 y la versión de su cliente Wardogs."
+      },
+      {
+        "title": "Detalle del error",
+        "desc": "Captura de pantalla o mensaje exacto del cargador o cliente del juego."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Respuestas directas antes de pagar.",
+    "subtitle": "Compatibilidad, prohibiciones y acceso, sin promesas vagas.",
+    "items": [
+      {
+        "num": "01",
+        "q": "¿Dónde verifico si los trucos de Wardogs están en línea?",
+        "a": "El banner de estado en vivo está en {siteDomain}. Verifique siempre después de una actualización de Wardogs o anti-trampas."
+      },
+      {
+        "num": "02",
+        "q": "¿Qué pasa después de comprar?",
+        "a": "Su portal otorga acceso al cargador, la guía de configuración y la biblioteca de configuración a través de nuestro pago de socios. Sigue la guía antes de iniciar Wardogs."
+      },
+      {
+        "num": "03",
+        "q": "¿Me pueden prohibir el uso de trucos de Wardogs de terceros?",
+        "a": "Sí, cualquier modificación conlleva riesgos. Los sistemas antitrampas y de denuncia evolucionan. Lea el estado actual y acepte el riesgo antes de su uso."
+      },
+      {
+        "num": "04",
+        "q": "¿Qué plataformas son compatibles?",
+        "a": "Wardogs solo en Windows 10/11 de 64 bits. macOS y Linux no son compatibles."
+      },
+      {
+        "num": "05",
+        "q": "¿Puedo transferir mi licencia a una nueva PC?",
+        "a": "Sí, use el restablecimiento de HWID en su portal o abra un ticket de soporte. Los límites dependen de su nivel."
+      },
+      {
+        "num": "06",
+        "q": "¿Dónde se enumeran los productos y utilidades?",
+        "a": "Cada producto aparece en {siteDomain}/products/ y cada uno tiene su propia página con una lista de funciones y pago a través de nuestro socio."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Trucos de Wardogs con aimbot, player ESP y radar para PC. {siteDomain}",
+    "trademark": "{game} es una marca comercial de {gamePublisher}. {siteDomain} no está afiliado ni respaldado por {gamePublisher}.",
+    "explore": "Explorar",
+    "exploreLinks": [
+      {
+        "id": "products",
+        "href": "/",
+        "label": "Descripción general de las funciones",
+        "ariaLabel": "Características",
+        "scrollTarget": "características"
+      },
+      {
+        "id": "products",
+        "href": "/products/",
+        "label": "Todos los productos",
+        "ariaLabel": "Todos los productos"
+      },
+      {
+        "id": "products",
+        "href": "/cheats/",
+        "label": "{cheatProduct}",
+        "ariaLabel": "{cheatProduct}"
+      },
+      {
+        "id": "hwidSpoofer",
+        "href": "/hwid-spoofer/",
+        "label": "Falsificador de HWID",
+        "ariaLabel": "Falsificador de HWID"
+      },
+      {
+        "id": "products",
+        "href": "/ugc/",
+        "label": "CGU",
+        "ariaLabel": "Recuperación de cuenta UGC"
+      },
+      {
+        "id": "products",
+        "href": "/skin-changer/",
+        "label": "Cambiador de piel",
+        "ariaLabel": "Cambiador de piel"
+      },
+      {
+        "id": "blog",
+        "href": "/blog/",
+        "label": "Blog",
+        "ariaLabel": "Blog"
+      },
+      {
+        "id": "forum",
+        "href": "/forum/",
+        "label": "Foro",
+        "ariaLabel": "Foro"
+      }
+    ],
+    "supportLinks": [
+      {
+        "href": "/faq/",
+        "label": "Preguntas frecuentes sobre precompra",
+        "ariaLabel": "Preguntas frecuentes"
+      },
+      {
+        "href": "/support/",
+        "label": "Contactar con soporte",
+        "ariaLabel": "Apoyo"
+      }
+    ],
+    "support": "Apoyo",
+    "legal": "Legal",
+    "privacy": "política de privacidad",
+    "terms": "Términos y condiciones",
+    "about": "Acerca de"
+  },
+  "legalPages": {
+    "about": {
+      "title": "Acerca de {siteName}",
+      "description": "{siteName} proporciona {cheatProduct}, utilidades relacionadas y recursos de soporte para PC en {siteDomain}.",
+      "sections": [
+        {
+          "heading": "Quienes somos",
+          "paragraphs": [
+            "{siteName} es un recurso centrado en PC para jugadores de Wardogs que exploran opciones de aimbot, ESP de jugador, ESP de elemento y radar. Publicamos guías de configuración y notas de estado en vivo para que pueda evaluar {cheatProduct} antes de realizar el pago.",
+            "Todos los nombres de productos se utilizan únicamente para identificación."
+          ]
+        },
+        {
+          "heading": "lo que publicamos",
+          "paragraphs": [
+            "Nuestro sitio cubre {cheatProduct} y las utilidades enumeradas en nuestra página de productos. Los artículos del blog explican las configuraciones del menú, las comprobaciones del día del parche y el comportamiento de las actualizaciones anti-trampas.",
+            "El contenido se actualiza cuando llegan los parches o cuando los módulos del cargador cambian. Consulte el banner de estado de la página de inicio antes de cada sesión."
+          ]
+        },
+        {
+          "heading": "Apoyo",
+          "paragraphs": [
+            "Las preguntas sobre compatibilidad, errores del cargador o pago se manejan a través del soporte por correo electrónico. Incluya el correo electrónico de su pedido, la cuenta del juego y la versión de Windows al abrir un boleto."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "política de privacidad",
+      "description": "Cómo {siteName} maneja análisis, cookies y datos de contacto cuando usa {siteDomain}.",
+      "sections": [
+        {
+          "heading": "Información que recopilamos",
+          "paragraphs": [
+            "Podemos recopilar análisis web estándar, como visitas a páginas, tipo de dispositivo, navegador y región aproximada a través de Google Analytics cuando esté habilitado. El pago y la entrega de la licencia se realizan en páginas de pago externas; no almacenamos datos de la tarjeta de pago en {siteDomain}."
+          ]
+        },
+        {
+          "heading": "Cómo utilizamos los datos",
+          "paragraphs": [
+            "Los análisis nos ayudan a comprender qué guías y páginas de productos son útiles para que podamos mejorar el contenido y corregir enlaces rotos. Los tickets de soporte pueden conservar la dirección de correo electrónico y el contenido del mensaje que usted proporcione hasta que se resuelva el problema."
+          ]
+        },
+        {
+          "heading": "Galletas",
+          "paragraphs": [
+            "Utilizamos las cookies mínimas necesarias para el análisis. Puede bloquear las cookies en la configuración de su navegador; el contenido principal del sitio sigue siendo accesible sin ellos."
+          ]
+        },
+        {
+          "heading": "Apoyo",
+          "paragraphs": [
+            "Para preguntas sobre privacidad, utilice las opciones en la página de Soporte. Las reglas de compra y reembolso se encuentran en nuestros Términos y condiciones."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Términos y condiciones",
+      "description": "Términos de compra, licencia, reembolso y uso para los productos {siteName} y {siteDomain}.",
+      "sections": [
+        {
+          "heading": "Acuerdo",
+          "paragraphs": [
+            "Última actualización: septiembre de 2026. Al utilizar {siteDomain} o completar el pago de cualquier producto enumerado aquí, acepta estos Términos y condiciones y nuestra Política de privacidad."
+          ]
+        },
+        {
+          "heading": "lo que compras",
+          "paragraphs": [
+            "Vendemos {cheatProduct} y las utilidades enumeradas en nuestra página de productos, entregadas a través de un portal de operador y un cargador en Windows.",
+            "Las listas de funciones en la página de cada producto describen lo que se incluye en el momento de la compra. Los módulos pueden cambiar cuando se actualizan Wardogs o sistemas anti-trampas."
+          ]
+        },
+        {
+          "heading": "Pago y entrega",
+          "paragraphs": [
+            "El pago y la entrega de licencias se realizan en páginas de pago externas. {siteDomain} no procesa ni almacena números de tarjetas de pago.",
+            "Después de la compra, utilice el portal del operador vinculado desde su flujo de pedidos para descargar el cargador actual y la guía de configuración antes de iniciar Wardogs."
+          ]
+        },
+        {
+          "heading": "Uso de licencia",
+          "paragraphs": [
+            "Las licencias son sólo para su uso personal. No comparta archivos de carga, inicios de sesión del portal ni claves de licencia. Los límites de HWID y de dispositivo dependen de su nivel y se aplican en el portal."
+          ]
+        },
+        {
+          "heading": "Reembolsos y compras",
+          "paragraphs": [
+            "Todas las ventas son definitivas una vez que se completa el pago. No reembolsamos compras por cambio de opinión, prohibiciones de cuentas, sanciones contra trampas ni problemas causados ​​por ignorar las guías de configuración o ejecutar módulos mientras el banner de estado se muestra sin conexión.",
+            "Si el producto no funciona como se describe en una configuración compatible: Wardogs en Windows 10/11, el cargador actual del portal y el banner de estado en vivo que se muestra en línea cuando comenzó, contáctenos a través de la página de Soporte. Incluya el correo electrónico de su pedido, la versión de Windows, la compilación del juego y capturas de pantalla o el texto de error exacto del cargador.",
+            "Podemos, a nuestra discreción, ofrecer una solución, acceso de reemplazo o un reembolso parcial/completo cuando confirmamos una falla de nuestra parte. No estamos obligados a aprobar todas las solicitudes."
+          ]
+        },
+        {
+          "heading": "Disponibilidad y riesgo",
+          "paragraphs": [
+            "Las herramientas de terceros para Wardogs pueden entrar en conflicto con las actualizaciones del juego y contra las trampas. Usted utiliza este software bajo su propio riesgo, incluida la posible acción en la cuenta.",
+            "Consulte el banner de estado de la página de inicio antes de cada sesión. No haga cola mientras los módulos estén fuera de línea o desalineados después de un parche."
+          ]
+        },
+        {
+          "heading": "Cambios",
+          "paragraphs": [
+            "Podemos actualizar estos términos. La fecha de \"Última actualización\" en la parte superior cambiará cuando lo hagamos. El uso continuado del sitio después de los cambios significa que usted acepta los términos revisados."
+          ]
+        },
+        {
+          "heading": "Apoyo",
+          "paragraphs": [
+            "Para preguntas sobre términos, facturación o cargadores, utilice los botones en la página de Soporte. Consulte también nuestra Política de privacidad para conocer cómo manejamos los datos del sitio."
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "{siteName} Soporte",
+      "description": "Obtenga soporte para preguntas sobre cargadores, HWID y pago en {siteDomain}."
+    }
+  },
+  "common": {
+    "breadcrumbHome": "Hogar",
+    "breadcrumbProducts": "Productos",
+    "breadcrumbBlog": "Blog",
+    "breadcrumbForum": "Foro",
+    "breadcrumbFaq": "Preguntas frecuentes",
+    "breadcrumbAbout": "Acerca de",
+    "breadcrumbPrivacy": "Privacidad",
+    "breadcrumbTerms": "Términos",
+    "breadcrumbSupport": "Apoyo",
+    "contactSupport": "Contactar con soporte"
+  },
+  "notFound": {
+    "metaDescription": "La página que solicitó no se pudo encontrar en {siteDomain}.",
+    "title": "Página no encontrada",
+    "body": "Esa URL no existe o puede que se haya movido. Regrese a la página de inicio o explore nuestros productos.",
+    "backHome": "De vuelta a casa",
+    "viewProducts": "Ver productos",
+    "viewElite": "Ver página del producto"
+  },
+  "pages": {
+    "faq": {
+      "eyebrow": "Centro de ayuda",
+      "title": "Preguntas frecuentes sobre trucos de Wardogs: configuración, planes y antitrampas",
+      "description": "Respuestas sobre los trucos de Wardogs: pasos de configuración, planes mensuales y de por vida, ESP y módulos de puntería, estado anti-trampas y ayuda para realizar el pago en {siteDomain}.",
+      "schemaName": "Preguntas frecuentes sobre trucos de Wardogs",
+      "schemaDescription": "Respuestas sobre trucos de Wardogs, ESP del jugador, aimbot, radar, configuración del cargador, precios y pago en {siteDomain}."
+    },
+    "forum": {
+      "eyebrow": "Foro de la comunidad de Wardogs",
+      "title": "Foro de la comunidad de Wardogs",
+      "description": "Hilos archivados de solo lectura sobre la configuración del cargador, configuraciones de ESP, estado de parches y prohibiciones de HWID. Las respuestas están cerradas.",
+      "exploreGuides": "Explora las guías",
+      "postsAria": "Publicaciones de la comunidad",
+      "sortAria": "Clasificación de publicaciones",
+      "sortPopular": "Popular",
+      "sortLatest": "El último",
+      "sortTop": "Lo más discutido",
+      "filterAria": "Filtrar discusiones por tema",
+      "filterAll": "Todos los temas",
+      "resultsCount": "guiar las discusiones",
+      "voteAria": "Votación de discusión",
+      "upvoteAria": "Vota a favor de esta discusión",
+      "downvoteUnavailableAria": "La votación negativa no está disponible",
+      "guideTeam": "{siteName} equipo guía",
+      "guideBasedQa": "Preguntas y respuestas basadas en guías",
+      "fromGuide": "De la guía:",
+      "comments": "comentarios",
+      "closedThread": "Hilo cerrado",
+      "closedBy": "Cerrado por archivo",
+      "repliesClosed": "Las respuestas están cerradas.",
+      "readDiscussion": "Leer discusión",
+      "empty": "Ninguna discusión coincide. Pruebe con otra búsqueda o tema.",
+      "emptyArchive": "Aún no hay discusiones. Aquí aparecerán nuevos hilos.",
+      "categoryGeneral": "General",
+      "categoryGuides": "Guías y compilaciones",
+      "categoryPatch": "Charla de parches",
+      "categoryCommunity": "Comunidad",
+      "paginationAria": "Páginas de discusión",
+      "pagePrevious": "Anterior",
+      "pageNext": "Próximo",
+      "sidebarTitle": "{siteName} Comunidad",
+      "sidebarIntro": "Archivo de solo lectura. Los hilos permanecen abiertos como referencia, no puedes iniciar un hilo ni responder.",
+      "statsDiscussions": "guiar las discusiones",
+      "statsTopics": "temas",
+      "exploreAllGuides": "Explora todas las guías",
+      "communitiesHeading": "Comunidades",
+      "browseRelated": "Explorar preguntas y respuestas relacionadas",
+      "browseAllCommunities": "Explorar todas las comunidades",
+      "guidelinesHeading": "Pautas comunitarias",
+      "guideline1": "Mantenlo amigable y constructivo.",
+      "guideline2": "Manténgase en el tema y agregue contexto",
+      "guideline3": "Marcar spoilers y contenido sensible",
+      "readFullGuidelines": "Lea las pautas completas",
+      "sidebarFoot": "Acerca de · Pautas · Privacidad · Términos"
+    },
+    "utilities": {
+      "title": "Falsificador de HWID",
+      "description": "Actualice los identificadores de hardware cuando otras PC acepten inicios de sesión pero ésta los rechace de inmediato.",
+      "viewDetails": "Ver detalles de la utilidad",
+      "includes": "Se envía con licencia:",
+      "schemaName": "Falsificador de HWID"
+    }
+  },
+  "ui": {
+    "skipLink": "Saltar al contenido principal",
+    "browseCheatsNav": "Pruébalo ahora",
+    "homeAria": "Inicio {siteName}",
+    "menuOpen": "abrir menú",
+    "themeLight": "Cambiar al modo de luz",
+    "languageSwitcherLabel": "Idioma",
+    "languageNames": {
+      "en": "English",
+      "es": "Español",
+      "de": "Deutsch",
+      "fr": "Français"
+    }
+  }
+}

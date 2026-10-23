@@ -1,0 +1,54 @@
+{
+  "/": {
+    "title": "Wardogs Cheats | Aimbot, ESP und Radar auf dem PC",
+    "description": "Wardogs Cheats mit Aimbot, Spieler-ESP und Radar unter Windows. Plane auf {siteDomain} vergleichen, dann kaufen."
+  },
+  "/cheats/": {
+    "title": "Wardogs Hacks | Menumodule und Tarife",
+    "description": "Wardogs Hacks mit Spieler-ESP, Aimbot und Radar unter Windows. Menue und Anforderungen auf {siteDomain} pruefen."
+  },
+  "/hwid-spoofer/": {
+    "title": "Wardogs HWID Spoofer | Disk, MAC und GPU",
+    "description": "Wardogs HWID Spoofer rotiert Disk, MAC und GPU bei blockierter Anmeldung. Cleaner inklusive. Plaene auf {siteDomain}."
+  },
+  "/products/": {
+    "title": "Wardogs Produkte | {cheatProduct} und Tools",
+    "description": "Vergleiche {cheatProduct}, HWID Spoofer, UGC und Skin Changer: Pläne, Anforderungen und Checkout auf {siteDomain}."
+  },
+  "/ugc/": {
+    "title": "Wardogs Account Recovery | UGC",
+    "description": "Wardogs Account Recovery mit UGC-Workflows und automatisierten Einspruechen. Tarife auf {siteDomain}."
+  },
+  "/skin-changer/": {
+    "title": "Wardogs Skin Changer | Lokale Skins",
+    "description": "Wardogs Skin Changer zeigt Waffen- und Outfit-Skins clientseitig in unterstuetzten Titeln. Tarife auf {siteDomain}."
+  },
+  "/blog/": {
+    "title": "Wardogs Guides | ESP, Wallhack und Patch-Notizen",
+    "description": "Wardogs-Preset-Walkthroughs, ESP- und Aim-Tuning, Movement-Toggles und Anti-Cheat-Checklisten auf {siteDomain}."
+  },
+  "/forum/": {
+    "title": "Wardogs Forum-Archiv | Setup, ESP und Status",
+    "description": "Schreibgeschützte Wardogs-Diskussionen zu Dinos, Patches und Guides. Neue Threads und Antworten sind geschlossen."
+  },
+  "/faq/": {
+    "title": "Wardogs Wallhack FAQ | ESP, Setup und Pläne",
+    "description": "Antworten zu Wallhack und ESP auf Wardogs: Kompatibilität, Pläne, {antiCheat}-Status und Checkout-Hilfe auf {siteDomain}."
+  },
+  "/terms/": {
+    "title": "Verkaufs- und Lizenzbedingungen",
+    "description": "Erstattungsregeln, Lizenzlimits, Checkout-Lieferung und Risikohinweise für Produkte über {siteDomain}."
+  },
+  "/privacy/": {
+    "title": "Datenschutz | Analytics und Supportdaten",
+    "description": "Wie {siteDomain} Cookies, Analytics und Daten aus Support-Tickets verwendet."
+  },
+  "/about/": {
+    "title": "Über {siteDomain} und {siteName}",
+    "description": "Wer Wardogs Cheats Ressourcen, Status-Notizen und Support-Kanäle auf {siteDomain} veröffentlicht."
+  },
+  "/support/": {
+    "title": "Wardogs Cheats Support | Loader, HWID und Checkout",
+    "description": "Support für Portal-Zugang, Modulfehler und Abrechnung vor oder nach dem Kauf auf {siteDomain}."
+  }
+}

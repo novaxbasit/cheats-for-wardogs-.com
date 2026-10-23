@@ -1,0 +1,96 @@
+{
+  "eyebrow": "Magasin",
+  "title": "Astuces et utilitaires Wardogs",
+  "subtitle": "Tout ce que nous vendons pour Wardogs. Ouvrez n'importe quel produit pour connaître la liste complète des fonctionnalités, les exigences et le paiement.",
+  "trust": [
+    "Livraison instantanée",
+    "Assistance 24h/24 et 7j/7",
+    "Forfaits mensuels ou à vie",
+    "Paiement du partenaire"
+  ],
+  "featuredEyebrow": "Produit principal",
+  "from": "Depuis",
+  "priceLabel": "Prix",
+  "lifetime": "Durée de vie",
+  "perMonth": "/ mois",
+  "utilitiesEyebrow": "Utilitaires",
+  "utilitiesTitle": "Plus d'outils que nous vendons",
+  "utilitiesDesc": "Chaque utilitaire vend sa propre licence avec une page dédiée et un chemin de paiement.",
+  "chooserEyebrow": "Pas sûr?",
+  "chooserTitle": "De quel produit ai-je besoin ?",
+  "chooserDesc": "Partez de votre situation. Chaque réponse renvoie au produit conçu pour elle.",
+  "scenarios": [
+    {
+      "slug": "elite",
+      "need": "Je veux un aimbot, un joueur ESP, un objet ESP et un radar sur Wardogs.",
+      "answer": "Astuces Wardogs"
+    },
+    {
+      "slug": "hwid-spoofer",
+      "need": "Les nouveaux comptes fonctionnent sur d'autres PC mais meurent instantanément sur cette tour.",
+      "answer": "Spoofer HWID"
+    },
+    {
+      "slug": "ugc",
+      "need": "Mon profil de jeu ou social est restreint et j'ai besoin d'aide pour faire appel.",
+      "answer": "Récupération de compte UGC"
+    },
+    {
+      "slug": "skin-changer",
+      "need": "Je veux des finitions de luxe à l'écran sans payer par cosmétique.",
+      "answer": "Changeur de peau"
+    }
+  ],
+  "compareEyebrow": "Comparer",
+  "compareTitle": "Comparez les produits côte à côte",
+  "compareDesc": "Plans, livraison et exigences en un coup d'œil. Les pages produits contiennent tous les détails.",
+  "compareRows": [
+    {
+      "label": "Idéal pour",
+      "values": {
+        "elite": "Wardogs PvP et broyage de chargement",
+        "hwid-spoofer": "Machines signalées au niveau de la couche matérielle",
+        "ugc": "Restrictions de compte ou de profil",
+        "skin-changer": "Aperçus cosmétiques côté client"
+      }
+    },
+    {
+      "label": "Livraison",
+      "values": {
+        "elite": "Instantané, via le portail",
+        "hwid-spoofer": "Instantané, via le portail",
+        "ugc": "Instantané, via le portail",
+        "skin-changer": "Instantané, via le portail"
+      }
+    },
+    {
+      "label": "Fenêtres",
+      "values": {
+        "elite": "10/11, 64 bits",
+        "hwid-spoofer": "10/11, 64 bits, administrateur",
+        "ugc": "10/11, 64 bits",
+        "skin-changer": "10/11, 64 bits"
+      }
+    },
+    {
+      "label": "Paramètres de sécurité",
+      "values": {
+        "elite": "HVCI, TPM, démarrage sécurisé activé",
+        "hwid-spoofer": "HVCI, TPM, démarrage sécurisé activé",
+        "ugc": "HVCI, TPM, démarrage sécurisé activé",
+        "skin-changer": "HVCI, TPM, démarrage sécurisé activé"
+      }
+    }
+  ],
+  "ctaTitle": "Vous êtes toujours en train de décider ?",
+  "ctaDesc": "Dites au support ce qui s'est passé ou ce que vous souhaitez faire, et ils vous indiqueront le bon produit avant de payer.",
+  "ctaSupport": "Demander de l'aide",
+  "menuHeading": "Produits",
+  "menuViewAll": "Comparez tous les produits",
+  "menuTaglines": {
+    "elite": "Aimbot, joueur ESP, objet ESP et radar",
+    "hwid-spoofer": "Actualiser les ID de disque, MAC et GPU",
+    "ugc": "Modèle d'appel avec les lanceurs de litiges",
+    "skin-changer": "Skins, tenues, couteaux à l'écran"
+  }
+}

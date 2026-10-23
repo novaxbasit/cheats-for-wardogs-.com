@@ -1,0 +1,30 @@
+{
+  "name": "Cheats For Wardogs",
+  "short_name": "Cheats For Wardogs",
+  "description": "Wardogs cheats with player ESP, aimbot and visibility tools for Windows.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0d10",
+  "theme_color": "#7f3dee",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png?v=3",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/brand/brand-logo-512.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-32.png?v=3",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}

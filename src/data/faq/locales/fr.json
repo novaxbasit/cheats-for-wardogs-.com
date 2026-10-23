@@ -1,0 +1,152 @@
+[
+  {
+    "id": "status",
+    "q": "Où puis-je vérifier si les astuces Wardogs sont en ligne ?",
+    "a": "La bannière de statut en direct est sur {siteDomain}. Vérifiez toujours après une mise à jour Wardogs ou anti-triche."
+  },
+  {
+    "id": "after-buy",
+    "q": "Que se passe-t-il après mon achat ?",
+    "a": "Votre portail accorde l'accès au chargeur, au guide de configuration et à la bibliothèque de configuration via notre caisse partenaire. Suivez le guide avant de lancer Wardogs."
+  },
+  {
+    "id": "ban-risk",
+    "q": "Puis-je être banni en utilisant des astuces Wardogs tiers ?",
+    "a": "Oui, toute modification comporte des risques. les systèmes anti-triche et de signalement évoluent. Lisez l'état actuel et acceptez le risque avant utilisation."
+  },
+  {
+    "id": "platforms",
+    "q": "Quelles plateformes sont prises en charge ?",
+    "a": "Wardogs sur Windows 10/11 64 bits uniquement. macOS et Linux ne sont pas pris en charge."
+  },
+  {
+    "id": "license-move",
+    "q": "Puis-je déplacer ma licence vers un nouveau PC ?",
+    "a": "Oui, utilisez la réinitialisation HWID dans votre portail ou ouvrez un ticket d'assistance. Les limites dépendent de votre niveau."
+  },
+  {
+    "id": "products-page",
+    "q": "Où les produits et utilitaires sont-ils répertoriés ?",
+    "a": "Chaque produit est répertorié sur le <a href=\"/products/\">page produits</a> : {productList}. Chacun a sa propre page avec une liste de fonctionnalités et un paiement via notre partenaire."
+  },
+  {
+    "id": "ugc-what",
+    "q": "Comment l'UGC gère-t-il les comptes restreints ?",
+    "a": "<a href=\"/ugc/\">CGU</a> (Unban & Governance Control) crée des flux de travail d'appel et gère des dépôts de litiges automatisés pour des profils de jeu limités, des identifiants sociaux ou des vitrines de marché sur n'importe quelle plateforme."
+  },
+  {
+    "id": "ugc-guarantee",
+    "q": "L'UGC promet-il un retrait du bannissement ?",
+    "a": "Non. UGC formate les preuves et les messages, mais les examinateurs décident de chaque cas et certaines suspensions ne sont jamais levées. Aucun outil ne peut promettre un renversement."
+  },
+  {
+    "id": "ugc-vs-hwid",
+    "q": "UGC ou HWID Spoofer pour mon problème ?",
+    "a": "Les limites du profil ou du compte correspondent à <a href=\"/ugc/\">CGU</a> et à son automatisation des appels. Lorsque seul ce PC bloque les nouvelles connexions, traitez-le comme du côté matériel et utilisez plutôt <a href=\"/hwid-spoofer/\">Spoofer HWID</a>."
+  },
+  {
+    "id": "skin-visible",
+    "q": "Skin Changer ajoute-t-il des objets à mon inventaire ?",
+    "a": "Non. <a href=\"/skin-changer/\">Changeur de peau</a> dessine des produits cosmétiques uniquement sur votre client, donc les inventaires restent vides, les transactions restent impossibles et les autres joueurs ne verront probablement jamais la fin."
+  },
+  {
+    "id": "skin-games",
+    "q": "Quels titres fonctionnent avec Skin Changer ?",
+    "a": "Les jeux majeurs apparaissent sur la page produit, mais les correctifs peuvent abandonner le support. Assistance par e-mail avec votre titre avant le paiement."
+  },
+  {
+    "id": "utility-requirements",
+    "q": "De quels paramètres Windows les utilitaires ont-ils besoin ?",
+    "a": "Utilisez Windows 10 ou 11 avec HVCI, Core Isolation, TPM et Secure Boot activés dans la sécurité et le micrologiciel Windows. HWID Spoofer a également besoin de droits d'administrateur ; voir chaque page d'utilitaire pour le reste."
+  },
+  {
+    "id": "what-is-esp",
+    "q": "Qu'est-ce que Wardogs ESP ?",
+    "a": "Le joueur ESP affiche les cases, les noms, la distance, les informations sur les armes, le KDA, les lignes instantanées et les alertes de proximité. L'objet ESP couvre le butin avec des limites de distance. <a href=\"/cheats/\">{cheatProduct}</a> regroupe les options d'aimbot, de radar et de manipulation dans un seul menu."
+  },
+  {
+    "id": "esp-vs-aim",
+    "q": "Quelle est la différence entre ESP et aimbot ?",
+    "a": "Les couches ESP sont des superpositions d'informations ; ils ne bougent pas votre réticule. Aimbot, aimlock, no recoil et triggerbot sont des aides au combat sur <a href=\"/cheats/\">{cheatProduct}</a>, réglées séparément dans le chargeur."
+  },
+  {
+    "id": "elite-slots",
+    "q": "Pourquoi les emplacements Wardogs Cheats sont-ils limités ?",
+    "a": "Wardogs Cheats est une version privée avec prise en charge directe des développeurs et livraison prioritaire de correctifs. Les capuchons de fente maintiennent les cycles de patch rapides. Vérifiez la bannière d'état avant de procéder au paiement."
+  },
+  {
+    "id": "stream-proof",
+    "q": "OBS peut-il capturer ma superposition ?",
+    "a": "Le mode protégé contre le flux sur <a href=\"/cheats/\">{cheatProduct}</a> masque les superpositions d'OBS. Testez un enregistrement local avant de passer en direct."
+  },
+  {
+    "id": "build-status",
+    "q": "La version restera-t-elle en ligne après chaque patch ?",
+    "a": "Non. Le statut en ligne est affiché sur la page du produit et sur la bannière de statut au moment de l'achat uniquement. Arrêtez-vous si la version affiche une mise à jour, des tests ou hors ligne après une mise à jour anti-triche."
+  },
+  {
+    "id": "esp-safer",
+    "q": "L'ESP est-il plus discret que l'Aimbot ?",
+    "a": "L'ESP est souvent moins évident que l'aimbot au maximum, mais cela reste une triche. L'anti-triche du jeu n'ignore pas les superpositions car vous avez désactivé l'assistance à la visée."
+  },
+  {
+    "id": "hwid-when",
+    "q": "Quand HWID Spoofer est-il la bonne solution ?",
+    "a": "<a href=\"/hwid-spoofer/\">Spoofer HWID</a> traite les indicateurs d'identification matérielle lorsque d'autres PC acceptent les connexions mais que celui-ci les refuse. Il actualise les numéros de série des disques, les adresses MAC, les ID GPU et les valeurs associées, inclut un nettoyeur et ne peut pas effacer un compte qui reste sanctionné."
+  },
+  {
+    "id": "external-loader",
+    "q": "Le chargeur est-il injecté dans le dossier du jeu ?",
+    "a": "{siteName} s'exécute en externe avec la synchronisation de la configuration cloud, aucun fichier injecté dans le répertoire Wardogs. Le risque anti-triche s'applique toujours. Voir <a href=\"/cheats/\">{cheatProduct}</a>."
+  },
+  {
+    "id": "blog-vs-cheats",
+    "q": "Les codes de triche des blogs sont-ils les mêmes que les codes de triche Wardogs en direct ?",
+    "a": "Non. Les articles de blog sur les tests hors ligne ou locaux ne remplacent pas le liveloader. Les sessions Wardogs en direct utilisent <a href=\"/cheats/\">{cheatProduct}</a> lorsque le statut est en ligne."
+  },
+  {
+    "id": "blog-setup",
+    "q": "Où les guides de configuration de blog pointent-ils pour l'achat ?",
+    "a": "Les guides renvoient aux pages de produits, telles que <a href=\"/cheats/\">{cheatProduct}</a>. Le paiement s'effectue via notre partenaire, ne collez jamais de fichiers de chargement à partir de messages aléatoires."
+  },
+  {
+    "id": "who-cheats",
+    "q": "Qui devrait acheter les cheats Wardogs ?",
+    "a": "Les joueurs qui souhaitent la livraison d'un aimbot, d'un ESP de joueur, d'un ESP d'objet, d'un radar et d'un correctif prioritaire lorsque les emplacements sont ouverts sur Wardogs."
+  },
+  {
+    "id": "vac-update",
+    "q": "Que dois-je faire après une mise à jour anti-triche ?",
+    "a": "Vérifiez l'état {siteDomain}. Ne lancez pas tant que la bannière n'est pas affichée en ligne. Chargez des préréglages conservateurs après n'importe quel patch."
+  },
+  {
+    "id": "discord-help",
+    "q": "Comment puis-je obtenir de l'aide pour l'installation ?",
+    "a": "Ouvrez un ticket d'assistance après l'achat avec votre e-mail de commande, la version Windows et la version du client Wardogs. Le personnel parcourt la configuration du chargeur à partir de là."
+  },
+  {
+    "id": "pmc-scav-raids",
+    "q": "Les modules fonctionnent-ils dans tous les modes de jeu Wardogs ?",
+    "a": "Oui. <a href=\"/cheats/\">{cheatProduct}</a> inclut les configurations enregistrées dans le portail pour différents modes et cartes. Réglez les plafonds de distance ESP et visez le lissage avant votre premier match."
+  },
+  {
+    "id": "zoom-hack",
+    "q": "Quel niveau inclut le radar et l'ESP pour les objets ?",
+    "a": "Le radar et l'article ESP sont livrés avec <a href=\"/cheats/\">{cheatProduct}</a>. Utilisez-les pour suivre les poussées à proximité et les itinéraires de butin sur chaque carte."
+  },
+  {
+    "id": "trigger-bot",
+    "q": "Le produit inclut-il un robot déclencheur ?",
+    "a": "Le robot déclencheur en option est livré avec <a href=\"/cheats/\">{cheatProduct}</a> aux côtés de l'aimbot et sans recul. Commencez par des préréglages de délai conservateurs dans le portail."
+  },
+  {
+    "id": "private-cheats",
+    "q": "Que sont les astuces privées de Wardogs ?",
+    "a": "Privé signifie les clés par utilisateur et les versions maintenues, et non les packs zip publics. {siteName} expédie la livraison du portail pour la suite complète Wardogs sur une seule licence de triche."
+  },
+  {
+    "id": "faq-more",
+    "q": "Où est la FAQ complète ?",
+    "a": "Ce site comprend des FAQ d'atterrissage et des sections par page. Consultez le <a href=\"/faq/\">FAQ complète</a> pour toutes les réponses sur les produits, les astuces et les blogs, ou lisez <a href=\"/blog/\">guides de blogs</a> pour des guides approfondis."
+  }
+]
