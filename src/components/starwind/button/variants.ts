@@ -12,7 +12,8 @@ export const button = tv({
   variants: {
     variant: {
       default: "bg-foreground text-background hover:bg-foreground/90 focus-visible:ring-outline/50",
-      primary: "bg-primary text-primary-foreground hover:bg-primary/90 focus-visible:ring-primary/50",
+      primary:
+        "bg-primary text-primary-foreground hover:bg-primary/90 focus-visible:ring-primary/50 dark:bg-[var(--cta)] dark:text-[var(--cta-foreground)] dark:hover:bg-[var(--cta-hover)] dark:focus-visible:ring-white/35",
       secondary: "bg-secondary text-secondary-foreground hover:bg-[color-mix(in_oklch,var(--secondary),var(--foreground)_5%)] focus-visible:ring-secondary/50",
       outline: "dark:border-input focus-visible:ring-outline/50 bg-background dark:bg-input/30 focus-visible:border-outline hover:bg-muted dark:hover:bg-input/50 hover:text-foreground border shadow-xs",
       ghost: "hover:bg-muted hover:text-foreground focus-visible:ring-outline/50",

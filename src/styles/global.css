@@ -257,6 +257,11 @@ html.dark #why-us .why-compare-other-card :hover .icon-app {
   color: var(--primary-foreground);
 }
 
+html.dark :is(a, button).bg-primary .icon-app,
+html.dark :is(a, button).bg-primary:hover .icon-app {
+  color: var(--cta-foreground);
+}
+
 .skip-link {
   position: absolute;
   left: -9999px;
@@ -469,6 +474,49 @@ html:not(.dark) .slide-reveal-btn .slide-reveal-btn__icon .icon-app:hover {
 
 .slide-reveal-btn:active .slide-reveal-btn__icon {
   background-color: color-mix(in oklch, var(--primary) 72%, black);
+}
+
+html.dark .slide-reveal-btn {
+  border-color: var(--cta-border);
+  background-color: var(--cta);
+  color: var(--cta-foreground);
+}
+
+html.dark .slide-reveal-btn:focus-visible {
+  box-shadow: 0 0 0 3px color-mix(in oklch, var(--cta) 45%, transparent);
+}
+
+html.dark .slide-reveal-btn__text {
+  color: var(--cta-foreground);
+}
+
+html.dark .slide-reveal-btn__icon {
+  background-color: color-mix(in oklch, var(--cta) 88%, black);
+}
+
+html.dark .slide-reveal-btn .slide-reveal-btn__icon .icon-app,
+html.dark .slide-reveal-btn:hover .slide-reveal-btn__icon .icon-app,
+html.dark .slide-reveal-btn:active .slide-reveal-btn__icon .icon-app,
+html.dark .slide-reveal-btn .slide-reveal-btn__icon .icon-app:hover {
+  color: var(--cta-foreground);
+}
+
+html.dark .slide-reveal-btn:hover {
+  background-color: var(--cta-hover);
+  border-color: var(--cta-hover);
+}
+
+html.dark .slide-reveal-btn:active {
+  border-color: color-mix(in oklch, var(--cta) 82%, black);
+}
+
+html.dark .slide-reveal-btn:active .slide-reveal-btn__icon {
+  background-color: color-mix(in oklch, var(--cta) 78%, black);
+}
+
+html.dark .skip-link {
+  background: var(--cta);
+  color: var(--cta-foreground);
 }
 
 /* Deployment / setup guide (3-step cards: reference layout) */

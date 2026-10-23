@@ -67,14 +67,14 @@ const fromLabel = { en: 'From', es: 'Desde', de: 'Ab', fr: 'Dès' }[locale];
     gap: 0.375rem;
     border-radius: 0.75rem;
     padding: 0.625rem 1rem;
-    background: var(--primary);
-    color: var(--primary-foreground);
+    background: var(--cta, var(--primary));
+    color: var(--cta-foreground, var(--primary-foreground));
     font-size: 0.875rem;
     font-weight: 600;
   }
 
   .product-buy-bar__cta:hover {
-    background: var(--primary-accent);
+    background: var(--cta-hover, var(--primary-accent));
   }
 </style>
 

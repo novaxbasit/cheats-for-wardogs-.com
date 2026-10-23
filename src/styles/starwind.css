@@ -151,6 +151,10 @@
   --border: #3c2a5a;
   --input: #5e5070;
   --outline: #79629b;
+  --cta: #ffffff;
+  --cta-foreground: #0c0616;
+  --cta-hover: #f2eef6;
+  --cta-border: #ffffff;
 
   /* sidebars variables */
   --sidebar-background: #161022;
